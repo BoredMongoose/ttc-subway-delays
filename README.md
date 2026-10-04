@@ -4,6 +4,16 @@ The TTC logs every incident on the subway: when, where, a cause code, and how ma
 
 ![Delays trend](images/01_delays_trend.png)
 
+<!-- business:start -->
+## Business impact
+
+- **Question:** What's really causing Toronto's subway delays, and where should the TTC act?
+- **Key finding:** Delay minutes rose 85% since 2014, and three-quarters of the increase comes from incidents involving passengers and the public. Train breakdowns fell 12%, and Line 1's new signal system halved its signal delays.
+- **Recommendation:** Spend where the minutes went: faster response to passenger, security and track-level incidents (57% of delay minutes) and Line 1's door cameras. Line 1's results support upgrading Line 2's signals.
+- **Estimated impact:** **76%** of the increase in delays comes from passengers and the public, not the trains. Passenger and public incidents now cost about 40,600 delay minutes a year, so every 10% cut in them saves about 4,000.
+- **Case study:** [boredmongoose.github.io/projects/ttc.html](https://boredmongoose.github.io/projects/ttc.html)
+<!-- business:end -->
+
 ## Short answer
 
 | # | Finding | Evidence |
@@ -103,6 +113,15 @@ Toronto Open Data (CKAN API) ─> 23 Excel sheets + 1 CSV ─> Python cleaning �
 - **Stations at the ends of lines and interchanges** log incidents that may have started elsewhere.
 - **2026 covers January–August**, so it's left out of yearly comparisons.
 
+<!-- next:start -->
+## Next steps
+
+1. Add ridership, so delays are weighted by the number of passengers they hit, not just minutes.
+2. Get time-to-clear for each incident type, to find which response steps take longest.
+3. Repeat the signal comparison when Line 2's upgrade starts.
+4. Turn the marts into a monthly operations dashboard by line, station and cause.
+<!-- next:end -->
+
 ## Project structure
 
 ```
@@ -116,6 +135,16 @@ ttc-delays/
 └── images/
 ```
 
-Run `pip install -r requirements.txt`, then `python src/fetch_data.py`, `python src/prepare_data.py`, `python src/run_sql.py`, and open the notebook.
+## Reproduce
+
+```bash
+pip install -r requirements.txt
+python src/fetch_data.py      # delay logs and code lists from Toronto Open Data -> data/raw/
+python src/prepare_data.py    # clean lines, stations and codes -> data/processed/
+python src/run_sql.py         # SQL models + 18 data-quality checks -> data/marts/
+jupyter notebook notebooks/ttc_delays_analysis.ipynb
+```
+
+The City refreshes the data monthly, so a later download also includes months after August 2026.
 
 *Data: [TTC Subway Delay Data](https://open.toronto.ca/dataset/ttc-subway-delay-data/), City of Toronto Open Data. Contains information licensed under the Open Government Licence – Toronto. Dates of the ATC and one-person-operation roll-outs are from TTC announcements.*
