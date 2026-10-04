@@ -341,7 +341,8 @@ def main():
             "code", "description", "cause_group", "is_signal_failure", "min_delay", "min_gap", "bound", "vehicle",
             "line_raw", "day_matches_date", "source"]
     df = df[cols].sort_values(["date", "time"]).reset_index(drop=True)
-    df.to_csv(OUT / "incidents.csv.gz", index=False, date_format="%Y-%m-%d")
+    df.to_csv(OUT / "incidents.csv.gz", index=False, date_format="%Y-%m-%d",
+              compression={"method": "gzip", "mtime": 0})   # no timestamp in the file, so re-runs are byte-identical
 
     log += [("clean rows", len(df)),
             ("locations mapped to a station", int(df["location_type"].isin(["station", "between stations"]).sum())),

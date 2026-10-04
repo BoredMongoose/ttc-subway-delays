@@ -68,8 +68,8 @@ EUYRD,Yard/carhouse related problems,Train equipment,411,90,102,0.2,66
 PUSCR,Subway car radio fault,Signals & communications,392,76,80,0.2,67
 MRTO,Timeout,Crew & operations,392,48,54,0.2,67
 PUMO,Plant maintenance – other,"Track, power & stations",364,24,454,0.2,69
-PUSTP,Traction power or related components failure,"Track, power & stations",358,10,12,0.2,70
 EUAC,Air conditioning,Train equipment,358,52,55,0.2,70
+PUSTP,Traction power or related components failure,"Track, power & stations",358,10,12,0.2,70
 PUTD,Debris at track level - controllable,"Track, power & stations",358,33,45,0.2,70
 PRS,Vcc/rciu/ccr,Signals & communications,349,5,6,0.2,73
 PUSIS,Signals track weather related issues,Weather,319,24,37,0.1,74
@@ -82,8 +82,8 @@ PUTIS,Ice/snow related problem,Weather,271,30,44,0.1,80
 TUDOE,Doors open in error,Crew & operations,268,8,9,0.1,81
 ERBO,Body,Train equipment,268,1,1,0.1,81
 SUSA,Assault / sexual,Disorderly behaviour & crime,263,23,218,0.1,83
-SRDP,Disorderly patron,Disorderly behaviour & crime,252,17,29,0.1,84
 PUSZC,Signals zone controller failure,Signals & communications,252,11,11,0.1,84
+SRDP,Disorderly patron,Disorderly behaviour & crime,252,17,29,0.1,84
 PUATC,Atc signals other,Signals & communications,239,47,73,0.1,86
 SRO,Passenger other,Disorderly behaviour & crime,235,15,35,0.1,87
 MUTD,Training dept. related delays,Crew & operations,224,48,71,0.1,88
@@ -105,15 +105,15 @@ ERDO,Door problems - faulty equipment,Train equipment,152,24,24,0.1,103
 EUTR,Trucks,Train equipment,147,22,26,0.1,104
 TUOPO,Opto operator related,Door cameras (one-person trains),142,27,33,0.1,105
 MUPF,External power failure,"Track, power & stations",137,19,48,0.1,106
-EUNEA,No equipment available,Train equipment,129,27,27,0.1,107
 MUFS,Fire/smoke plan b – source external to ttc,Fire & smoke,129,10,21,0.1,107
+EUNEA,No equipment available,Train equipment,129,27,27,0.1,107
 MRWEA,Weather reports / related delays,Weather,116,3,12,0.1,109
-EUTRD,Toronto rocket cab doors,Train equipment,115,17,19,0.1,110
 EUCO,Couplers,Train equipment,115,16,17,0.1,110
+EUTRD,Toronto rocket cab doors,Train equipment,115,17,19,0.1,110
 ERDB,Disc brakes,Train equipment,111,4,4,0.1,112
 TUSET,Controls improperly blown down,Crew & operations,96,25,26,0.0,113
-TRO,Transportation department - other,Crew & operations,93,13,16,0.0,114
 PUEWZ,Electrical – work zone problems,Planned work & closures,93,6,7,0.0,114
+TRO,Transportation department - other,Crew & operations,93,13,16,0.0,114
 EUECD,Ecd/line mechanic related,Train equipment,90,14,15,0.0,116
 PUSCA,Scada related problems,Signals & communications,88,5,11,0.0,117
 MRUI,Injured or ill customer (on train) - transported,Medical emergencies,82,6,22,0.0,118
@@ -135,8 +135,8 @@ ERO,Rc&s other,Train equipment,45,1,2,0.0,133
 ERTB,Track brakes,Train equipment,40,2,3,0.0,134
 EULT,Lighting systems,Train equipment,40,10,10,0.0,134
 TRNOA,No operator immediately available,Crew & operations,37,7,7,0.0,136
-PUMEL,Any escl. or elev. incident – transported or medical aid declined,Medical emergencies,35,3,2338,0.0,137
 EUTM,Traction motors,Train equipment,35,8,8,0.0,137
+PUMEL,Any escl. or elev. incident – transported or medical aid declined,Medical emergencies,35,3,2338,0.0,137
 MRPLB,Fire/smoke plan b,Fire & smoke,34,2,2,0.0,139
 PUEME,Electrical – maintenance error,"Track, power & stations",28,6,8,0.0,140
 ERNT,Equipment - no trouble found,Train equipment,26,3,5,0.0,141
@@ -151,37 +151,37 @@ TRNIP,Operator not in position,Crew & operations,13,3,3,0.0,149
 TUUR,Unauthorized train reversal by operator,Crew & operations,13,3,3,0.0,149
 MUESA,No operator/crew available – e.s.a. related,Crew & operations,12,2,4,0.0,151
 ERLV,Low voltage,Train equipment,11,2,2,0.0,152
-MRSAN,Unsanitary vehicle,"Alarms, doors & clean-ups",10,2,2,0.0,153
 ERTR,Trucks,Train equipment,10,2,2,0.0,153
+MRSAN,Unsanitary vehicle,"Alarms, doors & clean-ups",10,2,2,0.0,153
 TRSET,Train controls improperly shut down,Crew & operations,8,1,1,0.0,155
 MRIE,Injured employee,Crew & operations,7,1,2,0.0,156
 PUSIO,Smart io failure,Signals & communications,7,2,6,0.0,156
 MRDD,Door problems - debris related,"Alarms, doors & clean-ups",7,2,2,0.0,156
-MRPAA,Passenger assistance alarm activated - no trouble found,"Alarms, doors & clean-ups",6,2,26,0.0,159
-PRSW,Switch related,Signals & communications,6,1,1,0.0,159
 ERRA,Radio,Train equipment,6,1,1,0.0,159
+PRSW,Switch related,Signals & communications,6,1,1,0.0,159
+MRPAA,Passenger assistance alarm activated - no trouble found,"Alarms, doors & clean-ups",6,2,26,0.0,159
 ERNEA,No equipment available,Train equipment,5,1,1,0.0,162
-MUCP,Closures - planned,Planned work & closures,4,1,238,0.0,163
 PUMST,Any stairway incident – transported or medical aid declined,Medical emergencies,4,1,921,0.0,163
-TUST,Storm trains,Crew & operations,4,1,40,0.0,163
+MUCP,Closures - planned,Planned work & closures,4,1,238,0.0,163
 PRO,Other,"Track, power & stations",4,1,1,0.0,163
 MRPLC,Fire/smoke plan c,Fire & smoke,4,1,2,0.0,163
-MRFS,Fire/smoke plan b - source external to ttc,Fire & smoke,3,1,1,0.0,168
+TUST,Storm trains,Crew & operations,4,1,40,0.0,163
 EUHV,High voltage,Train equipment,3,1,1,0.0,168
-MRUIR,Injured or ill customer (on train) - medical aid refused,Medical emergencies,3,1,7,0.0,168
+MRFS,Fire/smoke plan b - source external to ttc,Fire & smoke,3,1,1,0.0,168
 ERTL,Trainline system,Train equipment,3,1,1,0.0,168
-SUCOL,Collector booth hold-up alarm activated,Disorderly behaviour & crime,0,0,1,0.0,172
-TRST,Storm trains,Crew & operations,0,0,8,0.0,172
-PREL,Escalator/elevator incident,Medical emergencies,0,0,19,0.0,172
-XXXXX,(not documented),Other & unclassified,0,0,10,0.0,172
-MUGD,Miscellaneous general subway line delays -,Other & unclassified,0,0,89,0.0,172
-TUNCA,No collector available,Crew & operations,0,0,1173,0.0,172
-TRNCA,(not documented),Crew & operations,0,0,9,0.0,172
-MRCL,Divisional clerk related,Crew & operations,0,0,1,0.0,172
+MRUIR,Injured or ill customer (on train) - medical aid refused,Medical emergencies,3,1,7,0.0,168
 MUNCA,No collector available – non esa related,Crew & operations,0,0,2159,0.0,172
+TUNCA,No collector available,Crew & operations,0,0,1173,0.0,172
+PRST,Station stairway incident,Medical emergencies,0,0,2,0.0,172
+TRNCA,(not documented),Crew & operations,0,0,9,0.0,172
+XXXXX,(not documented),Other & unclassified,0,0,10,0.0,172
+SUCOL,Collector booth hold-up alarm activated,Disorderly behaviour & crime,0,0,1,0.0,172
+MUGD,Miscellaneous general subway line delays -,Other & unclassified,0,0,89,0.0,172
+SRAE,Assault / employee involved,Disorderly behaviour & crime,0,0,2,0.0,172
+TRST,Storm trains,Crew & operations,0,0,8,0.0,172
 PUTNT,T&s related problem – no trouble found,"Track, power & stations",0,0,1,0.0,172
 MUODC,Overhead door contacted,Other & unclassified,0,0,1,0.0,172
-SRAE,Assault / employee involved,Disorderly behaviour & crime,0,0,2,0.0,172
-PUCBI,Central logic controller failure,Signals & communications,0,0,1,0.0,172
 PUDCS,Data communications system failure,Signals & communications,0,0,1,0.0,172
-PRST,Station stairway incident,Medical emergencies,0,0,2,0.0,172
+PUCBI,Central logic controller failure,Signals & communications,0,0,1,0.0,172
+PREL,Escalator/elevator incident,Medical emergencies,0,0,19,0.0,172
+MRCL,Divisional clerk related,Crew & operations,0,0,1,0.0,172
