@@ -1,0 +1,48 @@
+line_name,atc_period,code,description,events,delays,delay_minutes
+Line 1,after,PUSAC,Signals axle counter block failure,299,204,1257
+Line 1,after,PUATC,Atc signals other,98,59,298
+Line 1,after,PUSSW,Track switch failure – s/e/c related problem,72,62,1508
+Line 1,after,PUSO,Signals – other,21,10,102
+Line 1,after,PUSZC,Signals zone controller failure,12,12,272
+Line 1,after,PUCSS,Central office signalling system (css),11,6,85
+Line 1,after,PUSIO,Smart io failure,9,5,27
+Line 1,after,PUSI,Signal or related components failure,8,6,30
+Line 1,after,PUSNT,Signal problem – no trouble found,7,4,20
+Line 1,after,PUSTC,Signals - track circuit problems,3,1,3
+Line 1,after,PUSTS,Signals – train stops,3,2,48
+Line 1,after,PUDCS,Data communications system failure,2,0,0
+Line 1,after,PUTTC,Track circuit problems re:defective bolts/bonding,2,2,15
+Line 1,after,PUCSC,Signal control,2,0,0
+Line 1,after,PUSLC,Signals line controller failure,1,0,0
+Line 1,after,PUCBI,Central logic controller failure,1,0,0
+Line 1,after,PUTSC,Signals–control problem–track,1,0,0
+Line 1,before,PUSTS,Signals – train stops,311,127,596
+Line 1,before,PUSI,Signal or related components failure,271,81,698
+Line 1,before,PUSNT,Signal problem – no trouble found,206,55,251
+Line 1,before,PUSO,Signals – other,164,71,586
+Line 1,before,PUSTC,Signals - track circuit problems,128,66,313
+Line 1,before,PUSSW,Track switch failure – s/e/c related problem,42,25,274
+Line 1,before,PUTTC,Track circuit problems re:defective bolts/bonding,15,7,43
+Line 1,before,PUCSC,Signal control,15,6,74
+Line 1,before,PUCSS,Central office signalling system (css),7,2,58
+Line 1,before,PUTSC,Signals–control problem–track,7,4,16
+Line 2,after,PUSTS,Signals – train stops,254,142,855
+Line 2,after,PUSI,Signal or related components failure,211,86,1109
+Line 2,after,PUSTC,Signals - track circuit problems,161,87,543
+Line 2,after,PUSSW,Track switch failure – s/e/c related problem,108,81,1756
+Line 2,after,PUSNT,Signal problem – no trouble found,85,38,169
+Line 2,after,PUSO,Signals – other,67,36,297
+Line 2,after,PUCSC,Signal control,47,26,460
+Line 2,after,PUCSS,Central office signalling system (css),29,11,116
+Line 2,after,PUTTC,Track circuit problems re:defective bolts/bonding,28,13,84
+Line 2,after,PUTSC,Signals–control problem–track,27,12,82
+Line 2,before,PUSTS,Signals – train stops,201,60,254
+Line 2,before,PUSI,Signal or related components failure,190,56,436
+Line 2,before,PUSNT,Signal problem – no trouble found,150,72,347
+Line 2,before,PUSTC,Signals - track circuit problems,141,74,331
+Line 2,before,PUSO,Signals – other,95,28,199
+Line 2,before,PUSSW,Track switch failure – s/e/c related problem,53,29,347
+Line 2,before,PUTTC,Track circuit problems re:defective bolts/bonding,15,7,43
+Line 2,before,PUTSC,Signals–control problem–track,14,6,22
+Line 2,before,PUCSC,Signal control,12,2,8
+Line 2,before,PUCSS,Central office signalling system (css),8,4,30

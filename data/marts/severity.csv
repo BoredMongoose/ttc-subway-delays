@@ -1,0 +1,7 @@
+bucket,bucket_order,incidents,delay_minutes,share_of_incidents_pct,share_of_minutes_pct
+0 (no delay),0,48354,0,64.4,0.0
+1-4 min,1,11466,39251,15.3,18.4
+5-9 min,2,10117,62517,13.5,29.3
+10-29 min,3,4468,67681,6.0,31.8
+30-59 min,4,470,18096,0.6,8.5
+60+ min,5,198,25622,0.3,12.0

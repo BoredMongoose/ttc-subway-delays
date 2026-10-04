@@ -1,0 +1,155 @@
+year,cause_group,cause_family,delay_minutes,delays
+2014,Train equipment,"Trains, track & signals",6482,1215
+2014,Crew & operations,Crew & operations,5317,1167
+2014,Medical emergencies,Passengers & public,4999,771
+2014,Disorderly behaviour & crime,Passengers & public,4686,781
+2014,Fire & smoke,"Fire, weather & works",3734,245
+2014,"Alarms, doors & clean-ups",Passengers & public,3177,726
+2014,People on the tracks,Passengers & public,2978,120
+2014,Signals & communications,"Trains, track & signals",2593,411
+2014,Other & unclassified,Other & unclassified,2328,535
+2014,"Track, power & stations","Trains, track & signals",2290,118
+2014,Weather,"Fire, weather & works",2176,157
+2014,Planned work & closures,"Fire, weather & works",409,32
+2015,Train equipment,"Trains, track & signals",7107,1096
+2015,Disorderly behaviour & crime,Passengers & public,4523,701
+2015,Medical emergencies,Passengers & public,4514,684
+2015,Crew & operations,Crew & operations,3984,862
+2015,Fire & smoke,"Fire, weather & works",3132,205
+2015,People on the tracks,Passengers & public,2511,126
+2015,"Alarms, doors & clean-ups",Passengers & public,2333,516
+2015,Signals & communications,"Trains, track & signals",2106,295
+2015,Weather,"Fire, weather & works",1941,71
+2015,Other & unclassified,Other & unclassified,1661,326
+2015,"Track, power & stations","Trains, track & signals",1434,157
+2015,Planned work & closures,"Fire, weather & works",250,19
+2016,Train equipment,"Trains, track & signals",6097,1125
+2016,Medical emergencies,Passengers & public,5997,875
+2016,Disorderly behaviour & crime,Passengers & public,5205,822
+2016,Crew & operations,Crew & operations,4568,991
+2016,Fire & smoke,"Fire, weather & works",3770,198
+2016,People on the tracks,Passengers & public,3097,139
+2016,"Alarms, doors & clean-ups",Passengers & public,2569,569
+2016,Signals & communications,"Trains, track & signals",2210,289
+2016,"Track, power & stations","Trains, track & signals",2012,155
+2016,Other & unclassified,Other & unclassified,1576,354
+2016,Door cameras (one-person trains),"Trains, track & signals",491,97
+2016,Planned work & closures,"Fire, weather & works",446,43
+2016,Weather,"Fire, weather & works",237,41
+2017,Train equipment,"Trains, track & signals",5966,1062
+2017,Disorderly behaviour & crime,Passengers & public,5519,820
+2017,Medical emergencies,Passengers & public,5247,790
+2017,Crew & operations,Crew & operations,4758,943
+2017,People on the tracks,Passengers & public,4156,173
+2017,"Alarms, doors & clean-ups",Passengers & public,2999,686
+2017,Signals & communications,"Trains, track & signals",2217,304
+2017,Fire & smoke,"Fire, weather & works",1720,107
+2017,Other & unclassified,Other & unclassified,1490,276
+2017,"Track, power & stations","Trains, track & signals",1464,143
+2017,Planned work & closures,"Fire, weather & works",616,77
+2017,Weather,"Fire, weather & works",281,43
+2017,Door cameras (one-person trains),"Trains, track & signals",143,27
+2018,Disorderly behaviour & crime,Passengers & public,8211,1031
+2018,Crew & operations,Crew & operations,7897,1733
+2018,Train equipment,"Trains, track & signals",6407,1161
+2018,Medical emergencies,Passengers & public,6277,916
+2018,People on the tracks,Passengers & public,4231,175
+2018,"Alarms, doors & clean-ups",Passengers & public,3860,881
+2018,Signals & communications,"Trains, track & signals",2603,395
+2018,Planned work & closures,"Fire, weather & works",2381,277
+2018,Fire & smoke,"Fire, weather & works",1717,86
+2018,Weather,"Fire, weather & works",1616,81
+2018,"Track, power & stations","Trains, track & signals",1556,135
+2018,Other & unclassified,Other & unclassified,1386,267
+2018,Door cameras (one-person trains),"Trains, track & signals",125,27
+2019,Crew & operations,Crew & operations,7332,1562
+2019,Medical emergencies,Passengers & public,6842,911
+2019,Disorderly behaviour & crime,Passengers & public,6838,1016
+2019,Train equipment,"Trains, track & signals",5427,1053
+2019,People on the tracks,Passengers & public,3803,167
+2019,"Alarms, doors & clean-ups",Passengers & public,3358,725
+2019,Planned work & closures,"Fire, weather & works",2611,428
+2019,Signals & communications,"Trains, track & signals",2335,298
+2019,Fire & smoke,"Fire, weather & works",2248,88
+2019,"Track, power & stations","Trains, track & signals",1852,102
+2019,Other & unclassified,Other & unclassified,1429,279
+2019,Weather,"Fire, weather & works",1331,108
+2019,Door cameras (one-person trains),"Trains, track & signals",87,16
+2020,Crew & operations,Crew & operations,11180,2582
+2020,Disorderly behaviour & crime,Passengers & public,7397,1163
+2020,People on the tracks,Passengers & public,6222,244
+2020,Train equipment,"Trains, track & signals",5173,828
+2020,Medical emergencies,Passengers & public,3747,495
+2020,Signals & communications,"Trains, track & signals",3325,238
+2020,"Alarms, doors & clean-ups",Passengers & public,2473,526
+2020,Planned work & closures,"Fire, weather & works",2452,366
+2020,Other & unclassified,Other & unclassified,1661,216
+2020,Fire & smoke,"Fire, weather & works",1393,65
+2020,"Track, power & stations","Trains, track & signals",1311,112
+2020,Weather,"Fire, weather & works",104,18
+2020,Door cameras (one-person trains),"Trains, track & signals",75,15
+2021,Disorderly behaviour & crime,Passengers & public,11779,1535
+2021,Crew & operations,Crew & operations,8577,1908
+2021,People on the tracks,Passengers & public,7216,349
+2021,Train equipment,"Trains, track & signals",4558,799
+2021,Medical emergencies,Passengers & public,4242,504
+2021,Planned work & closures,"Fire, weather & works",3948,530
+2021,"Alarms, doors & clean-ups",Passengers & public,3598,755
+2021,Signals & communications,"Trains, track & signals",3414,290
+2021,Other & unclassified,Other & unclassified,1712,242
+2021,"Track, power & stations","Trains, track & signals",1452,114
+2021,Door cameras (one-person trains),"Trains, track & signals",1431,284
+2021,Fire & smoke,"Fire, weather & works",1390,42
+2021,Weather,"Fire, weather & works",163,20
+2022,Disorderly behaviour & crime,Passengers & public,16083,1716
+2022,People on the tracks,Passengers & public,9720,479
+2022,Crew & operations,Crew & operations,9676,1852
+2022,"Alarms, doors & clean-ups",Passengers & public,5985,1138
+2022,Planned work & closures,"Fire, weather & works",5353,807
+2022,Medical emergencies,Passengers & public,5337,618
+2022,Train equipment,"Trains, track & signals",5276,809
+2022,Signals & communications,"Trains, track & signals",3979,278
+2022,Door cameras (one-person trains),"Trains, track & signals",3496,748
+2022,Fire & smoke,"Fire, weather & works",2951,78
+2022,"Track, power & stations","Trains, track & signals",2276,112
+2022,Other & unclassified,Other & unclassified,1835,270
+2022,Weather,"Fire, weather & works",1127,67
+2023,Disorderly behaviour & crime,Passengers & public,18651,2099
+2023,People on the tracks,Passengers & public,9117,462
+2023,"Alarms, doors & clean-ups",Passengers & public,7818,1442
+2023,Medical emergencies,Passengers & public,6481,761
+2023,Train equipment,"Trains, track & signals",6076,791
+2023,Crew & operations,Crew & operations,5259,943
+2023,Door cameras (one-person trains),"Trains, track & signals",3507,675
+2023,Signals & communications,"Trains, track & signals",3130,245
+2023,Planned work & closures,"Fire, weather & works",2579,368
+2023,Fire & smoke,"Fire, weather & works",2062,65
+2023,"Track, power & stations","Trains, track & signals",1652,135
+2023,Other & unclassified,Other & unclassified,1642,237
+2023,Weather,"Fire, weather & works",172,12
+2024,Disorderly behaviour & crime,Passengers & public,18334,2253
+2024,Medical emergencies,Passengers & public,9018,1018
+2024,"Alarms, doors & clean-ups",Passengers & public,8332,1676
+2024,People on the tracks,Passengers & public,8050,436
+2024,Crew & operations,Crew & operations,5740,1059
+2024,Train equipment,"Trains, track & signals",5666,750
+2024,Door cameras (one-person trains),"Trains, track & signals",5191,882
+2024,Signals & communications,"Trains, track & signals",3129,349
+2024,"Track, power & stations","Trains, track & signals",3091,249
+2024,Fire & smoke,"Fire, weather & works",2647,67
+2024,Planned work & closures,"Fire, weather & works",2586,325
+2024,Other & unclassified,Other & unclassified,1831,305
+2024,Weather,"Fire, weather & works",651,23
+2025,Disorderly behaviour & crime,Passengers & public,14351,1883
+2025,Medical emergencies,Passengers & public,8920,1031
+2025,"Alarms, doors & clean-ups",Passengers & public,7035,1434
+2025,Crew & operations,Crew & operations,6934,1256
+2025,"Track, power & stations","Trains, track & signals",5651,484
+2025,People on the tracks,Passengers & public,5607,333
+2025,Train equipment,"Trains, track & signals",5546,854
+2025,Signals & communications,"Trains, track & signals",4394,416
+2025,Door cameras (one-person trains),"Trains, track & signals",3436,629
+2025,Weather,"Fire, weather & works",3084,209
+2025,Planned work & closures,"Fire, weather & works",2508,214
+2025,Other & unclassified,Other & unclassified,1695,295
+2025,Fire & smoke,"Fire, weather & works",1594,54

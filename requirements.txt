@@ -1,0 +1,9 @@
+pandas
+numpy
+duckdb
+openpyxl
+requests
+matplotlib
+statsmodels
+jupyter
+jupytext

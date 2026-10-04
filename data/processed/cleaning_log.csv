@@ -1,0 +1,10 @@
+step,rows
+raw rows,267842
+exact duplicates removed,271
+line filled from station,550
+clean rows,267571
+locations mapped to a station,251754
+locations unknown,292
+codes not in published lists,1634
+raw location strings,2221
+raw line spellings,111

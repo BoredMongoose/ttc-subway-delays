@@ -1,0 +1,76 @@
+station,delay_minutes,delays,minutes_per_year,top_cause,top_cause_share_pct,rank
+Bloor-Yonge,9794,1376,3265.0,Disorderly behaviour & crime,32.1,1
+Kennedy,7271,1072,2424.0,Disorderly behaviour & crime,27.9,2
+Eglinton,7002,880,2334.0,Disorderly behaviour & crime,18.1,3
+St George,6848,915,2283.0,Disorderly behaviour & crime,25.9,4
+Kipling,6541,1017,2180.0,Disorderly behaviour & crime,27.5,5
+Sheppard-Yonge,6393,702,2131.0,Disorderly behaviour & crime,22.5,6
+Finch,5700,910,1900.0,Disorderly behaviour & crime,28.6,7
+Wilson,5318,825,1773.0,Planned work & closures,12.2,8
+Sheppard West,4873,414,1624.0,Weather,19.9,9
+Davisville,4864,610,1621.0,Disorderly behaviour & crime,22.3,10
+Warden,4844,485,1615.0,People on the tracks,17.0,11
+Spadina,4754,547,1585.0,Disorderly behaviour & crime,36.3,12
+Union,4665,655,1555.0,Disorderly behaviour & crime,23.5,13
+Lawrence,4348,495,1449.0,Disorderly behaviour & crime,23.6,14
+TMU (Dundas),3865,515,1288.0,Disorderly behaviour & crime,25.4,15
+York Mills,3822,442,1274.0,Disorderly behaviour & crime,25.1,16
+St Clair,3725,528,1242.0,Disorderly behaviour & crime,24.1,17
+Rosedale,3595,403,1198.0,People on the tracks,21.8,18
+Yorkdale,3441,330,1147.0,Door cameras (one-person trains),24.2,19
+Victoria Park,3329,404,1110.0,Disorderly behaviour & crime,24.1,20
+Keele,3328,422,1109.0,Disorderly behaviour & crime,22.8,21
+Broadview,3305,305,1102.0,Train equipment,29.7,22
+Vaughan Metropolitan Centre,3256,579,1085.0,Crew & operations,20.2,23
+Islington,3199,298,1066.0,Fire & smoke,26.5,24
+Wellesley,3129,413,1043.0,Disorderly behaviour & crime,30.1,25
+College,3112,440,1037.0,Disorderly behaviour & crime,32.7,26
+St Clair West,2907,412,969.0,Disorderly behaviour & crime,28.2,27
+King,2905,330,968.0,"Track, power & stations",21.5,28
+Coxwell,2861,446,954.0,Crew & operations,26.7,29
+Greenwood,2792,394,931.0,Crew & operations,20.1,30
+Don Mills,2791,276,930.0,Disorderly behaviour & crime,28.2,31
+Summerhill,2665,322,888.0,Disorderly behaviour & crime,29.6,32
+Ossington,2589,282,863.0,Disorderly behaviour & crime,33.7,33
+Cedarvale (Eglinton West),2523,298,841.0,Disorderly behaviour & crime,34.0,34
+Queen,2515,317,838.0,Disorderly behaviour & crime,32.8,35
+Museum,2429,229,810.0,"Track, power & stations",22.4,36
+North York Centre,2315,343,772.0,Door cameras (one-person trains),30.7,37
+Donlands,2266,346,755.0,Train equipment,19.7,38
+Lawrence West,2185,279,728.0,Disorderly behaviour & crime,25.4,39
+Main Street,2169,256,723.0,Disorderly behaviour & crime,29.2,40
+Jane,2090,200,697.0,People on the tracks,26.2,41
+Sherbourne,2058,226,686.0,Disorderly behaviour & crime,41.6,42
+Castle Frank,2045,208,682.0,People on the tracks,32.1,43
+St Andrew,2041,231,680.0,Disorderly behaviour & crime,20.0,44
+Old Mill,2021,197,674.0,Disorderly behaviour & crime,22.4,45
+Dupont,2006,267,669.0,Disorderly behaviour & crime,32.0,46
+Pape,2000,251,667.0,Disorderly behaviour & crime,36.4,47
+Dundas West,1908,248,636.0,Disorderly behaviour & crime,29.1,48
+St Patrick,1899,205,633.0,People on the tracks,30.5,49
+Woodbine,1829,192,610.0,Disorderly behaviour & crime,24.5,50
+Lansdowne,1824,172,608.0,People on the tracks,34.5,51
+Osgoode,1774,249,591.0,Door cameras (one-person trains),25.2,52
+Bay,1749,218,583.0,Disorderly behaviour & crime,33.8,53
+Royal York,1658,204,553.0,Disorderly behaviour & crime,25.0,54
+Bathurst,1656,207,552.0,Disorderly behaviour & crime,40.0,55
+Christie,1650,222,550.0,Disorderly behaviour & crime,36.2,56
+Highway 407,1584,198,528.0,Door cameras (one-person trains),31.8,57
+McCowan,1554,119,518.0,Train equipment,44.4,58
+Chester,1545,204,515.0,Disorderly behaviour & crime,27.4,59
+Finch West,1542,193,514.0,People on the tracks,18.7,60
+Dufferin,1526,193,509.0,Disorderly behaviour & crime,39.8,61
+Queen's Park,1500,237,500.0,Disorderly behaviour & crime,26.1,62
+Downsview Park,1456,204,485.0,Door cameras (one-person trains),24.7,63
+High Park,1372,179,457.0,Disorderly behaviour & crime,20.7,64
+Glencairn,1348,186,449.0,Disorderly behaviour & crime,33.3,65
+Runnymede,1219,133,406.0,Disorderly behaviour & crime,34.5,66
+Pioneer Village,1072,142,357.0,Door cameras (one-person trains),25.1,67
+Leslie,1071,138,357.0,Door cameras (one-person trains),26.3,68
+Lawrence East,1009,56,336.0,Signals & communications,41.6,69
+Bayview,986,122,329.0,Door cameras (one-person trains),20.1,70
+York University,853,116,284.0,Disorderly behaviour & crime,28.0,71
+Ellesmere,605,21,202.0,Train equipment,74.5,72
+Bessarion,556,71,185.0,Crew & operations,48.4,73
+Midland,463,31,154.0,Train equipment,82.7,74
+Scarborough Centre,176,18,59.0,Disorderly behaviour & crime,47.7,75

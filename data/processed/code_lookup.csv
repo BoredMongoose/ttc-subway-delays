@@ -1,0 +1,235 @@
+code,description,source,cause_group,is_signal_failure
+ERAC,Air conditioning,2014 code list,Train equipment,False
+ERBO,Body,2014 code list,Train equipment,False
+ERCD,Consequential delay (2nd delay same fault),2014 code list,Train equipment,False
+ERCO,Couplers,2014 code list,Train equipment,False
+ERDB,Disc brakes,2014 code list,Train equipment,False
+ERDO,Door problems - faulty equipment,2014 code list,Train equipment,False
+ERHV,High voltage,2014 code list,Train equipment,False
+ERLT,Lighting system,2014 code list,Train equipment,False
+ERLV,Low voltage,2014 code list,Train equipment,False
+ERME,Rc&s maintenance error - (human),2014 code list,Train equipment,False
+ERNEA,No equipment available,2014 code list,Train equipment,False
+ERNT,Equipment - no trouble found,2014 code list,Train equipment,False
+ERO,Rc&s other,2014 code list,Train equipment,False
+ERPR,Propulsion system,2014 code list,Train equipment,False
+ERRA,Radio,2014 code list,Train equipment,False
+ERTB,Track brakes,2014 code list,Train equipment,False
+ERTC,Train control - vobc,2014 code list,Train equipment,False
+ERTL,Trainline system,2014 code list,Train equipment,False
+ERTO,(not documented),not in published lists,Train equipment,False
+ERTR,Trucks,2014 code list,Train equipment,False
+ERVE,Vehicle,2014 code list,Train equipment,False
+ERWA,Warning alarm systems,2014 code list,Train equipment,False
+ERWS,Wind shield,2014 code list,Train equipment,False
+ETCA,(not documented),not in published lists,Train equipment,False
+EUAC,Air conditioning,2025 code list,Train equipment,False
+EUAL,Alternating current,2025 code list,Train equipment,False
+EUATC,Atc rc&s equipment,2025 code list,Train equipment,False
+EUBK,Brakes,2025 code list,Train equipment,False
+EUBO,Body,2025 code list,Train equipment,False
+EUCA,Compressed air,2025 code list,Train equipment,False
+EUCD,Rc&s consequential delay (second delay same fault – no intervention),2025 code list,Train equipment,False
+EUCH,Chopper control,2025 code list,Train equipment,False
+EUCO,Couplers,2025 code list,Train equipment,False
+EUDO,Door problems re:faulty equipment,2025 code list,Train equipment,False
+EUECD,Ecd/line mechanic related,2025 code list,Train equipment,False
+EUHV,High voltage,2025 code list,Train equipment,False
+EULT,Lighting systems,2025 code list,Train equipment,False
+EULV,Low voltage,2025 code list,Train equipment,False
+EUME,Rc&s maintenance error (human error - no equip.fault),2025 code list,Train equipment,False
+EUNEA,No equipment available,2025 code list,Train equipment,False
+EUNT,Equipment – no trouble found,2025 code list,Train equipment,False
+EUO,Rc&s other,2025 code list,Train equipment,False
+EUOE,"Rc&s operator error (signal violation, platform overshoot, etc)",2025 code list,Train equipment,False
+EUOPO,Opto (rc&s) non-train door monitoring,2025 code list,Door cameras (one-person trains),False
+EUPI,T-1 propulsion system,2025 code list,Train equipment,False
+EUSC,Speed control equipment,2025 code list,Train equipment,False
+EUTAC,(not documented),not in published lists,Train equipment,False
+EUTL,Trainline system,2025 code list,Train equipment,False
+EUTM,Traction motors,2025 code list,Train equipment,False
+EUTR,Trucks,2025 code list,Train equipment,False
+EUTRD,Toronto rocket cab doors,2025 code list,Train equipment,False
+EUVA,Warning/alarm system/passenger security system,2025 code list,Train equipment,False
+EUVE,Work vehicle,2025 code list,Train equipment,False
+EUYRD,Yard/carhouse related problems,2025 code list,Train equipment,False
+MFO,(not documented),not in published lists,Other & unclassified,False
+MRCL,Divisional clerk related,2014 code list,Crew & operations,False
+MRD,Door problems - passenger related,2014 code list,"Alarms, doors & clean-ups",False
+MRDD,Door problems - debris related,2014 code list,"Alarms, doors & clean-ups",False
+MRESA,No operator immediately available,2014 code list,Crew & operations,False
+MRFS,Fire/smoke plan b - source external to ttc,2014 code list,Fire & smoke,False
+MRIE,Injured employee,2014 code list,Crew & operations,False
+MRLD,Labour dispute - subway,2014 code list,Crew & operations,False
+MRNOA,No operator immediately available - not e.s.a. related,2014 code list,Crew & operations,False
+MRO,Miscellaneous other,2014 code list,Other & unclassified,False
+MRPAA,Passenger assistance alarm activated - no trouble found,2014 code list,"Alarms, doors & clean-ups",False
+MRPLA,Fire/smoke plan a,2014 code list,Fire & smoke,False
+MRPLB,Fire/smoke plan b,2014 code list,Fire & smoke,False
+MRPLC,Fire/smoke plan c,2014 code list,Fire & smoke,False
+MRPR1,Priority one - train in contact with person,2014 code list,People on the tracks,False
+MRSAN,Unsanitary vehicle,2014 code list,"Alarms, doors & clean-ups",False
+MRSTM,Scheduled track maintenance,2014 code list,Planned work & closures,False
+MRTO,Timeout,2014 code list,Crew & operations,False
+MRUI,Injured or ill customer (on train) - transported,2014 code list,Medical emergencies,False
+MRUIR,Injured or ill customer (on train) - medical aid refused,2014 code list,Medical emergencies,False
+MRWEA,Weather reports / related delays,2014 code list,Weather,False
+MTAFR,(not documented),not in published lists,Other & unclassified,False
+MTO,(not documented),not in published lists,Other & unclassified,False
+MTUI,(not documented),not in published lists,Other & unclassified,False
+MUATC,Atc project,2025 code list,Planned work & closures,False
+MUBIO,(not documented),not in published lists,Other & unclassified,False
+MUCL,Divisional clerk related,2025 code list,Crew & operations,False
+MUCP,Closures - planned,2025 code list,Planned work & closures,False
+MUCSA,No collector available- e.s.a. related,2025 code list,Crew & operations,False
+MUD,Door problems – passenger related,2025 code list,"Alarms, doors & clean-ups",False
+MUDD,Door problems – debris related,2025 code list,"Alarms, doors & clean-ups",False
+MUEC,Engineeering & construction related,2025 code list,Planned work & closures,False
+MUESA,No operator/crew available – e.s.a. related,2025 code list,Crew & operations,False
+MUFL,(not documented),not in published lists,Other & unclassified,False
+MUFM,“force majeure” – delay over 90 min. re: weather or major event,2025 code list,Weather,False
+MUFS,Fire/smoke plan b – source external to ttc,2025 code list,Fire & smoke,False
+MUGD,Miscellaneous general subway line delays -,2025 code list,Other & unclassified,False
+MUI,Injured/ill customer on train – transported,2025 code list,Medical emergencies,False
+MUIE,Injured employees,2025 code list,Crew & operations,False
+MUINF,(not documented),not in published lists,Other & unclassified,False
+MUIR,Injured/ill customer on train – medical aid refused,2025 code list,Medical emergencies,False
+MUIRS,Injured/ill customer in station – medical aid refused,2025 code list,Medical emergencies,False
+MUIS,Injured/ill customer in station - transported,2025 code list,Medical emergencies,False
+MUNCA,No collector available – non esa related,2025 code list,Crew & operations,False
+MUNOA,No operator available – non esa related,2025 code list,Crew & operations,False
+MUO,Miscellaneous other,2025 code list,Other & unclassified,False
+MUODC,Overhead door contacted,2025 code list,Other & unclassified,False
+MUPAA,Paa – no trouble found,2025 code list,"Alarms, doors & clean-ups",False
+MUPF,External power failure,2025 code list,"Track, power & stations",False
+MUPLA,Fire/smoke plan a,2025 code list,Fire & smoke,False
+MUPLB,Fire/smoke plan b – source ttc (track level),2025 code list,Fire & smoke,False
+MUPLC,Fire smoke plan c,2025 code list,Fire & smoke,False
+MUPR1,Priority one – train in contact with person,2025 code list,People on the tracks,False
+MUSAN,Unsanitary vehicle,2025 code list,"Alarms, doors & clean-ups",False
+MUSC,Si speed control,2025 code list,Other & unclassified,False
+MUSE,(not documented),not in published lists,Other & unclassified,False
+MUTD,Training dept. related delays,2025 code list,Crew & operations,False
+MUTO,Miscellaneous transportation other (employee non-chargeable),2025 code list,Crew & operations,False
+MUWEA,Weather reports / related problems,2025 code list,Weather,False
+MUWR,Work refusal,2025 code list,Crew & operations,False
+PREL,Escalator/elevator incident,2014 code list,Medical emergencies,False
+PRO,Other,2014 code list,"Track, power & stations",False
+PRS,Vcc/rciu/ccr,2014 code list,Signals & communications,False
+PRSA,Axle counter related,2014 code list,Signals & communications,False
+PRSL,Loop related failures,2014 code list,Signals & communications,False
+PRSO,Signals other,2014 code list,Signals & communications,False
+PRSP,Signals power supply related,2014 code list,Signals & communications,False
+PRST,Station stairway incident,2014 code list,Medical emergencies,False
+PRSW,Switch related,2014 code list,Signals & communications,False
+PRTST,Signals - train stops,2014 code list,Signals & communications,False
+PRW,Rail defect/fastenings/power rail,2014 code list,"Track, power & stations",False
+PUATC,Atc signals other,2025 code list,Signals & communications,True
+PUCBI,Central logic controller failure,2025 code list,Signals & communications,True
+PUCSC,Signal control,2025 code list,Signals & communications,True
+PUCSS,Central office signalling system (css),2025 code list,Signals & communications,True
+PUDCS,Data communications system failure,2025 code list,Signals & communications,True
+PUEME,Electrical – maintenance error,2025 code list,"Track, power & stations",False
+PUEO,Electrical – other,2025 code list,"Track, power & stations",False
+PUEWZ,Electrical – work zone problems,2025 code list,Planned work & closures,False
+PUFA,(not documented),not in published lists,Other & unclassified,False
+PUMEL,Any escl. or elev. incident – transported or medical aid declined,2025 code list,Medical emergencies,False
+PUMO,Plant maintenance – other,2025 code list,"Track, power & stations",False
+PUMST,Any stairway incident – transported or medical aid declined,2025 code list,Medical emergencies,False
+PUOPO,Opto (communications) train door monitoring,2025 code list,Door cameras (one-person trains),False
+PUSAC,Signals axle counter block failure,2025 code list,Signals & communications,True
+PUSBE,Beacon failure,2025 code list,Signals & communications,True
+PUSCA,Scada related problems,2025 code list,Signals & communications,False
+PUSCR,Subway car radio fault,2025 code list,Signals & communications,False
+PUSEA,Emergency alarm stations,2025 code list,Signals & communications,False
+PUSI,Signal or related components failure,2025 code list,Signals & communications,True
+PUSIC,(not documented),not in published lists,Signals & communications,False
+PUSIO,Smart io failure,2025 code list,Signals & communications,True
+PUSIS,Signals track weather related issues,2025 code list,Weather,False
+PUSLC,Signals line controller failure,2025 code list,Signals & communications,True
+PUSNT,Signal problem – no trouble found,2025 code list,Signals & communications,True
+PUSO,Signals – other,2025 code list,Signals & communications,True
+PUSRA,Subway radio system problems,2025 code list,Signals & communications,False
+PUSSW,Track switch failure – s/e/c related problem,2025 code list,Signals & communications,True
+PUSTC,Signals - track circuit problems,2025 code list,Signals & communications,True
+PUSTP,Traction power or related components failure,2025 code list,"Track, power & stations",False
+PUSTS,Signals – train stops,2025 code list,Signals & communications,True
+PUSWZ,Work zone problems – signals,2025 code list,Planned work & closures,False
+PUSZC,Signals zone controller failure,2025 code list,Signals & communications,True
+PUTCD,T&s contractor problems,2025 code list,"Track, power & stations",False
+PUTD,Debris at track level - controllable,2025 code list,"Track, power & stations",False
+PUTDN,Debris at track level – non-controllable,2025 code list,"Track, power & stations",False
+PUTIJ,Insulated joint related problem,2025 code list,"Track, power & stations",False
+PUTIS,Ice/snow related problem,2025 code list,Weather,False
+PUTN,(not documented),not in published lists,Other & unclassified,False
+PUTNT,T&s related problem – no trouble found,2025 code list,"Track, power & stations",False
+PUTO,T&s other,2014 code list,"Track, power & stations",False
+PUTOE,"T&s operator related problem (violations, overshoots, etc.)",2025 code list,"Track, power & stations",False
+PUTR,Rail related problem,2025 code list,"Track, power & stations",False
+PUTS,Structure related problem,2025 code list,"Track, power & stations",False
+PUTSC,Signals–control problem–track,2025 code list,Signals & communications,True
+PUTSM,Track switch failure – t&s related problem,2025 code list,"Track, power & stations",False
+PUTTC,Track circuit problems re:defective bolts/bonding,2025 code list,Signals & communications,True
+PUTTP,Traction power rail related problems,2025 code list,"Track, power & stations",False
+PUTWZ,Work zones problems – track,2025 code list,Planned work & closures,False
+SFAE,(not documented),not in published lists,Disorderly behaviour & crime,False
+SFAP,(not documented),not in published lists,Disorderly behaviour & crime,False
+SFDP,(not documented),not in published lists,Disorderly behaviour & crime,False
+SFO,(not documented),not in published lists,Disorderly behaviour & crime,False
+SRAE,Assault / employee involved,2014 code list,Disorderly behaviour & crime,False
+SRAP,Assault / patron involved,2014 code list,Disorderly behaviour & crime,False
+SRBT,Bomb threat,2014 code list,Disorderly behaviour & crime,False
+SRCOL,Collector booth alarm activated,2014 code list,Disorderly behaviour & crime,False
+SRDP,Disorderly patron,2014 code list,Disorderly behaviour & crime,False
+SREAS,Emergency alarm station activation,2014 code list,"Alarms, doors & clean-ups",False
+SRO,Passenger other,2014 code list,Disorderly behaviour & crime,False
+SRSA,Sexual assault,2014 code list,Disorderly behaviour & crime,False
+SRSP,Suspicious package,2014 code list,Disorderly behaviour & crime,False
+SRUT,Unauthorized at track level,2014 code list,People on the tracks,False
+STAE,(not documented),not in published lists,Disorderly behaviour & crime,False
+STDP,(not documented),not in published lists,Disorderly behaviour & crime,False
+STO,(not documented),not in published lists,Disorderly behaviour & crime,False
+SUAE,Assault / employee involved,2025 code list,Disorderly behaviour & crime,False
+SUAP,Assualt / patron involved,2025 code list,Disorderly behaviour & crime,False
+SUBT,Bomb threat,2025 code list,Disorderly behaviour & crime,False
+SUCOL,Collector booth hold-up alarm activated,2025 code list,Disorderly behaviour & crime,False
+SUDP,Disorderly patron,2025 code list,Disorderly behaviour & crime,False
+SUEAS,Eas activated – no trouble found,2025 code list,"Alarms, doors & clean-ups",False
+SUG,Graffiti / scratchiti,2025 code list,Disorderly behaviour & crime,False
+SUL,(not documented),not in published lists,Disorderly behaviour & crime,False
+SUO,Security other,2025 code list,Disorderly behaviour & crime,False
+SUPD,(not documented),not in published lists,Disorderly behaviour & crime,False
+SUPOL,Held by police – non ttc related,2025 code list,Disorderly behaviour & crime,False
+SUROB,Robbery,2025 code list,Disorderly behaviour & crime,False
+SUSA,Assault / sexual,2025 code list,Disorderly behaviour & crime,False
+SUSP,Suspicious package,2025 code list,Disorderly behaviour & crime,False
+SUUT,Unauthorized at track level,2025 code list,People on the tracks,False
+TFPD,(not documented),not in published lists,Crew & operations,False
+TRDOE,Doors open in error,2014 code list,Crew & operations,False
+TRNCA,(not documented),not in published lists,Crew & operations,False
+TRNIP,Operator not in position,2014 code list,Crew & operations,False
+TRNOA,No operator immediately available,2014 code list,Crew & operations,False
+TRO,Transportation department - other,2014 code list,Crew & operations,False
+TRSET,Train controls improperly shut down,2014 code list,Crew & operations,False
+TRST,Storm trains,2014 code list,Crew & operations,False
+TRTC,Transit control related problems,2014 code list,Crew & operations,False
+TUATC,Atc operator related,2025 code list,Crew & operations,False
+TUCC,Transit control related – tower controller error,2025 code list,Crew & operations,False
+TUDOE,Doors open in error,2025 code list,Crew & operations,False
+TUKEY,Two drum switch keys in train,2025 code list,Crew & operations,False
+TUML,Mainline storage,2025 code list,Crew & operations,False
+TUMVS,Operator violated signal,2025 code list,Crew & operations,False
+TUNCA,No collector available,2025 code list,Crew & operations,False
+TUNIP,Operator not in postion,2025 code list,Crew & operations,False
+TUNOA,No operator available,2025 code list,Crew & operations,False
+TUO,Transportation other,2025 code list,Crew & operations,False
+TUOPO,Opto operator related,2025 code list,Door cameras (one-person trains),False
+TUOS,Operator overshot platform,2025 code list,Crew & operations,False
+TUS,Unable to maintain schedule,2025 code list,Crew & operations,False
+TUSC,Operator overspeed,2025 code list,Crew & operations,False
+TUSET,Controls improperly blown down,2025 code list,Crew & operations,False
+TUST,Storm trains,2025 code list,Crew & operations,False
+TUSUP,Supervisory error,2025 code list,Crew & operations,False
+TUTD,(not documented),not in published lists,Crew & operations,False
+TUUR,Unauthorized train reversal by operator,2025 code list,Crew & operations,False
+XXXXX,(not documented),not in published lists,Other & unclassified,False

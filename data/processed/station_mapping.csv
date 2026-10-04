@@ -1,0 +1,2222 @@
+location_raw,station,station_to,location_type,method,rows
+KENNEDY BD STATION,Kennedy,,station,alias,10410
+FINCH STATION,Finch,,station,alias,10048
+KIPLING STATION,Kipling,,station,alias,9976
+BLOOR STATION,Bloor-Yonge,,station,alias,8130
+EGLINTON STATION,Eglinton,,station,alias,6986
+WARDEN STATION,Warden,,station,alias,5831
+WILSON STATION,Wilson,,station,alias,5690
+SHEPPARD WEST STATION,Sheppard West,,station,alias,5305
+VICTORIA PARK STATION,Victoria Park,,station,alias,5029
+YONGE BD STATION,Bloor-Yonge,,station,alias,4925
+KEELE STATION,Keele,,station,alias,4789
+ISLINGTON STATION,Islington,,station,alias,4656
+COXWELL STATION,Coxwell,,station,alias,4384
+UNION STATION,Union,,station,alias,4363
+DUNDAS STATION,TMU (Dundas),,station,alias,4359
+VAUGHAN MC STATION,Vaughan Metropolitan Centre,,station,alias,4357
+ST GEORGE YUS STATION,St George,,station,alias,4255
+YONGE UNIVERSITY LINE,,,line-wide,rule,4252
+DAVISVILLE STATION,Davisville,,station,alias,4034
+ST CLAIR WEST STATION,St Clair West,,station,alias,3946
+ST GEORGE BD STATION,St George,,station,alias,3823
+YORK MILLS STATION,York Mills,,station,alias,3605
+LAWRENCE STATION,Lawrence,,station,alias,3530
+ST CLAIR STATION,St Clair,,station,alias,3524
+COLLEGE STATION,College,,station,alias,3397
+WELLESLEY STATION,Wellesley,,station,alias,3397
+SHEPPARD STATION,Sheppard-Yonge,,station,alias,3357
+DUNDAS WEST STATION,Dundas West,,station,alias,3261
+JANE STATION,Jane,,station,alias,3216
+GREENWOOD STATION,Greenwood,,station,alias,3198
+BROADVIEW STATION,Broadview,,station,alias,3147
+QUEEN STATION,Queen,,station,alias,3085
+MAIN STREET STATION,Main Street,,station,alias,2991
+OSSINGTON STATION,Ossington,,station,alias,2913
+SPADINA BD STATION,Spadina,,station,alias,2903
+BATHURST STATION,Bathurst,,station,alias,2786
+BLOOR DANFORTH SUBWAY,,,line-wide,rule,2668
+PAPE STATION,Pape,,station,alias,2609
+WOODBINE STATION,Woodbine,,station,alias,2601
+EGLINTON WEST STATION,Cedarvale (Eglinton West),,station,alias,2590
+ROSEDALE STATION,Rosedale,,station,alias,2585
+DONLANDS STATION,Donlands,,station,alias,2576
+ROYAL YORK STATION,Royal York,,station,alias,2567
+DON MILLS STATION,Don Mills,,station,alias,2557
+CHRISTIE STATION,Christie,,station,alias,2538
+SHERBOURNE STATION,Sherbourne,,station,alias,2532
+OLD MILL STATION,Old Mill,,station,alias,2405
+SPADINA YUS STATION,Spadina,,station,alias,2360
+LAWRENCE WEST STATION,Lawrence West,,station,alias,2348
+KING STATION,King,,station,alias,2275
+YORKDALE STATION,Yorkdale,,station,alias,2253
+DUPONT STATION,Dupont,,station,alias,2240
+DUFFERIN STATION,Dufferin,,station,alias,2238
+NORTH YORK CTR STATION,North York Centre,,station,alias,2144
+YONGE-UNIVERSITY AND B,,,line-wide,rule,2034
+BAY STATION,Bay,,station,alias,1999
+MCCOWAN STATION,McCowan,,station,alias,1897
+QUEEN'S PARK STATION,Queen's Park,,station,alias,1876
+CHESTER STATION,Chester,,station,alias,1848
+SHEPPARD-YONGE STATION,Sheppard-Yonge,,station,alias,1845
+ST PATRICK STATION,St Patrick,,station,alias,1845
+SUMMERHILL STATION,Summerhill,,station,alias,1781
+CASTLE FRANK STATION,Castle Frank,,station,alias,1741
+ST ANDREW STATION,St Andrew,,station,alias,1732
+HIGH PARK STATION,High Park,,station,alias,1707
+MUSEUM STATION,Museum,,station,alias,1692
+OSGOODE STATION,Osgoode,,station,alias,1667
+GLENCAIRN STATION,Glencairn,,station,alias,1612
+LANSDOWNE STATION,Lansdowne,,station,alias,1555
+RUNNYMEDE STATION,Runnymede,,station,alias,1476
+KENNEDY SRT STATION,Kennedy,,station,alias,1421
+YONGE SHP STATION,Sheppard-Yonge,,station,alias,1331
+LESLIE STATION,Leslie,,station,alias,1315
+FINCH WEST STATION,Finch West,,station,alias,1292
+BAYVIEW STATION,Bayview,,station,alias,1199
+YUS/BD/SHEPPARD SUBWAY,,,line-wide,rule,1069
+HIGHWAY 407 STATION,Highway 407,,station,alias,1041
+PIONEER VILLAGE STATIO,Pioneer Village,,station,alias,975
+VMC STATION,Vaughan Metropolitan Centre,,station,alias,945
+DOWNSVIEW PARK STATION,Downsview Park,,station,alias,890
+LAWRENCE EAST STATION,Lawrence East,,station,alias,786
+GREENWOOD YARD,Greenwood,,yard or facility,rule,756
+BESSARION STATION,Bessarion,,station,alias,706
+YORK UNIVERSITY STATIO,York University,,station,alias,658
+TORONTO TRANSIT COMMIS,,,yard or facility,rule,638
+SCARB CTR STATION,Scarborough Centre,,station,alias,535
+MIDLAND STATION,Midland,,station,alias,500
+SCARBOROUGH CTR STATIO,Scarborough Centre,,station,alias,492
+ELLESMERE STATION,Ellesmere,,station,alias,448
+TMU STATION,TMU (Dundas),,station,alias,425
+WILSON YARD,Wilson,,yard or facility,rule,365
+KENNEDY SRT STATION TO,Kennedy,,station,alias,356
+DAVISVILLE YARD,Davisville,,yard or facility,rule,286
+SCARBOROUGH RAPID TRAN,,,line-wide,rule,283
+CEDARVALE YU STATION,Cedarvale (Eglinton West),,station,alias,277
+WILSON HOSTLER,Wilson,,yard or facility,rule,251
+MCCOWAN STATION TO KEN,McCowan,,station,alias,225
+YONGE UNIVERSITY SUBWA,,,line-wide,rule,173
+GREENWOOD WYE,Greenwood,,yard or facility,rule,169
+BLOOR DANFORTH LINE,,,line-wide,rule,152
+WILSON CARHOUSE,Wilson,,yard or facility,rule,135
+GREENWOOD CARHOUSE,Greenwood,,yard or facility,rule,128
+SRT LINE,,,line-wide,rule,112
+KENNEDY STATION,Kennedy,,station,alias,103
+KEELE YARD,Keele,,yard or facility,rule,102
+MCCOWAN YARD,McCowan,,yard or facility,rule,99
+UNION STATION TO KING,Union,King,between stations,alias,91
+ST GEORGE YU STATION,St George,,station,alias,90
+SPADINA STATION,Spadina,,station,alias,82
+UNION STATION TO ST AN,Union,,station,alias,82
+DAVISVILLE HOSTLER,Davisville,,yard or facility,rule,76
+YONGE/UNIVERSITY AND B,,,line-wide,rule,73
+GREENWOOD PORTAL,Greenwood,,yard or facility,rule,69
+FINCH STATION PLATFORM,Finch,,station,alias,68
+YONGE UNIVERSITY AND B,,,line-wide,rule,64
+KENNEDY BD STATION - P,Kennedy,,station,alias,59
+YONGE-UNIVERSITY SUBWA,,,line-wide,rule,58
+LINE 2 BLOOR DANFORTH,,,line-wide,rule,57
+KIPLING STATION - PLAT,Kipling,,station,alias,57
+DAVISVILLE BUILD UP,Davisville,,yard or facility,rule,56
+KENNEDY SRT TO LAWRENC,Kennedy,,station,alias,56
+EGLINTON STATION (MIGR,Eglinton,,station,alias,53
+FINCH STATION (PLATFOR,Finch,,station,alias,50
+EGLINTON STATION (APPR,Eglinton,,station,alias,49
+DAVISVILLE CARHOUSE,Davisville,,yard or facility,rule,48
+YONGE-UNIVERSITY LINE,,,line-wide,rule,47
+LINE 1 YONGE UNIVERSIT,,,line-wide,rule,47
+KENNEDY BD STATION PLA,Kennedy,,station,alias,47
+LINE 1 - YONGE-UNIVERS,,,line-wide,rule,45
+DANFORTH DIVISION,,,yard or facility,rule,43
+YONGE STATION,Yonge (ambiguous),,station,alias,41
+WARDEN STATION (APPROA,Warden,,station,alias,41
+YONGE SHEP STATION,Sheppard-Yonge,,station,alias,40
+KIPLING STATION (PLATF,Kipling,,station,alias,39
+KENNEDY BD STATION (PL,Kennedy,,station,alias,38
+YONGE UNIVERSITY SPADI,,,line-wide,rule,35
+FINCH STATION - PLATFO,Finch,,station,alias,32
+KIPLING STATION PLATFO,Kipling,,station,alias,32
+BLOOR DANFORTH LINE 2,,,line-wide,rule,30
+GREENWOOD SHOP,Greenwood,,yard or facility,rule,30
+VMC STATION (PLATFORM,Vaughan Metropolitan Centre,,station,alias,30
+YU/DB/SHEPPARD SUBWAY,,,line-wide,rule,30
+YUS/BD/SEPPARD SUBWAY,,,line-wide,rule,29
+GUNN BUILDING,,,yard or facility,rule,29
+SHEPPARD LINE,,,line-wide,rule,28
+UNION STATION (TOWARDS,Union,,station,alias,28
+TRANSIT CONTROL CENTRE,,,yard or facility,rule,26
+LINE 1 - YONGE UNIVERS,,,line-wide,rule,26
+UNION TO ST ANDREW,Union,St Andrew,between stations,alias,26
+LINE 2 - BLOOR-DANFORT,Bloor-Yonge,,station,alias,24
+LINE 1 YONGE-UNIVERSIT,,,line-wide,rule,24
+KIPLING STATION (APPRO,Kipling,,station,alias,24
+UNION STATION TOWARDS,Union,,station,alias,24
+SPADINA YU STATION,Spadina,,station,alias,23
+LAWRENCE EAST TO KENNE,Lawrence East,,station,alias,23
+NORTH YORK CENTRE STAT,North York Centre,,station,alias,23
+LINE 2 - BLOOR DANFORT,Bloor-Yonge,,station,alias,23
+LINE 3 - SCARBOROUGH R,,,line-wide,rule,23
+BLOOR-DANFORTH LINE,,,line-wide,rule,23
+MCBRIEN BUILDING,,,yard or facility,rule,22
+UNION STATION (TO KING,Union,King,between stations,alias,22
+YONGE AND BLOOR,Bloor-Yonge,,station,alias,22
+ST GEORGE STATION,St George,,station,alias,22
+DAVISVILLE BUILD-UP,Davisville,,yard or facility,rule,22
+VMC STATION PLATFORM 2,Vaughan Metropolitan Centre,,station,alias,22
+UNION TO KING STATIONS,Union,King,between stations,alias,21
+GREENWOOD SHOPS,Greenwood,,yard or facility,rule,21
+LINE 1- YONGE UNIVERSI,,,line-wide,rule,21
+YONGE-UNIVERSITY & BLO,,,line-wide,rule,20
+BLOOR-DANFORTH SUBWAY,,,line-wide,rule,20
+EGLINTON MIGRATION,Eglinton,,station,alias,19
+BLOOR-DANFORTH LINE 2,,,line-wide,rule,19
+ST. GEORGE STATION,St George,,station,alias,19
+KENNEDY SRT TO LAWREN,Kennedy,,station,alias,19
+KENNEDY BD STATION (AP,Kennedy,,station,alias,19
+LINE 1,,,line-wide,rule,18
+UNION TO KING,Union,King,between stations,alias,18
+ISLINGTON STATION (APP,Islington,,station,alias,18
+VMC STATION PLATFORM 1,Vaughan Metropolitan Centre,,station,alias,18
+DAVISVILLE BUILDUP,Davisville,,yard or facility,rule,18
+VMC STATION - PLATFORM,Vaughan Metropolitan Centre,,station,alias,17
+UNION TO ST ANDREW STA,Union,St Andrew,between stations,alias,17
+EGLINTON (MIGRATION),Eglinton,,station,alias,16
+YORK MILLS STATION (AP,York Mills,,station,alias,16
+FINCH TO EGLINTON STAT,Finch,Eglinton,between stations,alias,16
+SYSTEM WIDE,,,line-wide,rule,16
+LINE 2 BLOOR-DANFORTH,,,line-wide,rule,16
+LINE 3 SCARBOROUGH SRT,,,line-wide,rule,16
+SHEPPARD WEST TO WILSO,Sheppard West,,station,alias,15
+YONGE-UNIVERSITY-SPADI,,,line-wide,rule,15
+BAY LOWER,Bay,,yard or facility,rule,14
+TRANSIT CONTROL,,,yard or facility,rule,14
+OSSINGTON CENTRE TRACK,Ossington,,station,alias,13
+MCCOWAN CARHOUSE,McCowan,,yard or facility,rule,13
+VICTORIA PARK TO KENNE,Victoria Park,,station,alias,13
+LAWRENCE TO ST CLAIR S,Lawrence,St Clair,between stations,alias,13
+TRACK LEVEL ACTIVITY,,,unknown,unmatched,13
+KIPLING STATION (ENTER,Kipling,,station,alias,13
+WARDEN STATION (LEAVIN,Warden,,station,alias,13
+UNION STATION (TO ST A,Union,,station,alias,13
+LINE 2 - BLOOR - DANFO,Bloor-Yonge,,station,alias,12
+WILSON DIVISION,Wilson,,yard or facility,rule,12
+WILSON STATION (APPROA,Wilson,,station,alias,12
+UNION STATION - ST AND,Union,,station,alias,12
+UNION TO KING STATION,Union,King,between stations,alias,12
+YONGE-UNIVERSITY/BLOOR,Bloor-Yonge,,station,alias,12
+ST. CLAIR STATION,St Clair,,station,alias,12
+WILSON SOUTH HOSTLER,Wilson,,yard or facility,rule,12
+LINE 2,,,line-wide,rule,11
+DON MILLS STATION (LEA,Don Mills,,station,alias,11
+QUEENS PARK STATION,Queen's Park,,station,alias,11
+ST CLAIR STATION TO SH,St Clair,,station,alias,11
+ST. ANDREW STATION,St Andrew,,station,alias,11
+INGLIS BUILDING,,,yard or facility,rule,11
+FINCH STATION TO EGLIN,Finch,,station,alias,10
+UNION STATION TO ST. A,Union,,station,alias,10
+SHEPPARD WEST MIGRATIO,Sheppard West,,station,alias,10
+GREENWOOD COMPLEX,Greenwood,,station,alias,10
+DON MILLS STATION (APP,Don Mills,,station,alias,10
+EGLINTON MIGRATION POI,Eglinton,,station,alias,10
+LINE 1 - YONGE - UNIVE,,,line-wide,rule,10
+YONGE- UNIVERSITY AND,,,line-wide,rule,10
+LINE 2- BLOOR DANFORTH,,,line-wide,rule,10
+KEELE STATION (LEAVING,Keele,,station,alias,10
+ST. CLAIR WEST STATION,St Clair West,,station,alias,10
+YONGE/UNIVERSITY/SPADI,,,line-wide,rule,10
+FINCH STATION (APPROAC,Finch,,station,alias,10
+SYSTEMWIDE,,,line-wide,rule,10
+CHRISTIE STATION (APPR,Christie,,station,alias,9
+OLD MILL STATION (ENTE,Old Mill,,station,alias,9
+GREENWOOD CAR HOUSE,Greenwood,,station,alias,9
+ST GEORGE BD STATION (,St George,,station,alias,9
+VMC STATION - PLAT 1,Vaughan Metropolitan Centre,,station,alias,9
+FINCH STATION - PLAT 1,Finch,,station,alias,9
+KIPLING STATION (LEAVI,Kipling,,station,alias,9
+DAVISVILLE STATION (AP,Davisville,,station,alias,9
+KENNEDY TO LAWRENCE EA,Kennedy,Lawrence,between stations,alias,9
+SHEPPARD WEST TO ST CL,Sheppard West,,station,alias,9
+EGLINTON TO BLOOR STAT,Eglinton,Bloor-Yonge,between stations,alias,9
+YONGE/UNIVERSITY LINE,,,line-wide,rule,9
+KENNEDY BD STATION- PL,Kennedy,,station,alias,8
+LINE 3 SRT,,,line-wide,rule,8
+KEELE STATION (APPROAC,Keele,,station,alias,8
+KING STATION TO SPADIN,King,,station,alias,8
+OSGOODE POCKET,Osgoode,,station,alias,8
+BROADVIEW CENTRE TRACK,Broadview,,station,alias,8
+YONGE- UNIVERSITY SUBW,,,line-wide,rule,8
+ST CLAIR TO LAWRENCE S,St Clair,Lawrence,between stations,alias,8
+YORK MILLS TO ST CLAIR,York Mills,St Clair,between stations,alias,8
+JANE TO OSSINGTON STAT,Jane,Ossington,between stations,alias,8
+VICTORIA PARK TO WARDE,Victoria Park,,station,alias,8
+KEELE TO HIGH PARK,Keele,High Park,between stations,alias,8
+LINE 4,,,line-wide,rule,8
+WILSON GARAGE,Wilson,,station,alias,8
+ST GEORGE TO BROADVIEW,St George,Broadview,between stations,alias,8
+NORTH YORK CENTRE,North York Centre,,station,alias,8
+WOODBINE STATION (APPR,Woodbine,,station,alias,8
+VAUGHAN MC STATION PLA,Vaughan Metropolitan Centre,,station,alias,8
+WOODBINE STATION (LEAV,Woodbine,,station,alias,8
+LINE 1 YUS,,,line-wide,rule,8
+LINE 3 SCARBOROUGH,,,line-wide,rule,8
+EARLY ACCESS CLOSURE -,,,unknown,unmatched,8
+KENNEDY TO VICTORIA PA,Kennedy,,station,alias,8
+ST. PATRICK STATION,St Patrick,,station,alias,7
+SCARBOROUGH CENTRE STA,Scarborough Centre,,station,alias,7
+PIONEER VILLAGE TO VAU,Pioneer Village,,station,alias,7
+KIPLING TO JANE STATIO,Kipling,Jane,between stations,alias,7
+EGLINTON BUS TERMINAL,Eglinton,,station,alias,7
+BAY LOWER STATION,Bay,,station,alias,7
+YONGE - UNIVERSITY AND,,,line-wide,rule,7
+KIPLING STATION ( PLAT,Kipling,,station,alias,7
+VMC STATION PLATFORM #,Vaughan Metropolitan Centre,,station,alias,7
+KIPLING TO ISLINGTON,Kipling,Islington,between stations,alias,7
+SHEPPARD WEST TO FINCH,Sheppard West,Finch,between stations,alias,7
+WOODBINE TO KENNEDY,Woodbine,Kennedy,between stations,alias,7
+FINCH STATION- PLAT 1,Finch,,station,alias,7
+ST CLAIR WEST TO UNION,St Clair West,Union,between stations,alias,7
+YONGE UNIVESITY LINE,,,line-wide,rule,7
+VARIOUS LOCATIONS,,,line-wide,rule,7
+DUPONT STATION (APPROA,Dupont,,station,alias,7
+ROYAL YORK STATION (AP,Royal York,,station,alias,7
+UNION STATION - KING,Union,King,between stations,alias,7
+UNION STATION TO FINCH,Union,Finch,between stations,alias,7
+UNION STATION TOWARD S,Union,,station,alias,7
+KENNEDY TO MCCOWAN,Kennedy,McCowan,between stations,alias,7
+KENNEDY BD STATION (LE,Kennedy,,station,alias,7
+YUS,,,line-wide,rule,7
+WARDEN TO KENNEDY,Warden,Kennedy,between stations,alias,7
+ST CLAIR WEST TO ST AN,St Clair West,,station,alias,7
+KING TO UNION,King,Union,between stations,alias,6
+FINCH TO SHEPPARD STAT,Finch,Sheppard-Yonge,between stations,alias,6
+LINE 3,,,line-wide,rule,6
+WILSON TO SHEPPARD WES,Wilson,Sheppard-Yonge,between stations,alias,6
+EGLINTON STATION TO CO,Eglinton,,station,alias,6
+SHEPPARD TO EGLINTON S,Sheppard-Yonge,Eglinton,between stations,alias,6
+UNION STATION (ST ANDR,Union,,station,alias,6
+WARDEN STATION (ENTERI,Warden,,station,alias,6
+SHEPPARD STATION TO EG,Sheppard-Yonge,,station,alias,6
+LAWRENCE STATION (APPR,Lawrence,,station,alias,6
+YONGE UNIVERSITY/BLOOR,Bloor-Yonge,,station,alias,6
+KEELE STATION (ENTERIN,Keele,,station,alias,6
+FINCH STATION- PLATFOR,Finch,,station,alias,6
+MAIN STATION,Main Street,,station,alias,6
+WILSON CAR HOUSE,Wilson,,station,alias,6
+DUNDAS STATION E/S,TMU (Dundas),,station,alias,6
+DUNDAS WEST STATION (L,Dundas West,,station,alias,6
+ISLINGTON STATION (LEA,Islington,,station,alias,6
+DUNCAN SHOP,,,yard or facility,rule,6
+FINCH STATION ( PLATFO,Finch,,station,alias,6
+DUNDAS WEST STATION -,Dundas West,,station,alias,6
+ISLINGTON STATION (ENT,Islington,,station,alias,6
+SHEPPARD WEST PORTAL,Sheppard West,,yard or facility,rule,6
+VMC STATION - PLAT 2,Vaughan Metropolitan Centre,,station,alias,6
+FINCH STATION TO ST CL,Finch,,station,alias,5
+WILSON TRACK AND STRUC,Wilson,,station,alias,5
+KIPLING TO KEELE,Kipling,Keele,between stations,alias,5
+YONGE - UNIVERSITY LIN,,,line-wide,rule,5
+UNION STATION - NB TO,Union,,station,alias,5
+DUNDAS WEST STATION (A,Dundas West,,station,alias,5
+BLOOR TO EGLINTON,Bloor-Yonge,Eglinton,between stations,alias,5
+SHEPPARD STATION (APPR,Sheppard-Yonge,,station,alias,5
+QUEENS QUAY STATION,,,unknown,unmatched,5
+ISLINGTON STATION ( AP,Islington,,station,alias,5
+DUNDAS STATION (APPROA,TMU (Dundas),,station,alias,5
+KIPLING STATION- PLATF,Kipling,,station,alias,5
+DAVISVILLE STATION (BU,Davisville,,station,alias,5
+LINE 2 BLOOR - DANFORT,Bloor-Yonge,,station,alias,5
+CHESTER STATION (APPRO,Chester,,station,alias,5
+FINCH STATION - PLAT 2,Finch,,station,alias,5
+BROADVIEW STATION (LEA,Broadview,,station,alias,5
+LEASIDE STATION,,,unknown,unmatched,5
+QUEEN'S PARK STATION (,Queen's Park,,station,alias,5
+VMC STATION PL 2,Vaughan Metropolitan Centre,,station,alias,5
+KIPLING STATION- PLAT,Kipling,,station,alias,5
+EGLINTON TO FINCH,Eglinton,Finch,between stations,alias,5
+ST GEORGE TO WOODBINE,St George,Woodbine,between stations,alias,5
+MARKDALE EE,,,unknown,unmatched,5
+ST ANDREW STATION TO S,St Andrew,,station,alias,5
+HARVEY SHOP,,,yard or facility,rule,5
+SHEPPARD WYE,Sheppard-Yonge,,yard or facility,rule,5
+SHEPPARD-YONGE TAIL TR,Sheppard-Yonge,,station,alias,5
+LYTTON EMERGENCY EXIT,,,unknown,unmatched,5
+ST ANDREW TO ST GEORGE,St Andrew,St George,between stations,alias,5
+BROADVIEW STATION TO W,Broadview,,station,alias,5
+KIPLING TO ISLINGTON S,Kipling,Islington,between stations,alias,5
+YORK MILLS CENTRE TRAC,York Mills,,station,alias,5
+TEDDINGTON EE,,,unknown,unmatched,5
+KENNEDY SRT STATION (A,Kennedy,,station,alias,5
+CHESTER CENTRE TRACK,Chester,,station,alias,5
+HIGH PARK TO KEELE,High Park,Keele,between stations,alias,5
+ST CLAIR WEST TO KING,St Clair West,King,between stations,alias,5
+DUNDAS STATION W/S,TMU (Dundas),,station,alias,5
+KIPLING STATION TO ISL,Kipling,,station,alias,5
+YONGE / UNIVERSITY LIN,,,line-wide,rule,5
+ST CLAIR TO YORK MILLS,St Clair,York Mills,between stations,alias,4
+KENNEDY SRT STATION (E,Kennedy,,station,alias,4
+GLENCARIN STATION,Glencairn,,station,fuzzy,4
+YONGE UNIVERSITY,,,line-wide,rule,4
+CHRISTIE STATION (LEAV,Christie,,station,alias,4
+KEELE STATION - KIPLIN,Keele,,station,alias,4
+DONLANDS STATION (APPR,Donlands,,station,alias,4
+KIPLING TO KENNEDY STA,Kipling,Kennedy,between stations,alias,4
+LAWRENCE TO BLOOR STAT,Lawrence,Bloor-Yonge,between stations,alias,4
+FINCH TO EGLINTON,Finch,Eglinton,between stations,alias,4
+KENNEDY STATION TO KIP,Kennedy,,station,alias,4
+GREENWOOD STATION (APP,Greenwood,,station,alias,4
+BROADVIEW TO WOODBINE,Broadview,Woodbine,between stations,alias,4
+UNION STATION TOWARD K,Union,,station,alias,4
+WILFRED EE,,,unknown,unmatched,4
+VAUGHAN MC STATION (PL,Vaughan Metropolitan Centre,,station,alias,4
+UNION STATION (ENTERIN,Union,,station,alias,4
+KIPLING STATION TO JAN,Kipling,,station,alias,4
+WARDEN TO VICTORIA PAR,Warden,,station,alias,4
+KENNEDY SRT STATION (L,Kennedy,,station,alias,4
+EGLINTON STATION TO SH,Eglinton,,station,alias,4
+LINE 1 - YONGE/UNIVERS,,,line-wide,rule,4
+DOWNSVIEW STATION,Sheppard West,,station,alias,4
+SHEPPARD WEST TO LAWRE,Sheppard West,,station,alias,4
+LINE 1 YONGE - UNIVERS,,,line-wide,rule,4
+JANE STATION (ENTERING,Jane,,station,alias,4
+CHANGE OVERS / GENERAL,,,unknown,unmatched,4
+DAVISVILLE STATION - B,Davisville,,station,alias,4
+WILSON NORTH HOSTLER,Wilson,,yard or facility,rule,4
+ASQUITH SUBSTATION,,,yard or facility,rule,4
+ST CLAIR STATION - UPP,St Clair,,station,alias,4
+FINCH WEST TO SHEPPARD,Finch West,Sheppard-Yonge,between stations,alias,4
+EGLINTON STATION (LEAV,Eglinton,,station,alias,4
+KIPLING STATION TO KEN,Kipling,,station,alias,4
+WILSON HOSLTER,Wilson,,station,alias,4
+KING TO EGLINTON STATI,King,Eglinton,between stations,alias,4
+TORONTO TRANSIT CONTRO,,,yard or facility,rule,4
+BLOOR-DANFORTH,,,line-wide,rule,4
+SOUTH HOSTLER,,,yard or facility,rule,4
+JANE TO OSSINGTON,Jane,Ossington,between stations,alias,4
+JANE STATION TO OSSING,Jane,,station,alias,4
+SPADINA TO ST ANDREW S,Spadina,St Andrew,between stations,alias,4
+LINE 1 YONGE- UNIVERSI,,,line-wide,rule,4
+UNION STATION (UNIVERS,Union,,station,alias,4
+YONGE -UNIVERSITY AND,,,line-wide,rule,4
+OSSINGTON STATION - ST,Ossington,,station,alias,4
+OSSINGTON STATION (LEA,Ossington,,station,alias,4
+FINCH TO ST CLAIR STAT,Finch,St Clair,between stations,alias,4
+RUNNYMEDE STATION (APP,Runnymede,,station,alias,4
+BLOOR STATION (ENTERIN,Bloor-Yonge,,station,alias,4
+BLOOR DANFORTH,,,line-wide,rule,4
+WARDEN STATION ( APPRO,Warden,,station,alias,4
+DONLANDS STATION - LEA,Donlands,,station,alias,4
+KIPLING STATION -PLAT,Kipling,,station,alias,4
+FINCH STATION-PLATFORM,Finch,,station,alias,4
+VMC TO EGLINTON STATIO,Vaughan Metropolitan Centre,Eglinton,between stations,alias,4
+ISLINGTON CENTRE TRACK,Islington,,station,alias,4
+ST CLAIR STATION (APPR,St Clair,,station,alias,4
+KIPLING TO ROYAL YORK,Kipling,Royal York,between stations,alias,4
+YORK MILLS STATION (LE,York Mills,,station,alias,4
+CHESTER STATION (ENTER,Chester,,station,alias,3
+YONGE UNIVERSTIY SUBWA,,,line-wide,rule,3
+ROSEDALE STATION (APPR,Rosedale,,station,alias,3
+BLOOR SOUTH,Bloor-Yonge,,station,alias,3
+SUBWAY CLOSURE: EARLY,,,line-wide,rule,3
+YONGE UNIVERSITY BLOOR,Bloor-Yonge,,station,alias,3
+HIGH PARK TO KEELE STA,High Park,Keele,between stations,alias,3
+UNKNOWN LOCATION,,,unknown,unmatched,3
+WILFRED EMERGENCY EXIT,,,unknown,unmatched,3
+LINE 3 SCARBOROUGH RT,,,line-wide,rule,3
+EGLINTON TO SHEPPARD S,Eglinton,Sheppard-Yonge,between stations,alias,3
+SUBWAY CLOSURE: ST GEO,,,line-wide,rule,3
+SPADINA BD STATON,Spadina,,station,alias,3
+KENNEDY BD STATION (EN,Kennedy,,station,alias,3
+WILSON YARD - NORTH HO,Wilson,,yard or facility,rule,3
+KENNEDY - LAWRENCE EAS,Kennedy,Lawrence,between stations,alias,3
+CHESTER TO BROADVIEW,Chester,Broadview,between stations,alias,3
+WOODBINE STATION (EXIT,Woodbine,,station,alias,3
+ST GEORGE STATION TO W,St George,,station,alias,3
+EGLINTON TO COLLEGE ST,Eglinton,College,between stations,alias,3
+SUBWAY OPS BUILDING,,,yard or facility,rule,3
+EGLINTON TO LAWRENCE S,Eglinton,Lawrence,between stations,alias,3
+PAPE TO ST GEORGE,Pape,St George,between stations,alias,3
+SRT LINE 3,,,line-wide,rule,3
+VARIOUS,,,line-wide,rule,3
+ST. CLAIR STATION TO S,St Clair,,station,alias,3
+FINCH WEST TO LAWRENCE,Finch West,Lawrence,between stations,alias,3
+JANE STATION (APPROACH,Jane,,station,alias,3
+KIPLING STATION (EXITI,Kipling,,station,alias,3
+YONGE/UNIVERSITY - BLO,,,line-wide,rule,3
+OLD MILL STATION (APPR,Old Mill,,station,alias,3
+COLLEGE TO KING,College,King,between stations,alias,3
+MCCOWAN TO KENNEDY STA,McCowan,Kennedy,between stations,alias,3
+UNION TO FINCH STATION,Union,Finch,between stations,alias,3
+LINE 2 BD,,,line-wide,rule,3
+QUEEN'S QUAY - UNION,Union,,station,alias,3
+CHRISTIE TO PAPE STATI,Christie,Pape,between stations,alias,3
+SHERBOURNE STATION (EN,Sherbourne,,station,alias,3
+OSSINGTON STATION (APP,Ossington,,station,alias,3
+EGLINTON STATION TO FI,Eglinton,,station,alias,3
+QUEEN'S QUAY STATION,,,unknown,unmatched,3
+DUPONT STATION (LEAVIN,Dupont,,station,alias,3
+UNION (TO ST ANDREW),Union,St Andrew,between stations,alias,3
+YONGE-UNIVERSITY,,,line-wide,rule,3
+BLOOR TO SHEPPARD STAT,Bloor-Yonge,Sheppard-Yonge,between stations,alias,3
+SHEPPARD TO ST CLAIR S,Sheppard-Yonge,St Clair,between stations,alias,3
+YONGE UNIVERSITY - BLO,,,line-wide,rule,3
+ROYAL YORK STATION (LE,Royal York,,station,alias,3
+BROADVIEW TO ST GEORGE,Broadview,St George,between stations,alias,3
+QUEEN STATION - ALBERT,Queen,,station,alias,3
+QUEEN STATION E/S,Queen,,station,alias,3
+DAVISVILLE TO EGLINTON,Davisville,Eglinton,between stations,alias,3
+WILSON TO LAWRENCE WES,Wilson,Lawrence,between stations,alias,3
+WELLESLEY STATION - DU,Wellesley,,station,alias,3
+ST. GEORGE TO ST. ANDR,St George,,station,alias,3
+EGLINTON TO DAVISVILLE,Eglinton,Davisville,between stations,alias,3
+DUPONT TO ST CLAIR WES,Dupont,St Clair,between stations,alias,3
+DON MILLS STATION - LE,Don Mills,,station,alias,3
+QUEEN STATION (EAST SI,Queen,,station,alias,3
+SHEPPARD SUBWAY LINE,,,line-wide,rule,3
+BLOOR STATION (APPROAC,Bloor-Yonge,,station,alias,3
+KENNEDY STATION TO LAW,Kennedy,,station,alias,3
+YONGE/UNIVERSITY SUBWA,,,line-wide,rule,3
+VMC TO PIONEER VILLAGE,Vaughan Metropolitan Centre,Pioneer Village,between stations,alias,3
+YONGE UNIVERSTY SUBWAY,,,line-wide,rule,3
+SHEPPARD YONGE STATION,Sheppard-Yonge,,station,alias,3
+EA CLOSURE SHEPPARD WE,Sheppard-Yonge,,station,alias,3
+ST ANDREW TO SPADINA,St Andrew,Spadina,between stations,alias,3
+YU/BD,,,line-wide,rule,3
+GREENWOOD TRACK AND ST,Greenwood,,station,alias,3
+KENNEDY TO KIPLING STA,Kennedy,Kipling,between stations,alias,3
+BLOOR VIADUCT,Bloor-Yonge,,station,alias,3
+DAVISVILLE STATION BUI,Davisville,,station,alias,3
+VMC STATION- PLATFORM,Vaughan Metropolitan Centre,,station,alias,3
+KENNEDY BD STATION ( P,Kennedy,,station,alias,3
+KIPLING STATION - TAIL,Kipling,,station,alias,3
+KIPLING TO KENNEDY,Kipling,Kennedy,between stations,alias,3
+WILSON TRAINING CENTRE,Wilson,,station,alias,3
+MC COWAN STATION,McCowan,,station,fuzzy,3
+VARIOUS STATIONS,,,line-wide,rule,3
+MACDONALD CARTIER EE,,,unknown,unmatched,3
+ST ANDREW STATION - ST,St Andrew,,station,alias,3
+HWY 407 STATION,Highway 407,,station,alias,3
+KING COMMERCE COURT,King,,station,alias,3
+KING STATION (COMMERCE,King,,station,alias,3
+GREENWOOD STATION (LEA,Greenwood,,station,alias,3
+VMC STATION P2,Vaughan Metropolitan Centre,,station,alias,3
+FINCH STATION (LEAVING,Finch,,station,alias,3
+KIPLING STATION P2,Kipling,,station,alias,3
+WOODBINE STATION TO KE,Woodbine,,station,alias,3
+KENNEDY BD STATION PL,Kennedy,,station,alias,3
+KING STATION - COMMERC,King,,station,alias,3
+VMC STATION- PLAT 1,Vaughan Metropolitan Centre,,station,alias,3
+KIPLING STATION (TAIL,Kipling,,station,alias,3
+KIPLING STATION APPROA,Kipling,,station,alias,3
+LESLIE STATION (APPROA,Leslie,,station,alias,3
+UNION STATION - TO KIN,Union,,station,alias,3
+WOODBINE STATION (ENTE,Woodbine,,station,alias,3
+WOODBINE TO KENNEDY ST,Woodbine,Kennedy,between stations,alias,3
+CHURCH EMERGENCY EXIT,,,unknown,unmatched,3
+QUEEN STATION - EAST S,Queen,,station,alias,3
+KENNEDY TO MCCOWAN STA,Kennedy,McCowan,between stations,alias,3
+MIGRATION POINT,,,unknown,unmatched,3
+GLENAYR EMERGENCY EXIT,,,unknown,unmatched,3
+KENNEDY BD STATION -PL,Kennedy,,station,alias,3
+VMC STATION PLATFROM 1,Vaughan Metropolitan Centre,,station,alias,3
+EGLINTON TO LAWRENCE,Eglinton,Lawrence,between stations,alias,3
+FINCH STATION P2,Finch,,station,alias,3
+N/O DAVISVILLE TO N/O,Davisville,,station,alias,3
+SUMMERHILL TO WELLESLE,Summerhill,,station,alias,3
+CEDARVALE STATION,Cedarvale (Eglinton West),,station,alias,3
+BD SUBWAY,,,line-wide,rule,3
+QUEEN ALBERT,Queen,,station,alias,3
+YONGE AND SHEPPARD,Sheppard-Yonge,,station,alias,3
+YONGE-UNIVERSITY SPADI,,,line-wide,rule,3
+DAVISVILLE CAR HOUSE,Davisville,,station,alias,3
+KIPLING TO JANE,Kipling,Jane,between stations,alias,3
+SPADINA YUS STATION (L,Spadina,,station,alias,2
+RUSSELL HILL EMERGENCY,,,unknown,unmatched,2
+FINCH TO DOWNSVIEW,Finch,Sheppard West,between stations,alias,2
+ST GEORGE TO LAWRENCE,St George,Lawrence,between stations,alias,2
+KENNEDY STATION TO MCC,Kennedy,,station,alias,2
+BROADVIEW AND DANFORTH,Broadview,,station,alias,2
+BROADVIEW TO YONGE,Broadview,,station,alias,2
+KENNEDY,Kennedy,,station,alias,2
+ST GEORGE BD STATION -,St George,,station,alias,2
+DUNDAS STATION - EAST,TMU (Dundas),,station,alias,2
+UNION TO FINCH,Union,Finch,between stations,alias,2
+GLENCAIRN STATION (APP,Glencairn,,station,alias,2
+KEELE STATION (EXITING,Keele,,station,alias,2
+WILSON HOSTLER 2,Wilson,,yard or facility,rule,2
+COXWELL STATION (ENTER,Coxwell,,station,alias,2
+ST CLAIR WEST CENTRE T,St Clair West,,station,alias,2
+KENNEDY SRT STATION [A,Kennedy,,station,alias,2
+DUNCAN BUILDING,,,yard or facility,rule,2
+DUNCAN SUBSTATION,,,yard or facility,rule,2
+FINCH STATION (EXITING,Finch,,station,alias,2
+DUPONT STATION (EXITIN,Dupont,,station,alias,2
+YONGE/UNIVERSITY,,,line-wide,rule,2
+COXWELL STATION (LEAVI,Coxwell,,station,alias,2
+DONLANDS STATION (ENTE,Donlands,,station,alias,2
+MUSEUM STATION (APPROA,Museum,,station,alias,2
+WILSON TO ST CLAIR WES,Wilson,St Clair,between stations,alias,2
+YOUNG UNIVERSITY SPADI,,,unknown,unmatched,2
+LANSDOWNE TO ROYAL YOR,Lansdowne,,station,alias,2
+QUEEN AND YONGE,Queen,,station,alias,2
+BLOOR - DANFORTH LINE,,,line-wide,rule,2
+CHESTER STATION (LEAVI,Chester,,station,alias,2
+UNION STATION - BOOTH,Union,,station,alias,2
+ST CLAIR WEST,St Clair West,,station,alias,2
+SHEPPARD STATION TO YO,Sheppard-Yonge,,station,alias,2
+WARDEN STATION TO KENN,Warden,,station,alias,2
+EGLINTON POCKET,Eglinton,,station,alias,2
+MACDONALD CARTIER EMER,,,unknown,unmatched,2
+LAWRENCE TO YORK MILLS,Lawrence,York Mills,between stations,alias,2
+HIGH PARK STATION (LEA,High Park,,station,alias,2
+YONGE BD STATION (LEAV,Bloor-Yonge,,station,alias,2
+BESSARIAN STATION,Bessarion,,station,fuzzy,2
+DON MILLS STATION (PLA,Don Mills,,station,alias,2
+KENNEDY BD STATION PAL,Kennedy,,station,alias,2
+PAPE,Pape,,station,alias,2
+FINCH TO ST. CLAIR,Finch,St Clair,between stations,alias,2
+LINE 3 - KENNEDY TO LA,Kennedy,,station,alias,2
+VAUGHAN MC STATION- PL,Vaughan Metropolitan Centre,,station,alias,2
+DANFORTH DIVSION,,,unknown,unmatched,2
+KING COMMERCE,King,,station,alias,2
+SPADINA TO ST ANDREW,Spadina,St Andrew,between stations,alias,2
+YORK MILLS CENTER TRAC,York Mills,,station,alias,2
+UNION,Union,,station,alias,2
+OSSINGTON TO KEELE STA,Ossington,Keele,between stations,alias,2
+SHEPPARD - YONGE STATI,Sheppard-Yonge,,station,alias,2
+YOUNGE UNIVERSITY LINE,,,line-wide,rule,2
+KIPLING STATION PLATFR,Kipling,,station,alias,2
+SPADINA YUS STATION -,Spadina,,station,alias,2
+HIGH PARK STAITON,High Park,,station,alias,2
+FINCH STATION BUS BAY,Finch,Bay,between stations,alias,2
+QUEENS QUAY ELEVATOR,,,unknown,unmatched,2
+KIPLING HUB,Kipling,,station,alias,2
+KEELE TO OSSINGTON,Keele,Ossington,between stations,alias,2
+SHEPPARD TAIL,Sheppard-Yonge,,station,alias,2
+KIPLING STATION TO COX,Kipling,,station,alias,2
+MAIN STREET STATION (L,Main Street,,station,alias,2
+BIRCHMOUNT EMERGENCY E,,,unknown,unmatched,2
+LINE 1 - YONGE-UNIVSER,,,line-wide,rule,2
+SHEPPARD TO ST. CLAIR,Sheppard-Yonge,St Clair,between stations,alias,2
+OSSINGTON TO ST GEORGE,Ossington,St George,between stations,alias,2
+BLOOR/DANFORTH LINE,,,line-wide,rule,2
+VAUGHAN METRO CENTRE S,Vaughan Metropolitan Centre,,station,alias,2
+DAVISVILLE STATION (EN,Davisville,,station,alias,2
+UNION STATION ( TOWARD,Union,,station,alias,2
+CHRISTIE STATION TO CH,Christie,,station,alias,2
+KING STATION TO EGLINT,King,,station,alias,2
+KENNEDY TO KIPLING,Kennedy,Kipling,between stations,alias,2
+OLD MILLS STATION,Old Mill,,station,alias,2
+GUNN THEATRE,,,unknown,unmatched,2
+SPADINA STATION YUS,Spadina,,station,alias,2
+COXWELL,Coxwell,,station,alias,2
+COXWELL STATION (APPRO,Coxwell,,station,alias,2
+KENNEDY PLATFORM 2,Kennedy,,station,alias,2
+VMC,Vaughan Metropolitan Centre,,station,alias,2
+DAVISVILLE,Davisville,,station,alias,2
+WARDEN,Warden,,station,alias,2
+YORK MILLS,York Mills,,station,alias,2
+EGLINTON,Eglinton,,station,alias,2
+HILLCREST COMPLEX,,,unknown,unmatched,2
+DUNDAS STATION TO EGLI,TMU (Dundas),,station,alias,2
+UNION STATION (TOWARD,Union,,station,alias,2
+KENNEDY STATION TO WOO,Kennedy,,station,alias,2
+KIPLING TAIL 2,Kipling,,station,alias,2
+YONGE UNIVERSITY / BLO,,,line-wide,rule,2
+VMC STATION ( PLATFORM,Vaughan Metropolitan Centre,,station,alias,2
+EGLINTON TO SHEPPARD,Eglinton,Sheppard-Yonge,between stations,alias,2
+LAWRENCE TO ST CLAIR,Lawrence,St Clair,between stations,alias,2
+YONGE,Yonge (ambiguous),,station,alias,2
+N/END YORK MILLS TO S/,York Mills,,station,alias,2
+ST CLAIR TO UNION STAT,St Clair,Union,between stations,alias,2
+ST ANDREW STATION TO U,St Andrew,,station,alias,2
+BAYVIEW STATION (LEAVI,Bayview,,station,alias,2
+GREENWOOD GATEHOUSE,Greenwood,,station,alias,2
+VMC PLATFORM 1,Vaughan Metropolitan Centre,,station,alias,2
+FINCH TO QUEENS PARK S,Finch,Queen's Park,between stations,alias,2
+LAWRENCE STATION TO YO,Lawrence,,station,alias,2
+EA BLOOR DANFORTH OSSI,,,unknown,unmatched,2
+FINCH STATION (PLAT #1,Finch,,station,alias,2
+UNION AND KENNEDY STAT,Union,Kennedy,between stations,alias,2
+KIPLING STATION ( APPR,Kipling,,station,alias,2
+KING TO ST GEORGE STAT,King,St George,between stations,alias,2
+SHEPPARD STATION TO CO,Sheppard-Yonge,,station,alias,2
+RUNNYMEDE STATION (LEA,Runnymede,,station,alias,2
+YONGE-UNIVERISTY AND B,,,unknown,unmatched,2
+DON MILLS STATION (ENT,Don Mills,,station,alias,2
+BLOOR TO LAWRENCE STAT,Bloor-Yonge,Lawrence,between stations,alias,2
+EGLINTON TO UNION STAT,Eglinton,Union,between stations,alias,2
+WARDEN STATION(APPROAC,Warden,,station,alias,2
+APPROACHING DUNDAS WES,TMU (Dundas),,station,alias,2
+GREENWOOD AND DANFORTH,Greenwood,,station,alias,2
+EGLINTON STATION TO YO,Eglinton,,station,alias,2
+SPADINA STATION TO KIN,Spadina,,station,alias,2
+QUEEN QUAY STATION,Queen,,station,alias,2
+CASTLE FRANK STATION T,Castle Frank,,station,alias,2
+KENNEDY SRT - LAWRENCE,Kennedy,Lawrence,between stations,alias,2
+YONGE-UNIVERISTY-SPADI,,,unknown,unmatched,2
+KENNEDY BD STATION [PL,Kennedy,,station,alias,2
+CHRISTIE STATION - APP,Christie,,station,alias,2
+VMC TO ST GEORGE STATI,Vaughan Metropolitan Centre,St George,between stations,alias,2
+CASTLE FRANK STATION (,Castle Frank,,station,alias,2
+WILSON STATION APPROAC,Wilson,,station,alias,2
+KEELE TO DUNDAS WEST,Keele,Dundas West,between stations,alias,2
+YORK MILLS STATION (EN,York Mills,,station,alias,2
+CASTLE FRANK TO SHERBO,Castle Frank,,station,alias,2
+EGLINTON TO YORK MILLS,Eglinton,York Mills,between stations,alias,2
+AVENUE STATION,,,unknown,unmatched,2
+DAVISVILLE TO LAWRENCE,Davisville,Lawrence,between stations,alias,2
+LAWRENCE WEST TO EGLIN,Lawrence West,,station,alias,2
+GO PROTOCOL,,,unknown,unmatched,2
+VMC STATION PLAT 1,Vaughan Metropolitan Centre,,station,alias,2
+NORTH YORK STATION,North York Centre,,station,alias,2
+VMC STATION -PLAT 2,Vaughan Metropolitan Centre,,station,alias,2
+DUNDAS STATION EAST SI,TMU (Dundas),,station,alias,2
+YONGE-BLOOR,Bloor-Yonge,,station,alias,2
+VICTORIA PARK STATION-,Victoria Park,,station,alias,2
+SUBWAY CLOSURE: LAWREN,,,line-wide,rule,2
+ST GEORGE BD STATION-B,St George,,station,alias,2
+YONGE SHP STATION (LEA,Sheppard-Yonge,,station,alias,2
+SCARBOROUGH TOWN CENTR,Scarborough Centre,,station,fuzzy,2
+BROADVIEW AND ST GEORG,Broadview,,station,alias,2
+ST GEORGE STATION TO B,St George,,station,alias,2
+OSSINGTON STATION TO S,Ossington,,station,alias,2
+NORTH HOSTLER,,,yard or facility,rule,2
+LINE 4 SHEPPARD YONGE,Sheppard-Yonge,,station,alias,2
+VMC STATION PLAT 2,Vaughan Metropolitan Centre,,station,alias,2
+JANE TO OLD MILL,Jane,Old Mill,between stations,alias,2
+FINCH STATION P1,Finch,,station,alias,2
+LAWRENCE STATION APPRO,Lawrence,,station,alias,2
+YONGE BD TO PAPE STATI,Bloor-Yonge,Pape,between stations,alias,2
+LINE 2 BLOOR- DANFORTH,,,line-wide,rule,2
+BLOOR TO OSGOODE STATI,Bloor-Yonge,Osgoode,between stations,alias,2
+30 LOCKPORT AVE,,,unknown,unmatched,2
+BAYVIEW STATION (APPRO,Bayview,,station,alias,2
+EGLINTON STATION APPRO,Eglinton,,station,alias,2
+KIPLING STATION (DEPAR,Kipling,,station,alias,2
+SUBWAY CLOSURE: KIPLIN,,,line-wide,rule,2
+DAVISVILLE TO N/O BLOO,Davisville,,station,alias,2
+OSGOODE TO COLLEGE,Osgoode,College,between stations,alias,2
+ST CLAIR TO FINCH STAT,St Clair,Finch,between stations,alias,2
+UNION STATION - TO ST,Union,,station,alias,2
+WARDEN TO KENNEDY STAT,Warden,Kennedy,between stations,alias,2
+SHEPPARD- YONGE STATIO,Sheppard-Yonge,,station,alias,2
+KIPLING TO KEELE STATI,Kipling,Keele,between stations,alias,2
+TMU STATION (APPROACHI,TMU (Dundas),,station,alias,2
+VMC STATION PL 1,Vaughan Metropolitan Centre,,station,alias,2
+WARDEN STATION (DEPART,Warden,,station,alias,2
+CHRISTIE STATION TO PA,Christie,,station,alias,2
+HIGH PARK AND LANSDOWN,High Park,,station,alias,2
+UNION STATION (YONGE L,Union,,station,alias,2
+OPEN CUT AREAS,,,unknown,unmatched,2
+ST CLAIR WEST TO DUPON,St Clair West,,station,alias,2
+KENNEDY BD STATION APP,Kennedy,,station,alias,2
+KING STATION TO ST CLA,King,,station,alias,2
+DUFFERIN STATION (APPR,Dufferin,,station,alias,2
+EGLINTON STATION (SOUT,Eglinton,,station,alias,2
+BLOOR HUB,Bloor-Yonge,,station,alias,2
+FINCH STATION- PLAT 2,Finch,,station,alias,2
+CEDARVALE YU STATION (,Cedarvale (Eglinton West),,station,alias,2
+BESSARION STATION (APP,Bessarion,,station,alias,2
+KIPLING STATION - LEAV,Kipling,,station,alias,2
+SUBWAY OPERATIONS BUIL,,,line-wide,rule,2
+YORKDALE STATION (APPR,Yorkdale,,station,alias,2
+KEELE STATION APPROACH,Keele,,station,alias,2
+LESLIE STATION (LEAVIN,Leslie,,station,alias,2
+BROADVIEW STATION (DEP,Broadview,,station,alias,2
+KIPLING TAIL TRACK,Kipling,,yard or facility,rule,2
+MAIN STREET STATION -,Main Street,,station,alias,2
+QUEEN STATION (ENTERIN,Queen,,station,alias,2
+UNION STATION- TO KING,Union,King,between stations,alias,2
+SHEPPARD WEST - FINCH,Sheppard West,Finch,between stations,alias,2
+CHRISTIE STATION ( APP,Christie,,station,alias,2
+ST.GEORGE TO ST.ANDREW,St George,St Andrew,between stations,alias,2
+YORK MILLS STATION - A,York Mills,,station,alias,2
+DUNCAN SHOPS,,,yard or facility,rule,2
+YONGE AND DUNDAS,TMU (Dundas),,station,alias,2
+EARLY ACCESS CLOSURE S,,,unknown,unmatched,2
+LYTTON EE,,,unknown,unmatched,2
+YONGE - UNIVERSITY SUB,,,line-wide,rule,2
+MARKDALE EMERGENCY EXI,,,unknown,unmatched,2
+E/E DONLANDS TO W/O BR,Donlands,,station,alias,2
+KENNEDY BD STATION P2,Kennedy,,station,alias,2
+FINCH STATION - EGLINT,Finch,,station,alias,2
+KEELE STATION - ST GEO,Keele,,station,alias,2
+WARDEN STATION APPROAC,Warden,,station,alias,2
+WARDEN STATION - APPRO,Warden,,station,alias,2
+ROYAL YORK STATION APP,Royal York,,station,alias,2
+BLOOR-DANFORTH AND YON,,,line-wide,rule,2
+KING AND ST CLAIR WEST,King,St Clair West,between stations,alias,2
+KIPLING STATION P1,Kipling,,station,alias,2
+KIPLING STATION - APPR,Kipling,,station,alias,2
+KIPLING STATION-TAIL T,Kipling,,station,alias,2
+ST GEORGE TO ST ANDREW,St George,St Andrew,between stations,alias,2
+UNION STATION-YONGE PL,Union,,station,alias,2
+KIPLING STATION-PLATFO,Kipling,,station,alias,2
+CHANGE OVERS,,,unknown,unmatched,2
+BLOOR - DANFORTH SUBWA,,,line-wide,rule,2
+UNION STATION - UNIVER,Union,,station,alias,2
+ISLINGTON STATION- APP,Islington,,station,alias,2
+DAVISVILLE STATION TO,Davisville,,station,alias,2
+TORO ROAD EE,,,unknown,unmatched,2
+YUS SUBWAY,,,line-wide,rule,2
+FINCH STATION-PLAT 2,Finch,,station,alias,2
+KIPLING PLATFORM 2,Kipling,,station,alias,2
+WOODBINE TO BROADVIEW,Woodbine,Broadview,between stations,alias,2
+KEELE STATION ( APPROA,Keele,,station,alias,2
+YORK UNIVERSITY,York University,,station,alias,2
+GREENWOOD TRACK BUILDI,Greenwood,,station,alias,2
+SHEPPARD WEST - ST CLA,Sheppard West,,station,alias,2
+LEONA EMERGENCY EXIT,,,unknown,unmatched,2
+LAWRENCE WEST CENTRE T,Lawrence West,,station,alias,2
+SINGLE LINE OPERATIONS,,,line-wide,rule,2
+ST CLAIR STATION (LEAV,St Clair,,station,alias,2
+WILSON YARD CARHOUSE,Wilson,,yard or facility,rule,2
+MAC DONALD CARTIER EE,,,unknown,unmatched,2
+120 CARTWRIGHT AVE,,,unknown,unmatched,2
+ST. CLAIR WEST,St Clair West,,station,alias,2
+YONGE/UNIVERSITY - LIN,,,line-wide,rule,2
+FINCH TO LAWRENCE STAT,Finch,Lawrence,between stations,alias,2
+YONGE SHEPPARD STATION,Sheppard-Yonge,,station,alias,2
+BLOOR SATION,Bloor-Yonge,,station,alias,2
+EARLY CLOSURE - YONGE,,,unknown,unmatched,2
+UNION - KING,Union,King,between stations,alias,2
+DUPONT STATION TO SPAD,Dupont,,station,alias,2
+KIPLING,Kipling,,station,alias,2
+ROSEDALE TO BLOOR,Rosedale,Bloor-Yonge,between stations,alias,1
+UNION STATION-KING,Union,King,between stations,alias,1
+ST GEORGE TO QUEENS PA,St George,,station,alias,1
+UNION STATION - FINCH,Union,Finch,between stations,alias,1
+SCARBOROUGH SRT,Scarborough Centre,,station,fuzzy,1
+ST CLAIR STAITON,St Clair,,station,alias,1
+CLOSURE- VICTORIA PARK,Victoria Park,,station,alias,1
+BIRCHMOUNT EE,,,unknown,unmatched,1
+DUFFERIN AND DUFFERIN,Dufferin,,station,alias,1
+GUNN BUILDING - 2ND FL,,,yard or facility,rule,1
+GREENWOOD T&S BUILDING,Greenwood,,yard or facility,rule,1
+CNE EAST LOOP,,,unknown,unmatched,1
+WILSON PLANT T&S,Wilson,,station,alias,1
+YONGE & BLOOR STATION,Bloor-Yonge,,station,alias,1
+BRAODVIEW STATION TO W,,,unknown,unmatched,1
+LAWRENCE,Lawrence,,station,alias,1
+MCCOWAN TO KENNEDY SRT,McCowan,Kennedy,between stations,alias,1
+UNION TO ST. ANDREW ST,Union,St Andrew,between stations,alias,1
+N/O DAVISVILLE STATION,Davisville,,station,alias,1
+YONGE AND BLOOR STATIO,Bloor-Yonge,,station,alias,1
+WILSON YARD (TRACK 43),Wilson,,yard or facility,rule,1
+LINE 1 YUS (YORK MILLS,York Mills,,station,alias,1
+SHEPPARD WEST SATION,Sheppard West,,station,alias,1
+LATE OPENING - ST. GEO,,,unknown,unmatched,1
+MIDLAND STATION TO ELL,Midland,,station,alias,1
+SLOW ZONE LAWRENCE EAS,Lawrence,,station,alias,1
+UNION HUB,Union,,station,alias,1
+EGLINTON STATION TO ST,Eglinton,,station,alias,1
+EGLINTON WEST SATION,Cedarvale (Eglinton West),,station,alias,1
+BATHURST TO CASTLE FRA,Bathurst,,station,alias,1
+UNION AND LESLIE,Union,Leslie,between stations,alias,1
+KIPLING TAIL TRACK 2,Kipling,,yard or facility,rule,1
+SHEPPARD WEST EE (3940,Sheppard West,,station,alias,1
+WILSON YARD TRACK 3,Wilson,,yard or facility,rule,1
+BAY AND BLOOR,Bay,Bloor-Yonge,between stations,alias,1
+GREENWOOD PLANT BUILDI,Greenwood,,station,alias,1
+LEAVING PAPE,Pape,,station,alias,1
+VAUGHAN MC TO MUSEUM S,Vaughan Metropolitan Centre,Museum,between stations,alias,1
+EGLINTON WEST - SHEPPA,Cedarvale (Eglinton West),,station,alias,1
+ST. CLAIR STATION (APP,St Clair,,station,alias,1
+WELLBECK EE,,,unknown,unmatched,1
+CLANTON PORTAL TO EGLI,,,yard or facility,rule,1
+FINCH TOWER,Finch,,station,alias,1
+ST. CLAIR WEST TO SHEP,St Clair West,,station,alias,1
+ST CLAIR - FINCH STATI,St Clair,Finch,between stations,alias,1
+ST GEORGE AND BLOOR,St George,Bloor-Yonge,between stations,alias,1
+NORTH YORK CTR TO FINC,North York Centre,,station,alias,1
+KING TO OSGOODE STATIO,King,Osgoode,between stations,alias,1
+GREENWOOD TRACK&STRUCT,Greenwood,,station,alias,1
+ISLINTON STATION,Islington,,station,fuzzy,1
+PLATFORM 2 FINCH,Finch,,station,alias,1
+GREEENWOOD YARD,,,yard or facility,rule,1
+LAKESHORE AND YORK,,,unknown,unmatched,1
+HWY 407 & DOWNSVIEW PA,Highway 407,Sheppard West,between stations,alias,1
+ST GEORGE STATION TO S,St George,,station,alias,1
+MUSEUM TO ST ANDREW ST,Museum,St Andrew,between stations,alias,1
+YONGE- UNIVERSITY SPAD,,,unknown,unmatched,1
+YONGE SHEPPARD TO EGLI,Sheppard-Yonge,,station,alias,1
+FINCH STATION TO ST. C,Finch,,station,alias,1
+SHEPPARD STATION - EGL,Sheppard-Yonge,,station,alias,1
+WEEKEND CLOSURE ISLING,,,unknown,unmatched,1
+LINE 1 YU,,,line-wide,rule,1
+LINE 2 - BD,,,line-wide,rule,1
+ISLINGTON TO KIPLING-,Islington,Kipling,between stations,alias,1
+WEEKEND CLOSURE- ST AN,,,unknown,unmatched,1
+WEEKEND CLOSURE- ST GE,,,unknown,unmatched,1
+YONGE AND EGLINTON (EG,Eglinton,,station,alias,1
+KENNEDY TO WARDEN STAT,Kennedy,Warden,between stations,alias,1
+MCBRIAN BUILDING,,,yard or facility,rule,1
+1900 YONGE STREET,,,unknown,unmatched,1
+BLOOR YU / YONGE BD ST,Bloor-Yonge,,station,alias,1
+ROXBOROUGH AND YONGE,,,unknown,unmatched,1
+GO PROTOCOL - DANFORTH,,,unknown,unmatched,1
+UNION AND DOWNSVIEW,Union,Sheppard West,between stations,alias,1
+SUBWAY CLOSURE: WEEKEN,,,line-wide,rule,1
+KIPLING TO UNION STATI,Kipling,Union,between stations,alias,1
+DOWNVIEW PARK STN - UN,Downsview Park,,station,fuzzy,1
+HIGHWAY 407 STATION TO,Highway 407,,station,alias,1
+OSSINGTON TO PAPE,Ossington,Pape,between stations,alias,1
+FINCH WEST CENTER TRAC,Finch West,,station,alias,1
+LINE 1 SUBWAY CLOSURE,,,line-wide,rule,1
+ST GEORGE TO PAPE,St George,Pape,between stations,alias,1
+EARLY CLOSURE KING TO,King,,station,alias,1
+SPADINA TO KING,Spadina,King,between stations,alias,1
+SUBWAY CLOSURE: WARDEN,Warden,,station,alias,1
+SUBWAY CLOSURE BLOOR-D,Bloor-Yonge,,station,alias,1
+MILL STREET EMERGENCY,,,unknown,unmatched,1
+UNION STATION--ST ANDR,Union,,station,alias,1
+NORTH YORK CTR TO ST A,North York Centre,,station,alias,1
+DUFFERIN TO KIPLING,Dufferin,Kipling,between stations,alias,1
+UNION STATION HUB,Union,,station,alias,1
+KING TO SPADINA,King,Spadina,between stations,alias,1
+DUNDAS TO FINCH,TMU (Dundas),Finch,between stations,alias,1
+BATHUST TO PAPE STATIO,Pape,,station,alias,1
+UNION CENTRE TRACK,Union,,station,alias,1
+LEONA EE,,,unknown,unmatched,1
+KING STATION TO ST. CL,King,,station,alias,1
+UNION STATION - HUB,Union,,station,alias,1
+CHANGE OVERS LINE TWO,,,line-wide,rule,1
+WILSON YARD HOSTLER #2,Wilson,,yard or facility,rule,1
+S/O TEDDINGTON TO S/O,,,unknown,unmatched,1
+DUNDAS TO FINCH STATIO,TMU (Dundas),Finch,between stations,alias,1
+UNION STATION (TO ST.A,Union,,station,alias,1
+YORK MILLS AND EGLINTO,York Mills,,station,alias,1
+YORK MILLS STATION TO,York Mills,,station,alias,1
+CHRSTIE TO PAPE STATIO,Pape,,station,alias,1
+HIGH PARK - KEELE STAT,High Park,Keele,between stations,alias,1
+UNION TO BLOOR,Union,Bloor-Yonge,between stations,alias,1
+COLLEGE AND OSGOODE ST,College,Osgoode,between stations,alias,1
+BAY STATION TO PAPE ST,Bay,Pape,between stations,alias,1
+OSGOODE TO COLLEGE STA,Osgoode,College,between stations,alias,1
+OSSINGTON TO CHESTER,Ossington,Chester,between stations,alias,1
+OSSINGTON AND LANSDOWN,Ossington,,station,alias,1
+EGLINTON TO UNION,Eglinton,Union,between stations,alias,1
+ST GEORGE BD/YU STATIO,St George,,station,alias,1
+YORK MILLS STATION - C,York Mills,,station,alias,1
+YOUNG UNIVERSITY LINE,,,line-wide,rule,1
+EGLINTON TO COLLEGE,Eglinton,College,between stations,alias,1
+VAUGHAN MC STATION TO,Vaughan Metropolitan Centre,,station,alias,1
+VMC AND FINCH WEST STA,Vaughan Metropolitan Centre,Finch West,between stations,alias,1
+ST GEORGE AND WOODBINE,St George,Woodbine,between stations,alias,1
+EGLINTON TO UNION STA,Eglinton,Union,between stations,alias,1
+YONGE STATION TO CHEST,,,unknown,unmatched,1
+FINCH WEST TO VMC STAT,Finch West,Vaughan Metropolitan Centre,between stations,alias,1
+LAWRENCE TO EGLINTON,Lawrence,Eglinton,between stations,alias,1
+1900 YONGE MCBRIEN BLD,,,unknown,unmatched,1
+ROYAL YORK STATION(APP,Royal York,,station,alias,1
+EARLY SUBWAY CLOSURE:,,,line-wide,rule,1
+VMC - ST CLAIR,Vaughan Metropolitan Centre,St Clair,between stations,alias,1
+WEEKEND CLOSURE - WOOD,,,unknown,unmatched,1
+ISLINGTON TO KIPLING,Islington,Kipling,between stations,alias,1
+KILPING STATION TO JAN,,,unknown,unmatched,1
+YU- YONGE-UNIVERSITY S,,,line-wide,rule,1
+EGLINTON TO SHEPPARD-Y,Eglinton,Sheppard-Yonge,between stations,alias,1
+WISLON STATION,Wilson,,station,fuzzy,1
+MULTIPLE STATIONS,,,unknown,unmatched,1
+DUPONT STATION TO EGLI,Dupont,,station,alias,1
+GREENWOOD STATION CARH,Greenwood,,station,alias,1
+LEAVING ISLINGTON,Islington,,station,alias,1
+QUEENS QUAY (UNION),Union,,station,alias,1
+ST CLAIR TO DAVISVILLE,St Clair,Davisville,between stations,alias,1
+RUSSEL HILL EE - INTRU,,,unknown,unmatched,1
+EGLINTON STAION,Eglinton,,station,alias,1
+ISLINGTON SUBSTATION,Islington,,yard or facility,rule,1
+WILSON TRAINING CENTER,Wilson,,station,alias,1
+111 SPADINA ROAD,Spadina,,station,alias,1
+BUCHAN ESB,,,unknown,unmatched,1
+MARKDALE EEB,,,unknown,unmatched,1
+HILLCREST GATE,,,unknown,unmatched,1
+OLD MILL STATION TO JA,Old Mill,,station,alias,1
+VARIOUS LOCATION,,,line-wide,rule,1
+LESLIE STATION (ENTERI,Leslie,,station,alias,1
+GREENWOOD TRACK & STRU,Greenwood,,station,alias,1
+YU-ST CLAIR STATION TO,St Clair,,station,alias,1
+KENNEDY TO COXWELL,Kennedy,Coxwell,between stations,alias,1
+YONGE BD STATION TO CO,Bloor-Yonge,,station,alias,1
+WEEKEND CLOSURE SHEPPA,,,unknown,unmatched,1
+ST. CLAIR AND SHEPPARD,St Clair,Sheppard-Yonge,between stations,alias,1
+BLOOR STATION - YONGE,Bloor-Yonge,,station,alias,1
+GREENWOOD SHOPS TRACK,Greenwood,,yard or facility,rule,1
+UNION STATION BROOKFIE,Union,,station,alias,1
+1900 YONGE ST- MCBRIEN,,,unknown,unmatched,1
+COLLEGE TO ST.CLAIR ST,College,St Clair,between stations,alias,1
+YONGE BD STATION (ON R,Bloor-Yonge,,station,alias,1
+SHEPPARD TO YORK MILLS,Sheppard-Yonge,York Mills,between stations,alias,1
+COLLEGE TO ST CLAIR,College,St Clair,between stations,alias,1
+MCDONALD CARTIER EMERG,,,unknown,unmatched,1
+LINE 1: YONGE-UNIVERSI,,,line-wide,rule,1
+EGLINTON STN,Eglinton,,station,alias,1
+ST. CLAIR TO COLLEGE S,St Clair,College,between stations,alias,1
+ST GEOGE STATION,St George,,station,fuzzy,1
+2233 SHEPPARD WEST,Sheppard West,,station,alias,1
+OSSINGTON STATON,Ossington,,station,alias,1
+SHEPPARD-YONGE AND ST,Sheppard-Yonge,,station,alias,1
+UNION STATION TO ST A,Union,,station,alias,1
+QUEENS' QUAY STATION,,,unknown,unmatched,1
+DAVISVILLE OFFICES,Davisville,,station,alias,1
+DUPONT TO SPADINA,Dupont,Spadina,between stations,alias,1
+KIPLING & UNION,Kipling,Union,between stations,alias,1
+KIPLING TO OLD MILL,Kipling,Old Mill,between stations,alias,1
+LINE 1 - YONGE-UNIVER,,,line-wide,rule,1
+SUBWAY LINE 1 YONGE -,Yonge (ambiguous),,station,alias,1
+EA SHEPPARD WEST TO ST,Sheppard West,,station,alias,1
+GREENWOOD SHOPS - 41 T,Greenwood,,yard or facility,rule,1
+JANE & RUNNYMEDE STATI,Jane,Runnymede,between stations,alias,1
+"GO PROTOCOL - UNION, D",Union,,station,alias,1
+MAIN STREET STAITON,Main Street,,station,alias,1
+KENNDY STATION,Kennedy,,station,fuzzy,1
+KIPLING TO HIGH PARK S,Kipling,High Park,between stations,alias,1
+E/O WARDEN TO W/O VICT,Warden,,station,alias,1
+FINCH TO UNION,Finch,Union,between stations,alias,1
+ST GEORGE - LAWRENCE W,St George,Lawrence,between stations,alias,1
+VAUGHAN MC TO FINCH ST,Vaughan Metropolitan Centre,Finch,between stations,alias,1
+FINCH STN 39 BUS PLATF,Finch,,station,alias,1
+BETWEEN WARDEN STATION,Warden,,station,alias,1
+N/O DUPONT TO N/END ST,Dupont,,station,alias,1
+FINCH TO WILSON,Finch,Wilson,between stations,alias,1
+N/END SPADINA TO S/END,Spadina,,station,alias,1
+(APPROACHING) KENNEDY,Kennedy,,station,alias,1
+LINE 1 - YONGE-UNIVERI,,,line-wide,rule,1
+S/E MUSEUM / TO SE SPA,Museum,,station,alias,1
+YOUNGE-UNIVERSITY-SPAD,,,unknown,unmatched,1
+WILSON YARD- WILSON GA,Wilson,,yard or facility,rule,1
+QUEENS QUAY ELEAVATOR,,,unknown,unmatched,1
+EGLINTON YARD,Eglinton,,yard or facility,rule,1
+EGLINTON - SCARBOROUGH,Eglinton,,station,alias,1
+BROADVIEW TO SCARBOROU,Broadview,,station,alias,1
+BLOOR / DANFORTH LINE,,,line-wide,rule,1
+LOST ARTICLES OFFICE -,,,unknown,unmatched,1
+E/O WARDEN TO W/O WARD,Warden,,station,alias,1
+ST CLAIR - YORK MILLS,St Clair,York Mills,between stations,alias,1
+LAWRENCE WEST CENTER T,Lawrence West,,station,alias,1
+ST CLAIR AND UNION STA,St Clair,Union,between stations,alias,1
+COXWELL TO GREENWOOD Y,Coxwell,Greenwood,between stations,alias,1
+COXWELL TO KENNEDY,Coxwell,Kennedy,between stations,alias,1
+ISLINGTON AND JANE,Islington,Jane,between stations,alias,1
+SUBWAY CLOSURE: WOODBI,,,line-wide,rule,1
+ISLINGTON TO OLD MILL,Islington,Old Mill,between stations,alias,1
+WILSON YARD - 26 TRACK,Wilson,,yard or facility,rule,1
+LAWRENCE - AUTO ENTRAN,Lawrence,,station,alias,1
+EGLINTON TO ST CLAIR S,Eglinton,St Clair,between stations,alias,1
+"KENNEDY, DON MILLS, SC",Kennedy,Don Mills,between stations,alias,1
+WILFRED EEB,,,unknown,unmatched,1
+DUFFERIN STATON,Dufferin,,station,alias,1
+ROYAL YORK AND ISLINGT,Royal York,,station,alias,1
+LINE 2 BLOOR / DANFORT,Bloor-Yonge,,station,alias,1
+WOODBINE STATION TO CO,Woodbine,,station,alias,1
+WILSON HOSTLER - 2,Wilson,,yard or facility,rule,1
+DONLANDS TO GREENWOD Y,Donlands,,station,alias,1
+TORONTO TRANIST COMMIS,,,unknown,unmatched,1
+ISLINGTON TO KEELE,Islington,Keele,between stations,alias,1
+SUMMERHILL STATION TO,Summerhill,,station,alias,1
+YU & BD LINES,,,line-wide,rule,1
+ALL STATIONS,,,line-wide,rule,1
+HILLCREST COMPLEX - IN,,,unknown,unmatched,1
+FINCH TO ST CLAIR WEST,Finch,St Clair West,between stations,alias,1
+HILLCREST POWER CONTRO,,,unknown,unmatched,1
+WELBECK EE,,,unknown,unmatched,1
+DAVISVILLE YARD / TRAC,Davisville,,yard or facility,rule,1
+SPADINA TO WILSON STAT,Spadina,Wilson,between stations,alias,1
+KING TO ST CLAIR WEST,King,St Clair West,between stations,alias,1
+CHRISTIE CENTRE TRACK,Christie,,station,alias,1
+SHEBOURNE STATION,Sherbourne,,station,fuzzy,1
+FINCH TO MUSEUM,Finch,Museum,between stations,alias,1
+HOSTLER 2 WILSON YARD,Wilson,,yard or facility,rule,1
+ST. CLAIR WEST - KING,St Clair West,King,between stations,alias,1
+KING TO ST CLAIR W,King,St Clair,between stations,alias,1
+GREENWOOD TRACK/STRUCT,Greenwood,,station,alias,1
+SUBWAY CLOSURE EARLY A,,,line-wide,rule,1
+BLOOR DANFORTHLINE,Bloor-Yonge,,station,alias,1
+GREENWOOD TO DONLANDS,Greenwood,Donlands,between stations,alias,1
+391 ALLIANCE,,,unknown,unmatched,1
+OSSINGTON CENTRE,Ossington,,station,alias,1
+YONGE-UNIVERISTY & BLO,,,unknown,unmatched,1
+YONGE - UNIVERSITY BLO,,,line-wide,rule,1
+TYSSE LINE,,,line-wide,rule,1
+SHEPPARD WEST MIGRATI,Sheppard West,,station,alias,1
+UNION TO ST GEORGE,Union,St George,between stations,alias,1
+LAWRENCE EAST TO ELLES,Lawrence East,,station,alias,1
+EGLINTON WEST TO VMC,Cedarvale (Eglinton West),Vaughan Metropolitan Centre,between stations,alias,1
+OSSINGTON AND DUFFERIN,Ossington,Dufferin,between stations,alias,1
+LEAVING LAWRENCE EAST,Lawrence East,,station,alias,1
+SEHPPARD STATION,Sheppard-Yonge,,station,fuzzy,1
+OAKVALE SUBSTATION,,,yard or facility,rule,1
+DUFFERIN TO LANSDOWNE,Dufferin,Lansdowne,between stations,alias,1
+WILSON TO EGLINTON,Wilson,Eglinton,between stations,alias,1
+KING STATION TO UNION,King,Union,between stations,alias,1
+LEAVING YONGE/SHEPPARD,Sheppard-Yonge,,station,alias,1
+GLENCAIRN TO ST GEORGE,Glencairn,St George,between stations,alias,1
+ST CLAIR WEST TO EGLIN,St Clair West,,station,alias,1
+OLD MILL TO ISLINGTON,Old Mill,Islington,between stations,alias,1
+LESLIE STATION(APPROAC,Leslie,,station,alias,1
+DUPONT TO OSGOODE,Dupont,Osgoode,between stations,alias,1
+GREENWOOD WYE (ENTERI,Greenwood,,yard or facility,rule,1
+EGINTON STATION,Eglinton,,station,fuzzy,1
+VMC TO SHEPPARD WEST,Vaughan Metropolitan Centre,Sheppard West,between stations,alias,1
+ATC FAILURE,,,unknown,unmatched,1
+KING TO S/O ST ANDREW,King,St Andrew,between stations,alias,1
+KENNEDY SRT TO MCCOWAN,Kennedy,McCowan,between stations,alias,1
+WELLSLEY STATION,Wellesley,,station,fuzzy,1
+SCARBOROUGH SRT LINE,,,line-wide,rule,1
+40 CARL HALL ROAD UNIT,,,unknown,unmatched,1
+SHEPPARD WEST,Sheppard West,,station,alias,1
+SCARBOROUGH RAOID TRAN,,,unknown,unmatched,1
+SOUTH OF LAWRENCE SRT,Lawrence,,station,alias,1
+SOUTH OF MIDLAND SRT,Midland,,station,alias,1
+WELBECK EMERGENCY EXIT,,,unknown,unmatched,1
+YARD SWITCH - BD CHECK,,,yard or facility,rule,1
+GLENAYR SUBSTATION,,,yard or facility,rule,1
+ST. CLAIR WEST TO DUPO,St Clair West,,station,alias,1
+KENNEDY - MCCOWAN,Kennedy,McCowan,between stations,alias,1
+ST. GEORGE TO BROADVIE,St George,,station,alias,1
+SHEPPARD WEST TO ST. C,Sheppard West,,station,alias,1
+LAWRENCE TO EGLINTON S,Lawrence,Eglinton,between stations,alias,1
+FINCH TO UNION STATION,Finch,Union,between stations,alias,1
+ST GEORGE SIGNALS OFFI,St George,,station,alias,1
+ST GEORGE TO FINCH WES,St George,Finch,between stations,alias,1
+ATC TERRITORY,,,unknown,unmatched,1
+SHEPPARD YONGE,Sheppard-Yonge,,station,alias,1
+WELLBECK EMERGENCY,,,unknown,unmatched,1
+GO PROTOCOL - BARRIE L,,,unknown,unmatched,1
+NORTHBOUND TO LAWRENCE,Lawrence,,station,alias,1
+SPADINA TO UNION STATI,Spadina,Union,between stations,alias,1
+BATHUSRT STATION,Bathurst,,station,fuzzy,1
+SYSTEM - WIDE IN THE O,,,line-wide,rule,1
+LAWRENCE SUB STATION,Lawrence,,station,alias,1
+MCCOWAN PARKING LOT,McCowan,,station,alias,1
+UNION TO ST CLAIR WEST,Union,St Clair West,between stations,alias,1
+SHEPPARD WEST TO DOWNS,Sheppard West,,station,alias,1
+DUPONT MIGRATION POINT,Dupont,,station,alias,1
+UNION TO BLOOR STATION,Union,Bloor-Yonge,between stations,alias,1
+WILSON - ST CLAIR WEST,Wilson,St Clair West,between stations,alias,1
+FINCH STATION TO DUPON,Finch,,station,alias,1
+ST ANDREW TO BLOOR STA,St Andrew,Bloor-Yonge,between stations,alias,1
+BLOOR TO EGLINTON STAT,Bloor-Yonge,Eglinton,between stations,alias,1
+GLENAYR EE,,,unknown,unmatched,1
+WILSON STATION TO VMC,Wilson,Vaughan Metropolitan Centre,between stations,alias,1
+FINCH - NORTH YORK CEN,Finch,North York Centre,between stations,alias,1
+BLOOR VIA DUCT,Bloor-Yonge,,station,alias,1
+ST CLAIR TO UNION,St Clair,Union,between stations,alias,1
+PIONNER VILLAGE STATIO,Pioneer Village,,station,fuzzy,1
+KEELE TO HIGH PARK STA,Keele,High Park,between stations,alias,1
+KIPLING TO HIGH PARK,Kipling,High Park,between stations,alias,1
+KIPLING TO KENNEDY STN,Kipling,Kennedy,between stations,alias,1
+KIPLING TO COXWELL,Kipling,Coxwell,between stations,alias,1
+YORKDALE TO FINCH STAT,Yorkdale,Finch,between stations,alias,1
+S/O EGLINTON TO ST CLA,Eglinton,,station,alias,1
+QUEEN'S PARK TO ST CLA,Queen's Park,,station,alias,1
+LINE 2 - ST. GEORGE TO,St George,,station,alias,1
+TMU STATION - WS,TMU (Dundas),,station,alias,1
+OSSINGTION STAITON,,,unknown,unmatched,1
+SUBWAY CLOSURE - WILSO,,,line-wide,rule,1
+DAVISVILLE BUID-UP,Davisville,,station,alias,1
+UNION STATION TO ST CL,Union,,station,alias,1
+LOWER BAY,Bay,,yard or facility,rule,1
+DON MLLS STATION,Don Mills,,station,fuzzy,1
+"UNION, DOWNSVIEW PARK,",Union,Downsview Park,between stations,alias,1
+"UNION, KIPLING, ROYAL",Union,Kipling,between stations,alias,1
+QUEEN'S QUAY ELEVATOR,,,unknown,unmatched,1
+WILSON STATION TO YORK,Wilson,,station,alias,1
+ELLIS BRIDGE,,,unknown,unmatched,1
+WILSON STATION- HOSTLE,Wilson,,station,alias,1
+WILSON SUB STATION,Wilson,,station,alias,1
+BROADVIEW TO KIPLING S,Broadview,Kipling,between stations,alias,1
+UNION STATION TO KENNE,Union,,station,alias,1
+E13,,,line-wide,rule,1
+MCCOWAN CAR HOUSE,McCowan,,station,alias,1
+YONGE-UNIVERSITY AND,,,line-wide,rule,1
+YONGE BD STATION BOOTH,Bloor-Yonge,,station,alias,1
+ST ANDREW TO BLOOR ST,St Andrew,Bloor-Yonge,between stations,alias,1
+ST GEORGE STATION TO G,St George,,station,alias,1
+CHESTER TO WARDEN,Chester,Warden,between stations,alias,1
+ST GEORGE TO GREENWOOD,St George,Greenwood,between stations,alias,1
+ISLINGTON TO PRINCE ED,Islington,,station,alias,1
+YONGE SHEPPARD SATATIO,Sheppard-Yonge,,station,alias,1
+YONGE TO COXWELL STATI,Coxwell,,station,alias,1
+GO PROTOCOL- UNION - K,Union,,station,alias,1
+"YORK UNIVERSTITY, DOWN",York University,,station,fuzzy,1
+W/O CASTLE FRANK TO GR,Castle Frank,,station,alias,1
+CHESTER TO YONGE STATI,Chester,,station,alias,1
+SCARBORUGH RAPID TRANS,,,unknown,unmatched,1
+WARDEN AND KENNEDY,Warden,Kennedy,between stations,alias,1
+UNION STATION (KING),Union,King,between stations,alias,1
+WOODBINE TO ST.GEORGE,Woodbine,St George,between stations,alias,1
+UNION TO MAIN STREET,Union,Main Street,between stations,alias,1
+DAVISVILLE YARD - TUNN,Davisville,,yard or facility,rule,1
+KENNEDY AND SCARBOROUG,Kennedy,,station,alias,1
+MCBRIEN BUIDING,,,unknown,unmatched,1
+BLOOR TO ST.CLAIR,Bloor-Yonge,St Clair,between stations,alias,1
+"UNION, EXHIBITION, MIM",Union,,station,alias,1
+ST CLAIR WEST TO SHEPP,St Clair West,,station,alias,1
+VMC STATION TO SHEPPAR,Vaughan Metropolitan Centre,,station,alias,1
+BLOOR TO UNION,Bloor-Yonge,Union,between stations,alias,1
+"UNION, MAIN, KENNEDY S",Union,Main Street,between stations,alias,1
+WILSON HOSTLER SOUTHBO,Wilson,,yard or facility,rule,1
+ALLEN RD (N OF EGLINTO,,,unknown,unmatched,1
+KENNEDY - WARDEN - MAI,Kennedy,Warden,between stations,alias,1
+EGLINTON - DAVISVILLE,Eglinton,Davisville,between stations,alias,1
+WILSON DIVISION TRAILE,Wilson,,yard or facility,rule,1
+FINCH TO NORTH YORK CT,Finch,North York Centre,between stations,alias,1
+KING AND BATHURST,King,Bathurst,between stations,alias,1
+FINCH TO VAUGHAN METRO,Finch,Vaughan Metropolitan Centre,between stations,alias,1
+RONCEVALLES DIVISION,,,yard or facility,rule,1
+BLOOR/DANFORTH SUBWAY,,,line-wide,rule,1
+BLOOR/DANFORTH OPEN CU,,,unknown,unmatched,1
+HWY 407 TO UNION STATI,Highway 407,Union,between stations,alias,1
+BAY STATION LOWER,Bay,,station,alias,1
+EGLINTON WEST TO BLOOR,Cedarvale (Eglinton West),Bloor-Yonge,between stations,alias,1
+FENMAR AND WESTON,,,unknown,unmatched,1
+DUPLEX AVENUE,,,unknown,unmatched,1
+BLOOR TO KING STATIONS,Bloor-Yonge,King,between stations,alias,1
+YUS/BD/SRT,,,line-wide,rule,1
+BESSARION STATION ( EN,Bessarion,,station,alias,1
+CHESTER TO CASTLEFRANK,Chester,,station,alias,1
+BLOOR TO YORK MILLS,Bloor-Yonge,York Mills,between stations,alias,1
+MACDONALD CARTIER ESB,,,unknown,unmatched,1
+BLOOR TO DAVISVILLE,Bloor-Yonge,Davisville,between stations,alias,1
+(APPROACHING),,,line-wide,rule,1
+DAVENPORT BUILDING,,,yard or facility,rule,1
+UNION STATION ( TO ST,Union,,station,alias,1
+CLANTON PARK EMERGENCY,,,unknown,unmatched,1
+PRINCE EDWARD VIADUCT,,,unknown,unmatched,1
+MOORE GATE,,,unknown,unmatched,1
+PLANT OPS BLDG,,,unknown,unmatched,1
+BLOOR YONGE LINES,Bloor-Yonge,,station,alias,1
+JANE TO OSSIGNTON STAT,Jane,,station,alias,1
+UNION STATION (DOWNSVI,Union,,station,alias,1
+SUBWAY OPS BLDG - PAIN,,,line-wide,rule,1
+SHEPPARD YONGE - DON M,Sheppard-Yonge,,station,alias,1
+MUSEUM TO FINCH STATIO,Museum,Finch,between stations,alias,1
+OLD MILL STATION (EXIT,Old Mill,,station,alias,1
+WILSON TRAINING BUILDI,Wilson,,station,alias,1
+EASTBOUND - BETWEEN SH,,,unknown,unmatched,1
+DUNDAS STATION E/S 1,TMU (Dundas),,station,alias,1
+GLENCAIRN,Glencairn,,station,alias,1
+KENNEDY STATION (PALTF,Kennedy,,station,alias,1
+HIGH PARK STATION (ENT,High Park,,station,alias,1
+CLOSURE- KEELE TO OSSI,Keele,,station,alias,1
+ST CLAIR E OF BATHURST,St Clair,Bathurst,between stations,alias,1
+SPADINA TO OSGOODE,Spadina,Osgoode,between stations,alias,1
+MCCOWAN STATION (APPRO,McCowan,,station,alias,1
+FINCH TO QUEEN STATION,Finch,Queen,between stations,alias,1
+N/O YORK MILLS TO DAVI,York Mills,,station,alias,1
+WELLESLEY STATION (APP,Wellesley,,station,alias,1
+OSSINGTON STAITON,Ossington,,station,alias,1
+DOWNSVIEW STATION PLAT,Sheppard West,,station,alias,1
+WILSON COMPEX TRAINING,Wilson,,station,alias,1
+DAVISVILLE STATION - L,Davisville,,station,alias,1
+S/O SHEPPARD TO DAVISV,Sheppard-Yonge,,station,alias,1
+INGLIS BUILDING - 3RD,,,yard or facility,rule,1
+HILLCREST - PAINT AND,,,unknown,unmatched,1
+YONGE UNIVESITY AND BL,,,unknown,unmatched,1
+DONLANDS TO KIPLING ST,Donlands,Kipling,between stations,alias,1
+GREENWOOD - TRACK TRAI,Greenwood,,station,alias,1
+SHEPPARD STATION (ENTE,Sheppard-Yonge,,station,alias,1
+ST CALIR STATION,St Clair,,station,fuzzy,1
+SHEPPARD/YONGE STATION,Sheppard-Yonge,,station,alias,1
+OSGOODE,Osgoode,,station,alias,1
+ROSEDALE STATION (APP,Rosedale,,station,alias,1
+SHERBOURNE AND BLOOR,Sherbourne,Bloor-Yonge,between stations,alias,1
+LANSDOWN STATION,Lansdowne,,station,fuzzy,1
+ATC AREA,,,unknown,unmatched,1
+TETRA RADIO ZONE YU/SH,,,unknown,unmatched,1
+LAWRENCE AND YONGE,Lawrence,,station,alias,1
+DUNDAS STATION - W/S,TMU (Dundas),,station,alias,1
+YONGE - SHEPPARD (LEAV,Sheppard-Yonge,,station,alias,1
+FINCH STATION BOOTH 2,Finch,,station,alias,1
+ROYAL YORK STATION (EN,Royal York,,station,alias,1
+BLOOR INTERLOCKING,Bloor-Yonge,,yard or facility,rule,1
+COXWELL TO KENNEDY STA,Coxwell,Kennedy,between stations,alias,1
+EGLINTON TO KING STATI,Eglinton,King,between stations,alias,1
+YONGE/UNIVESITY AND BL,,,unknown,unmatched,1
+LAWRENCE STATION (LEAV,Lawrence,,station,alias,1
+ST ANDREW STATION (LEA,St Andrew,,station,alias,1
+BROADVIEW TO ST. GEORG,Broadview,,station,alias,1
+DUFFERIN TO KIPLING ST,Dufferin,Kipling,between stations,alias,1
+MCCOWAN STATION (DEPAR,McCowan,,station,alias,1
+KEELE STATION TO KIPLI,Keele,,station,alias,1
+ST CLAIR TO SHEPPARD S,St Clair,Sheppard-Yonge,between stations,alias,1
+ST CLAIR TO BLOOR STAT,St Clair,Bloor-Yonge,between stations,alias,1
+SHERBOURNE STATION (AP,Sherbourne,,station,alias,1
+KENNEDY BD STATION (EX,Kennedy,,station,alias,1
+GLENACAIRN STATION (AP,,,unknown,unmatched,1
+MCCOWAN STATION NB,McCowan,,station,alias,1
+BLOOR DANFORTH/YONGE U,,,unknown,unmatched,1
+KEELE STATION (CROSSIN,Keele,,station,alias,1
+ST GEORGE/BEDFORD,St George,,station,alias,1
+WILSON YARD NORTH HOST,Wilson,,yard or facility,rule,1
+SUBWAY CLOSURE - JANE,Jane,,station,alias,1
+KIPLING - KENNEDY,Kipling,Kennedy,between stations,alias,1
+YONGE STATION (EXITING,,,unknown,unmatched,1
+EGLINTON STATION (EXIT,Eglinton,,station,alias,1
+YORKDALE STATION (EXIT,Yorkdale,,station,alias,1
+LEAVING SHEPPARD/YONGE,Sheppard-Yonge,,station,alias,1
+BLOOR TO ST ANDREW STA,Bloor-Yonge,St Andrew,between stations,alias,1
+OSSINGTON STATION (EXI,Ossington,,station,alias,1
+LEAVING KENNEDY STATIO,Kennedy,,station,alias,1
+YONGE AND QUEEN,Queen,,station,alias,1
+ENTERING LESLIE STATIO,Leslie,,station,alias,1
+SCARB CENTRE STATION,Scarborough Centre,,station,fuzzy,1
+KENNEDY PLATFORM 1,Kennedy,,station,alias,1
+FULL LINE,,,line-wide,rule,1
+BLOOR STATION (STATION,Bloor-Yonge,,station,alias,1
+HIGH PARK STATION (APP,High Park,,station,alias,1
+WILSON YARD PLANT BUIL,Wilson,,yard or facility,rule,1
+BRUNSWICK AND BLOOR,Bloor-Yonge,,station,alias,1
+ST GEORGE STN,St George,,station,alias,1
+DUNDAS STATION (W/S),TMU (Dundas),,station,alias,1
+RAMPS BAY LOWER,Bay,,yard or facility,rule,1
+JANE STATION (EXITING),Jane,,station,alias,1
+COXWELL STATION (EXITI,Coxwell,,station,alias,1
+VAUGHAN MC STATIO,Vaughan Metropolitan Centre,,station,alias,1
+FINCH WEST - SHEPPARD,Finch West,Sheppard-Yonge,between stations,alias,1
+BLOOR AND ABERFOYLE CR,Bloor-Yonge,,station,alias,1
+MCCOWAN STATION (ENTER,McCowan,,station,alias,1
+MUSEUM STATION (LEAVIN,Museum,,station,alias,1
+YUS/BD,,,line-wide,rule,1
+ELLESMERE STATION DEPA,Ellesmere,,station,alias,1
+DUNDAS STATION - WEST,Dundas West,,station,alias,1
+YONGE-UNIVERSITY SUBW,,,line-wide,rule,1
+YORK MILLS STATION [,York Mills,,station,alias,1
+ISLINGTON STATION (EXI,Islington,,station,alias,1
+ROYAL YORK TO ISLINGTO,Royal York,,station,alias,1
+UNION STATION (APPROAC,Union,,station,alias,1
+SUBWAY OPERATIONS BLDG,,,line-wide,rule,1
+LEAVING DON MILLS,Don Mills,,station,alias,1
+BROADVIEW TO SHERBOURN,Broadview,,station,alias,1
+YONGE / UNIVERSITY - L,,,line-wide,rule,1
+BROADVIEW TO YONGE STA,Broadview,,station,alias,1
+169 DANFORTH AVENUE,,,unknown,unmatched,1
+WARDEN STATION (APPR,Warden,,station,alias,1
+EARLY CLOSURE EGLINTON,Eglinton,,station,alias,1
+DUPONT STATION ( APPRO,Dupont,,station,alias,1
+ST CLAIR STATION PLEAS,St Clair,,station,alias,1
+QUEEN TO FINCH STATION,Queen,Finch,between stations,alias,1
+LESLIE STATION APROACH,Leslie,,station,alias,1
+UNION STATION - SALES,Union,,station,alias,1
+ENGLINTON TO SHEPPARD,Sheppard-Yonge,,station,alias,1
+DON MILLS STAITON,Don Mills,,station,alias,1
+KENNEDY BD STATION ( A,Kennedy,,station,alias,1
+DUPONT STATION APPROAC,Dupont,,station,alias,1
+WILSON STATION (EXITIN,Wilson,,station,alias,1
+QUEEN TO KING STATIONS,Queen,King,between stations,alias,1
+DOWNSVIEWSTATION,,,unknown,unmatched,1
+YONGE/UNIVERSITY BLOOR,Bloor-Yonge,,station,alias,1
+YONGE/UNIVERISITY-BLOO,,,unknown,unmatched,1
+YONGE/UNIVERSITY & BLO,,,line-wide,rule,1
+YONGE/UINVERSITY & BLO,,,unknown,unmatched,1
+PRINCE EDWARD SUBSTATI,,,unknown,unmatched,1
+WELLESLEY TO COLLEGE,Wellesley,College,between stations,alias,1
+SHEPPARD TO BAYVIEW,Sheppard-Yonge,Bayview,between stations,alias,1
+BLOOR STATON,Bloor-Yonge,,station,alias,1
+VICTORIA PARK,Victoria Park,,station,alias,1
+ST GEORGE TO BLOOR STA,St George,Bloor-Yonge,between stations,alias,1
+MC BRIEN BUILDING,,,yard or facility,rule,1
+EGLINTON WEST TO ST CL,Cedarvale (Eglinton West),,station,alias,1
+YORK MILLS STATION (A,York Mills,,station,alias,1
+WILSON STRUCTURE BUILD,Wilson,,station,alias,1
+ATC TERRIROTY,,,unknown,unmatched,1
+YORKDALE TO DUPONT STA,Yorkdale,Dupont,between stations,alias,1
+CLANTON PARK PORTAL,,,yard or facility,rule,1
+DANFORTH AND COXWELL,Coxwell,,station,alias,1
+FINCH TO SHEPPARD WEST,Finch,Sheppard West,between stations,alias,1
+DAVISVILLE YARD - T&S,Davisville,,yard or facility,rule,1
+DAVISVILLE YARD (APPRO,Davisville,,yard or facility,rule,1
+DOWNSVIEW PARK TO VMC,Downsview Park,Vaughan Metropolitan Centre,between stations,alias,1
+WILSON CAPITAL SHOP,Wilson,,yard or facility,rule,1
+LEAVING YONGE-SHEPPARD,Sheppard-Yonge,,station,alias,1
+FICNH STATION,,,unknown,unmatched,1
+LINE 2 (BD),,,line-wide,rule,1
+UNION STATION TO  KING,Union,King,between stations,alias,1
+SHEPPARD - EGLINTON ST,Sheppard-Yonge,Eglinton,between stations,alias,1
+ST CLAIR WEST TO VMC S,St Clair West,Vaughan Metropolitan Centre,between stations,alias,1
+KIPLING PLATFORM,Kipling,,station,alias,1
+FINCH TAIL,Finch,,station,alias,1
+KEELE STATION LEAVING,Keele,,station,alias,1
+KIPLING STATION - [PLA,Kipling,,station,alias,1
+BLOOR TO MUSUEM STATIO,Bloor-Yonge,,station,alias,1
+BATHURST AND DUPONT,Bathurst,Dupont,between stations,alias,1
+LEAVING SHEPPARD-YONGE,Sheppard-Yonge,,station,alias,1
+ST GEORGE TO BAY STATI,St George,Bay,between stations,alias,1
+UNION STATION TO VMC,Union,Vaughan Metropolitan Centre,between stations,alias,1
+OLD MILL STATION (LEAV,Old Mill,,station,alias,1
+SHPPARD STATION,Sheppard-Yonge,,station,fuzzy,1
+ST GEORGE AND BROADVIE,St George,,station,alias,1
+WILSON SUBWAY YARD,Wilson,,yard or facility,rule,1
+FINCH TO ST CLAIR,Finch,St Clair,between stations,alias,1
+YORK MILLS TO LAWRENCE,York Mills,Lawrence,between stations,alias,1
+ST CLAIR,St Clair,,station,alias,1
+FINCH STATION TO ST GE,Finch,,station,alias,1
+VAUGHAN METRO CENTRE,Vaughan Metropolitan Centre,,station,alias,1
+LAWRENCE  STATION,Lawrence,,station,alias,1
+SCABOROUGH TOWN CENTRE,Scarborough Centre,,station,fuzzy,1
+YORK MILLS CENTRE,York Mills,,station,alias,1
+ST GEORGE  STATION TO,St George,,station,alias,1
+N/O WILSON TO S/O SHEP,Wilson,,station,alias,1
+ST GEORGE BEDFORD,St George,,station,alias,1
+UNION STATION- ST ANDR,Union,,station,alias,1
+SCARBOROUGH RT LINE,,,line-wide,rule,1
+DAVISVILLE - ST. CLAIR,Davisville,St Clair,between stations,alias,1
+YONGE/UNIVERSITY/ BLOO,,,unknown,unmatched,1
+SHEPPARD HUB,Sheppard-Yonge,,station,alias,1
+MCCOWAN YARD - 3 TRACK,McCowan,,yard or facility,rule,1
+LANSDOWNE,Lansdowne,,station,alias,1
+YONGE / UNIVERSITY - B,,,line-wide,rule,1
+YONGE/UNIVERSITY-SPADI,,,line-wide,rule,1
+BAY STATION BELAIR EXI,Bay,,station,alias,1
+YONGE-DUNDAS SQUARE,TMU (Dundas),,station,alias,1
+DON MILLS,Don Mills,,station,alias,1
+EGLINTON STATION (ENTE,Eglinton,,station,alias,1
+KENNEDY SRT TO MCCOWA,Kennedy,,station,alias,1
+VAUGHAN MC STATION  -,Vaughan Metropolitan Centre,,station,alias,1
+YU & BD,,,line-wide,rule,1
+GREENWOOD PORTAL (EXIT,Greenwood,,yard or facility,rule,1
+YONGE-UNIVRESITY LINE,,,line-wide,rule,1
+BICHMOUNT DIVISION,,,yard or facility,rule,1
+BLOOR TO COLLEGE,Bloor-Yonge,College,between stations,alias,1
+BLOOR STATION SOUTH,Bloor-Yonge,,station,alias,1
+KENNEDY TO MCCOWAN - L,Kennedy,McCowan,between stations,alias,1
+B/W BLOOR DANFORTH SUB,,,line-wide,rule,1
+LINE1 - YONGE-UNIVSERS,,,unknown,unmatched,1
+LANSDOWN TO ISLINGTON,Islington,,station,alias,1
+LINE 2 OPEN CUT AREAS,,,line-wide,rule,1
+QUEEN STATION - WEST S,Queen,,station,alias,1
+EGLINTON - FINCH STATI,Eglinton,Finch,between stations,alias,1
+LINE1 - YOUNGE-UNIVERS,,,unknown,unmatched,1
+BEDFORD SUBSTATION,,,yard or facility,rule,1
+DUNDAS STATION (EAST S,TMU (Dundas),,station,alias,1
+LINE 1 EARLY ACCESS CL,,,line-wide,rule,1
+YONGE AUTO ENTRANCE,,,unknown,unmatched,1
+SHEPPARD-YONGE (TAIL T,Sheppard-Yonge,,station,alias,1
+VAUGHAN MC STATION - P,Vaughan Metropolitan Centre,,station,alias,1
+ISLINGTON STATION APPR,Islington,,station,alias,1
+COLLEGE STATION TOWARD,College,,station,alias,1
+BLOOR STATION TO EGLIN,Bloor-Yonge,,station,alias,1
+SUMMERHILL TO BLOOR ST,Summerhill,Bloor-Yonge,between stations,alias,1
+SHEPPARD-YONGE TAIL,Sheppard-Yonge,,station,alias,1
+SHEPPARD TAIL TRACK #2,Sheppard-Yonge,,yard or facility,rule,1
+FINCH STATION - 5697 Y,Finch,,station,alias,1
+WILSON STATION TO SHEP,Wilson,,station,alias,1
+WILSO STATION,Wilson,,station,fuzzy,1
+YORKDALE TO LAWRENCE W,Yorkdale,Lawrence,between stations,alias,1
+VICTORIA PARK - WARDEN,Victoria Park,Warden,between stations,alias,1
+DON MILLS STATION(LEAV,Don Mills,,station,alias,1
+DUNDAS STATION WS,TMU (Dundas),,station,alias,1
+DUPONT - SPADINA YUS S,Dupont,Spadina,between stations,alias,1
+SCARBOROUGH TOWN CENTE,Scarborough Centre,,station,fuzzy,1
+TRACK ACTIVIVITY LOG,,,unknown,unmatched,1
+MAINLINE STORAGE LOG,,,unknown,unmatched,1
+ROSEDALE-WELLESLEY STA,Rosedale,Wellesley,between stations,alias,1
+UNION STATION (YONGE P,Union,,station,alias,1
+OSSINGTON TO JANE,Ossington,Jane,between stations,alias,1
+DAVISVILLE STATION-HOL,Davisville,,station,alias,1
+EARLY CLOSURE LINE 1 Y,,,line-wide,rule,1
+BETWEEN SHERBOURNE AND,Sherbourne,,station,alias,1
+"YONGE UNIVERSITY, LINE",,,line-wide,rule,1
+BLOOR- DANFORTH LINE,,,line-wide,rule,1
+WILSON YARD (SOUTH TAI,Wilson,,yard or facility,rule,1
+ZONE 1,,,unknown,unmatched,1
+SHEPPARD WEST - WILSON,Sheppard West,Wilson,between stations,alias,1
+YONGE UNVERSITY SUBWAY,,,line-wide,rule,1
+YONGE-UNIVERSITY / BLO,,,line-wide,rule,1
+KIPLING - ISLIINGTON S,Kipling,,station,alias,1
+MUSEUM STATION TO OSGO,Museum,,station,alias,1
+MUSEUM STATION',Museum,,station,alias,1
+YOONGE-UNIVERSITY SUBW,,,line-wide,rule,1
+YONGE - UNIVERSITY- SP,,,line-wide,rule,1
+BLOOR- DANFORTH LINE 2,,,line-wide,rule,1
+UNION TO ST ANDREW PLA,Union,St Andrew,between stations,alias,1
+MUSEUM - OSGOODE,Museum,Osgoode,between stations,alias,1
+WILSON T & S,Wilson,,station,alias,1
+BROADVIEW,Broadview,,station,alias,1
+DUNDA WEST STATION,Dundas West,,station,fuzzy,1
+KING STATION COMMERCE,King,,station,alias,1
+YONGE UNIVERSITY - SPA,,,line-wide,rule,1
+KILPING STATION,Kipling,,station,fuzzy,1
+VMC STATION TO PIONEER,Vaughan Metropolitan Centre,,station,alias,1
+YONGE UNIVESITY LINE 1,,,line-wide,rule,1
+SCARBOROUGH RAPID TRA,,,unknown,unmatched,1
+JANE STATION AND HIGHW,Jane,,station,alias,1
+APPROACHING OLD MILL S,Old Mill,,station,alias,1
+JANE AND HWY 407,Jane,Highway 407,between stations,alias,1
+YONGE UNIVERVISTY SUBW,,,line-wide,rule,1
+LAWERENCE STATION,Lawrence,,station,fuzzy,1
+ST.CLAIR WEST TO ST.A,St Clair West,,station,alias,1
+APPROACHING FINCH STAT,Finch,,station,alias,1
+BAYVIEW TO SHEPAPRD/YO,Bayview,,station,alias,1
+N/O QUEEN TO MARKDALE,Queen,,station,alias,1
+BAYVIEW,Bayview,,station,alias,1
+ST. CLAIR WEST TO KING,St Clair West,King,between stations,alias,1
+KING,King,,station,alias,1
+LINE 1 AND LINE 2 AND,,,line-wide,rule,1
+"LINE 1, LINE 2 AND LIN",,,line-wide,rule,1
+JANE STATION TO OLD MI,Jane,,station,alias,1
+ST. CLAIR TO FINCH STA,St Clair,Finch,between stations,alias,1
+DAVISVILLE BUILDD UP,Davisville,,station,alias,1
+WILSON SOUTH HOSLER,Wilson,,station,alias,1
+SHEPPARD-YONGE,Sheppard-Yonge,,station,alias,1
+ST CLAIR STATION - FIN,St Clair,,station,alias,1
+SCARBORUOGH RAPID TRAN,,,unknown,unmatched,1
+LINE 1 YUS / LINE 2 BD,,,line-wide,rule,1
+KING TO EGLINTON STATO,King,Eglinton,between stations,alias,1
+MAIN STREET AND UNION,Main Street,Union,between stations,alias,1
+KING STATION TO ST GEO,King,,station,alias,1
+HILLCREST - GUNN BUILD,,,unknown,unmatched,1
+YONGE AND STEELES,,,unknown,unmatched,1
+35 WHITE HEATHER BLVD,,,unknown,unmatched,1
+FINCH TO ROSEDALE,Finch,Rosedale,between stations,alias,1
+FINCH PLATFORM,Finch,,station,alias,1
+SUBWAY CLOSURE,,,line-wide,rule,1
+FINCH WEST TO WILSON,Finch West,Wilson,between stations,alias,1
+UNION - TO ST ANDREW,Union,St Andrew,between stations,alias,1
+THE POND EMERGENCY EXI,,,unknown,unmatched,1
+LINE 1 AND 2 - YONGE U,,,line-wide,rule,1
+UNION STATION 1,Union,,station,alias,1
+BLOOR YONGE,Bloor-Yonge,,station,alias,1
+KIPLING BD STATION - P,Kipling,,station,alias,1
+LAWRENCE WEST TO SHEPP,Lawrence West,,station,alias,1
+KENNEDY TO WARDEN,Kennedy,Warden,between stations,alias,1
+FINCH STATION(PLATFORM,Finch,,station,alias,1
+FINCH STATION( TAIL TR,Finch,,station,alias,1
+ISLINGTON STATION( LEA,Islington,,station,alias,1
+SHEPPARD WEST - LAWREN,Sheppard West,,station,alias,1
+WELLESLEY STATION (DUN,Wellesley,,station,alias,1
+LINE 1 YUS AND LINE 2,,,line-wide,rule,1
+UNION STATION (B/W),Union,,station,alias,1
+KING TO SPADINA STATIO,King,Spadina,between stations,alias,1
+SPADINA TO KING STATIO,Spadina,King,between stations,alias,1
+ST ANDREW STATION - UN,St Andrew,,station,alias,1
+STC TO MCCOWAN STATION,McCowan,,station,alias,1
+DAVISVILLE STATION ( B,Davisville,,station,alias,1
+BLOOR-DANFORTH JANE ST,Jane,,station,alias,1
+QUEEN STATION- EAST SI,Queen,,station,alias,1
+LEAVING KIPLING STATIO,Kipling,,station,alias,1
+APPROACHING KIPLING,Kipling,,station,alias,1
+LEAVING SHEPPARD STATI,Sheppard-Yonge,,station,alias,1
+OSSIGNTON STATION,Ossington,,station,fuzzy,1
+ST GEORGE (YUS) STATIO,St George,,station,alias,1
+APPROACHING KIPLING ST,Kipling,,station,alias,1
+BLOOR - DANFOTH JANE S,Bloor-Yonge,Jane,between stations,alias,1
+ST GEORGE TO SHEPPARD,St George,Sheppard-Yonge,between stations,alias,1
+SPADINA YUS STATION TO,Spadina,,station,alias,1
+SHEPPARD TO BLOOR,Sheppard-Yonge,Bloor-Yonge,between stations,alias,1
+EGLINTON STATION TO VA,Eglinton,,station,alias,1
+ISLINGTON TO KIPLING S,Islington,Kipling,between stations,alias,1
+GREENWOOD YARD TRACK B,Greenwood,,yard or facility,rule,1
+BAY STATION (LEAVING),Bay,,station,alias,1
+FINCH TAIL #1,Finch,,station,alias,1
+FINCH TAIL #2,Finch,,station,alias,1
+LAWRENCE WEST CENTRE,Lawrence West,,station,alias,1
+EGLINTON STATION - MIG,Eglinton,,station,alias,1
+DON MILLS STATION - AP,Don Mills,,station,alias,1
+BAY STATION (LOST AND,Bay,,station,alias,1
+JANE STATION TO KIPLIN,Jane,,station,alias,1
+QUEEN STATION (WEST SI,Queen,,station,alias,1
+DUNDAS STATION (WEST S,Dundas West,,station,alias,1
+DON MILLS STATION ( LE,Don Mills,,station,alias,1
+BLOOR DANFORTH AND YOU,,,line-wide,rule,1
+YOUNGE UNIVERSITY SPAD,,,unknown,unmatched,1
+OLD MILL TO ROYAL YORK,Old Mill,Royal York,between stations,alias,1
+FINCH STATION  PLATFOR,Finch,,station,alias,1
+LAWRENCE EAST - KENNED,Lawrence East,,station,alias,1
+VMC STATION (PLAT #2),Vaughan Metropolitan Centre,,station,alias,1
+KENNEDY STATION PLATFO,Kennedy,,station,alias,1
+GREENWOOD CARHOUSE - T,Greenwood,,yard or facility,rule,1
+MOUNT DENNIS DIVISION,,,yard or facility,rule,1
+LAWRENCE EAST - KENNE,Lawrence East,,station,alias,1
+LINE 1 YONGE-UNIVERIST,,,line-wide,rule,1
+LESLIE STATION - BUS B,Leslie,,station,alias,1
+KENNEDY BD STATION ( L,Kennedy,,station,alias,1
+LINE 1 - EARLY ACCESS,,,line-wide,rule,1
+LESLIE STATION ( APPRO,Leslie,,station,alias,1
+PIONEER VILLAGE AND VA,Pioneer Village,,station,alias,1
+SHPPARD STATION TO COL,,,unknown,unmatched,1
+DONLANDS TO GREENWOOD,Donlands,Greenwood,between stations,alias,1
+CLOSURES BUILDING,,,yard or facility,rule,1
+KIPLING PLAT #2,Kipling,,station,alias,1
+YUS LINE,,,line-wide,rule,1
+JANE STATION (LEAVING),Jane,,station,alias,1
+YORK MILLS STATION CEN,York Mills,,station,alias,1
+PAPE STATION (APPROACH,Pape,,station,alias,1
+DAVISVILLE YARD SPUR T,Davisville,,yard or facility,rule,1
+WOODBINE STATION TO BR,Woodbine,,station,alias,1
+BAY,Bay,,station,alias,1
+UNION STATION (TO FINC,Union,,station,alias,1
+COLLEGE TO SHEPPARD,College,Sheppard-Yonge,between stations,alias,1
+ZONE 2,,,unknown,unmatched,1
+EGLINTON STATION ( MIG,Eglinton,,station,alias,1
+COLLEGE TO SHEPPARD ST,College,Sheppard-Yonge,between stations,alias,1
+1 ST CLAIR AVENUE EAST,St Clair,,station,alias,1
+SHEPPARD TO COLLEGE ST,Sheppard-Yonge,College,between stations,alias,1
+"GREENWOOD YARD, SOUTH",Greenwood,,yard or facility,rule,1
+UNION TOWARD ST ANDREW,Union,St Andrew,between stations,alias,1
+EGLINTON STATION TO VM,Eglinton,,station,alias,1
+WILSON DIVISION - 2ND,Wilson,,yard or facility,rule,1
+FINCH WEST TO VMC,Finch West,Vaughan Metropolitan Centre,between stations,alias,1
+YUS AND BD SUBWAY,,,line-wide,rule,1
+QUEEN STATION - W/S,Queen,,station,alias,1
+BIRCHMOUNT DIVISION,,,yard or facility,rule,1
+FINCH WEST TO PIONEER,Finch West,,station,alias,1
+YONGE-SHEPPARD (LINE 4,Sheppard-Yonge,,station,alias,1
+KENNEDY BD CROSSOVER,Kennedy,,station,alias,1
+VMC STATION (LEAVING),Vaughan Metropolitan Centre,,station,alias,1
+EARLY ACCESS CLOSURE F,,,unknown,unmatched,1
+YORK AND ADELAIDE,,,unknown,unmatched,1
+DAVISVILLE TRACK & STR,Davisville,,station,alias,1
+DAVISVILLE TRACK AND S,Davisville,,station,alias,1
+YORK MILLS TO EGLINTON,York Mills,Eglinton,between stations,alias,1
+TORONTO TRANSIT COMMII,,,unknown,unmatched,1
+DUNDAS WEST STATION (E,Dundas West,,station,alias,1
+BLOOR - DANFORTH,,,line-wide,rule,1
+DUNDAS STATION - ST CL,TMU (Dundas),,station,alias,1
+BLOOR HAYDEN ENTRANCE,Bloor-Yonge,,station,alias,1
+FINCH STATION (FINCH P,Finch,,station,alias,1
+TORONTO TRANSIC COMMIS,,,unknown,unmatched,1
+INTERCHANGE WAY EE,,,unknown,unmatched,1
+KIPLING STATION TAIL T,Kipling,,station,alias,1
+JANE TO KEELE STATIONS,Jane,Keele,between stations,alias,1
+YOUNG-UNIVERSITY-SPADI,,,unknown,unmatched,1
+BAYVIEW STATION - DEPA,Bayview,,station,alias,1
+SUBWAY: LINE 1 (YONGE-,,,line-wide,rule,1
+YONGE- UNIVERSTIY AND,,,unknown,unmatched,1
+ST ANDREW TO ST CLAIR,St Andrew,St Clair,between stations,alias,1
+BLOOR STATION TO ROSED,Bloor-Yonge,,station,alias,1
+KIPLING TO ISLINTON ST,Kipling,,station,alias,1
+VMC PLATFORM # 1,Vaughan Metropolitan Centre,,station,alias,1
+TOROTOTO TRANSIT COMMI,,,unknown,unmatched,1
+BAY STATION (CUMBERLAN,Bay,,station,alias,1
+BLOOR STATION ENTERING,Bloor-Yonge,,station,alias,1
+GREENWOOD WOOD,Greenwood,,station,alias,1
+WOODBINE TO COXWELL,Woodbine,Coxwell,between stations,alias,1
+KING STATION 1,King,,station,alias,1
+SHEPPARD DISTRUBTION,Sheppard-Yonge,,station,alias,1
+ST CLAIR TO ST ANDREW,St Clair,St Andrew,between stations,alias,1
+BAYVIEW TO BESSARION,Bayview,Bessarion,between stations,alias,1
+KENNEDY STATION - PASS,Kennedy,,station,alias,1
+STC,,,line-wide,rule,1
+LINE 1: YONGE-UNIVERIS,,,line-wide,rule,1
+WILSON STATION (LEAVIN,Wilson,,station,alias,1
+N/O LAWRENCE WEST STAT,Lawrence West,,station,alias,1
+KING STATION (200 FEET,King,,station,alias,1
+ST CLAIR E OF YONGE,St Clair,,station,alias,1
+YORK MILLS TO SHEPPARD,York Mills,Sheppard-Yonge,between stations,alias,1
+WILSON TO ST CLAIR STA,Wilson,St Clair,between stations,alias,1
+ISLINGTON TO COXWELL S,Islington,Coxwell,between stations,alias,1
+SHEPPARD WEST TO UNION,Sheppard West,Union,between stations,alias,1
+EGLINTON STATION - FIN,Eglinton,,station,alias,1
+YORKDALE TO WILSON,Yorkdale,Wilson,between stations,alias,1
+KENNEDY STATION (APPRO,Kennedy,,station,alias,1
+MAINLINE STORAGE,,,unknown,unmatched,1
+YORK MILLS (APPROACHIN,York Mills,,station,alias,1
+MIDLAND TO SCARBOROUGH,Midland,,station,alias,1
+ST. CLAIR WEST TO ST.,St Clair West,,station,alias,1
+UNION STATION (TO VMC),Union,Vaughan Metropolitan Centre,between stations,alias,1
+EGLINTON PSUDO STATION,Eglinton,,station,alias,1
+LAWRENCE WEST TO ST AN,Lawrence West,,station,alias,1
+KIPLING STATION ( TAIL,Kipling,,station,alias,1
+N/O SUMMERHILL TO S/O,Summerhill,,station,alias,1
+DOWNVIEW PARK STATION,Downsview Park,,station,fuzzy,1
+ST GEORGE TO SPADINA,St George,Spadina,between stations,alias,1
+MUSEUM TO EGLINTON STA,Museum,Eglinton,between stations,alias,1
+BAYVIEW SUBSTATION,Bayview,,yard or facility,rule,1
+KIPLING STATION TO HIG,Kipling,,station,alias,1
+KING TO UNION STATIONS,King,Union,between stations,alias,1
+N/B TOWARDS FINCH,Finch,,station,alias,1
+LINE 2 - BLOOR-DANFOTH,Bloor-Yonge,,station,alias,1
+MORNINGSIDE AND LAWREN,,,unknown,unmatched,1
+WARDEN AND ST CLAIR,Warden,St Clair,between stations,alias,1
+W/O WARDEN TO E/O KENN,Warden,,station,alias,1
+ST  ANDREW TO UNION,St Andrew,Union,between stations,alias,1
+VMC TO LAWRENCE,Vaughan Metropolitan Centre,Lawrence,between stations,alias,1
+BLOOR TO ROSEDALE STAT,Bloor-Yonge,Rosedale,between stations,alias,1
+ST CLAIR WEST AUTOMATI,St Clair West,,station,alias,1
+CELEDONIA STATION,,,unknown,unmatched,1
+UNION STATION(TOWARD K,Union,,station,alias,1
+SHEPPARD-YONGE LINE 4,Sheppard-Yonge,,station,alias,1
+GUNN BUILDING - 3RD FL,,,yard or facility,rule,1
+WARDEN STATION LEAVING,Warden,,station,alias,1
+ST ANDREW,St Andrew,,station,alias,1
+KING TO COLLEGE,King,College,between stations,alias,1
+DUFFERIN AND BLOOR,Dufferin,Bloor-Yonge,between stations,alias,1
+STR. CLAIR WEST STATIO,St Clair West,,station,fuzzy,1
+YONGE STATION TO GREEN,,,unknown,unmatched,1
+KENENDY STATION,Kennedy,,station,fuzzy,1
+DON  MILLS STATION,Don Mills,,station,alias,1
+N/O FINCH  TO S/O NORT,Finch,,station,alias,1
+WELLSELEY STATION,Wellesley,,station,fuzzy,1
+TORO RD EE,,,unknown,unmatched,1
+SHEPPARD SIGNAL POWER,Sheppard-Yonge,,station,alias,1
+DUNDAS STATION (ENTERI,TMU (Dundas),,station,alias,1
+ISLINGTON TO HIGH PARK,Islington,High Park,between stations,alias,1
+YONGE - UNIVERSITY/BLO,,,line-wide,rule,1
+YORKDLAE STATION,Yorkdale,,station,fuzzy,1
+FINCH STATION ( APPROA,Finch,,station,alias,1
+QUEEN STATION WEST SID,Queen,,station,alias,1
+COLLEGE AND WELLESLEY,College,Wellesley,between stations,alias,1
+DUNDAS STATION/SUMMERH,TMU (Dundas),,station,alias,1
+SHEPPARDSTATION,,,unknown,unmatched,1
+GOLDEN MILE STATION (E,,,unknown,unmatched,1
+DUNDAS,TMU (Dundas),,station,alias,1
+CALENDONIA STATION,,,unknown,unmatched,1
+DUNDAS WEST STATION TO,Dundas West,,station,alias,1
+MIGRATION POINT EGLINT,,,unknown,unmatched,1
+MCDONALD CARTIER EE,,,unknown,unmatched,1
+DON MILLS STATION PLAT,Don Mills,,station,alias,1
+KIPLING STATION [KIPLI,Kipling,,station,alias,1
+WARDEN STATION (IN TUN,Warden,,station,alias,1
+KENNEDY BD STATION - T,Kennedy,,station,alias,1
+BROADVIEW STATION TO S,Broadview,,station,alias,1
+CLANTON PARK,,,unknown,unmatched,1
+HIGHWAY 407,Highway 407,,station,alias,1
+LAWRECNE WEST TO FINCH,Finch,,station,alias,1
+YORK UNIVERSITY LINE 1,York University,,station,alias,1
+LAWRENCE WEST TO FINCH,Lawrence West,Finch,between stations,alias,1
+NORTH HOSTLER - FIRE D,,,yard or facility,rule,1
+SHEPPARD-YONGE AND DON,Sheppard-Yonge,,station,alias,1
+KENNEDY BD STATION TAI,Kennedy,,station,alias,1
+KENNEDY SRT STATION LA,Kennedy,,station,alias,1
+BATHURST TO CHRISTIE,Bathurst,Christie,between stations,alias,1
+ST ANDREW STATON,St Andrew,,station,alias,1
+KEELE STATION - APPROA,Keele,,station,alias,1
+CLOSURE FINCH TO ST CL,Finch,,station,alias,1
+LAWRENCE STATION TO ST,Lawrence,,station,alias,1
+EGLINTON WEST STATION(,Cedarvale (Eglinton West),,station,alias,1
+KENNEDY BD STATION #1,Kennedy,,station,alias,1
+KENNEDY STN TAIL TRACK,Kennedy,,yard or facility,rule,1
+N/O FINCH TO S/O NORTH,Finch,,station,alias,1
+VMC STATION - TAIL 2,Vaughan Metropolitan Centre,,station,alias,1
+DUNDAS APPROACHING,TMU (Dundas),,station,alias,1
+LANDSDOWNE STATION,Lansdowne,,station,fuzzy,1
+SPADINA YUS STATION- K,Spadina,,station,alias,1
+WELBECK,,,unknown,unmatched,1
+BLOOR STATION (EXITING,Bloor-Yonge,,station,alias,1
+BAY STATION- LOST ARTI,Bay,,station,alias,1
+LAWRENCE TO ST.CLAIR S,Lawrence,St Clair,between stations,alias,1
+250 BLOOR ST E,Bloor-Yonge,,station,alias,1
+ISLINGTON STATION (CEN,Islington,,station,alias,1
+EARLY CLOSURE,,,unknown,unmatched,1
+VARIOUS LOCATIONS LINE,,,line-wide,rule,1
+UNION CENTER TRACK,Union,,station,alias,1
+UNION STATION (CENTRE,Union,,station,alias,1
+KEELE STATION (RT - 76,Keele,,station,alias,1
+LESLIE STATION - APPRO,Leslie,,station,alias,1
+DAVISVILLE CARHOUSE 13,Davisville,,yard or facility,rule,1
+DUPONT TO ST GEORGE,Dupont,St George,between stations,alias,1
+LANSDOWNE STATION APPR,Lansdowne,,station,alias,1
+DUNDAS WEST TO KEELE S,Dundas West,Keele,between stations,alias,1
+OSSINGTON ( APPROACHIN,Ossington,,station,alias,1
+GLENCAIRN STATION ( AP,Glencairn,,station,alias,1
+YONGE-SHEPPARD STATION,Sheppard-Yonge,,station,alias,1
+KENNEDY ECLRT STATION,Kennedy,,station,alias,1
+SHEPPARD STATION - APP,Sheppard-Yonge,,station,alias,1
+APPRAOCHING KENNEDY BD,Kennedy,,station,alias,1
+EGLINTON STATION - PLA,Eglinton,,station,alias,1
+ST GEORGE STATION - OS,St George,,station,alias,1
+LINE1 - YONGE-UNIVERSI,,,unknown,unmatched,1
+MAIN STREET STATION (E,Main Street,,station,alias,1
+DUNCAN WAREHOUSE,,,unknown,unmatched,1
+LIEN 1 - YONGE-UNIVERS,,,unknown,unmatched,1
+WILSON HUSTLER ONE,Wilson,,station,alias,1
+LINE 1 BLOOR TO QUEEN,Bloor-Yonge,Queen,between stations,alias,1
+KILPING ( PLATFORM 2),,,unknown,unmatched,1
+ROYAL YORK TO DONLANDS,Royal York,Donlands,between stations,alias,1
+ST GEORGE - DUPONT STA,St George,Dupont,between stations,alias,1
+YONGE AND UNIVERSITY S,,,unknown,unmatched,1
+GUNN BUILDING - ELEVAT,,,yard or facility,rule,1
+YONGE/SHEPPARD,Sheppard-Yonge,,station,alias,1
+MAIN TO VICTORIA PARK,Main Street,Victoria Park,between stations,alias,1
+KENNEDY BD STATION (KE,Kennedy,,station,alias,1
+YORK UNIVERISTY TO PIO,,,unknown,unmatched,1
+SHEPPARD  AND YORK MIL,Sheppard-Yonge,,station,alias,1
+KIPLING BD STATION,Kipling,,station,alias,1
+EATON CENTRE - DUNDAS,TMU (Dundas),,station,alias,1
+WILSON TRACK & STRUCTU,Wilson,,station,alias,1
+UNION STATION- TO ST A,Union,,station,alias,1
+FINCH STATION(PLATFROM,Finch,,station,alias,1
+EGLINTON STATION (CRAS,Eglinton,,station,alias,1
+YONGE UNIVERSITY/ BLOO,,,unknown,unmatched,1
+KING STATION (APOROACH,King,,station,alias,1
+FINCH PLATFORM 2,Finch,,station,alias,1
+ALL OPEN CUTS,,,unknown,unmatched,1
+WILSON T&S BUILDING,Wilson,,yard or facility,rule,1
+ST. CLAIR TO BLOOR,St Clair,Bloor-Yonge,between stations,alias,1
+KING TO OSGOODE,King,Osgoode,between stations,alias,1
+BLOOR STATION (UNKNOWN,Bloor-Yonge,,station,alias,1
+GREENWOOD COMPLEX - TR,Greenwood,,station,alias,1
+KEELE,Keele,,station,alias,1
+WILSON STATION(APPROAC,Wilson,,station,alias,1
+JANE TO ST GEORGE STAT,Jane,St George,between stations,alias,1
+ISLINGTON STATION TO K,Islington,,station,alias,1
+ALL OPEN CUT AREA,,,unknown,unmatched,1
+ST CLAIR STATION TO CO,St Clair,,station,alias,1
+ST CLAIR STATION (ENTE,St Clair,,station,alias,1
+VMC PL 1,Vaughan Metropolitan Centre,,station,alias,1
+YONGE UNIVERSITTY - BL,,,unknown,unmatched,1
+UNION TO SHEPPARD WEST,Union,Sheppard West,between stations,alias,1
+IMPERIAL ST (NORTH OF,,,unknown,unmatched,1
+HILLCREST GATEHOUSE,,,unknown,unmatched,1
+YONGE / UNIVERSITY / S,,,line-wide,rule,1
+LINE 2: BLOOR-DANFORTH,,,line-wide,rule,1
+FINCH STATION - TT,Finch,,station,alias,1
+COLLEGE AND BATHURST,College,Bathurst,between stations,alias,1
+EATON CENTRE,,,unknown,unmatched,1
+OSGOODE STATION (ENTER,Osgoode,,station,alias,1
+EARLY CLOSURE: KIPLING,Kipling,,station,alias,1
+LINE 1 SUBWAY,,,line-wide,rule,1
+DAVISVILLE YARD (29 LA,Davisville,,yard or facility,rule,1
+VIADUCT,,,unknown,unmatched,1
+LESLIE STATION LEAVING,Leslie,,station,alias,1
+VMC STATION PL2,Vaughan Metropolitan Centre,,station,alias,1
+ISLINGTON STATION - KI,Islington,,station,alias,1
+SUBWAY OPS BLDG,,,line-wide,rule,1
+BLOOR STATION (TOWARDS,Bloor-Yonge,,station,alias,1
+RUNNYMEDE STATION -  A,Runnymede,,station,alias,1
+KENNEDY TO MAIN STREET,Kennedy,Main Street,between stations,alias,1
+ST PATRICK STATION (LE,St Patrick,,station,alias,1
+YUS AND BLOOR DANFORTH,,,line-wide,rule,1
+FINCH STATION PLAT 2,Finch,,station,alias,1
+ENTERING - WARDEN STAT,Warden,,station,alias,1
+KENNEDY SRT STATION -,Kennedy,,station,alias,1
+UNION STATION- KING,Union,King,between stations,alias,1
+OSSINGTON STATION TOWA,Ossington,,station,alias,1
+ISLINGTON STATION AND,Islington,,station,alias,1
+SUMMERHILL TO BLOOR,Summerhill,Bloor-Yonge,between stations,alias,1
+CHRISTIE - ST GEORGE S,Christie,St George,between stations,alias,1
+WILSON STATION (DEPART,Wilson,,station,alias,1
+SHEPPARD TO EGLINTON,Sheppard-Yonge,Eglinton,between stations,alias,1
+GREENWOOD YARD ENTERIN,Greenwood,,yard or facility,rule,1
+LAWRENCE WEST CT,Lawrence West,,station,alias,1
+ROSEDALE STATION (ENTE,Rosedale,,station,alias,1
+N/O COLLEGE TO S/END S,College,,station,alias,1
+MALVERN GARAGE,,,unknown,unmatched,1
+BAY STATION- CUMBERLAN,Bay,,station,alias,1
+GREENWOOD YARD (ENTERI,Greenwood,,yard or facility,rule,1
+COLLEGE TO OSGOODE LIN,College,Osgoode,between stations,alias,1
+SHEPPARD SUBSTATION,Sheppard-Yonge,,yard or facility,rule,1
+LINE 3 - KENNEDY TO MC,Kennedy,,station,alias,1
+KING STATION (APPROACH,King,,station,alias,1
+FINCH WEST STATION (EN,Finch West,,station,alias,1
+CHURCH EE,,,unknown,unmatched,1
+"BROADVIEW, CASTLE FRAN",Broadview,,station,alias,1
+SCARBOROUGH RAPID LINE,,,line-wide,rule,1
+WILSON YARD HOSTLER 2,Wilson,,yard or facility,rule,1
+CASTLE FRANK - BROADVI,Castle Frank,,station,alias,1
+VARIOUS STATIONS - SYS,,,line-wide,rule,1
+SHEPPARD TO EGLINTON L,Sheppard-Yonge,Eglinton,between stations,alias,1
+YORK MILLS STATION(APP,York Mills,,station,alias,1
+UNION TOWARDS TO KING,Union,King,between stations,alias,1
+FINCH STATION ( PLAT 2,Finch,,station,alias,1
+COLLEGE STATION TO OSG,College,,station,alias,1
+SPADINA TO ST GEORGE B,Spadina,St George,between stations,alias,1
+ISLINGTON STATION LEAV,Islington,,station,alias,1
+ENTERING END - CASTLE,,,unknown,unmatched,1
+VMC STATION (PLAT 1),Vaughan Metropolitan Centre,,station,alias,1
+VMC STATION (PLATFORM),Vaughan Metropolitan Centre,,station,alias,1
+ST PATRICK STATION TO,St Patrick,,station,alias,1
+VMC STATION ( PLAT 2 ),Vaughan Metropolitan Centre,,station,alias,1
+FINCH STATION (PLAT #2,Finch,,station,alias,1
+OSGOODE TO BLOOR,Osgoode,Bloor-Yonge,between stations,alias,1
+KING TO UNION STATION,King,Union,between stations,alias,1
+OSGOODE STATION TO COL,Osgoode,,station,alias,1
+ARROW GARAGE,,,unknown,unmatched,1
+MAIN STREET STATION (A,Main Street,,station,alias,1
+QUEEN STATION TO ST AN,Queen,,station,alias,1
+KING STATION APPROACHI,King,,station,alias,1
+SUMMER HILL STATION,Summerhill,,station,fuzzy,1
+FINCH WEST STATION (AP,Finch West,,station,alias,1
+LANSDOWNE STATION AND,Lansdowne,,station,alias,1
+GREENWOOD WYE DEPARTIN,Greenwood,,yard or facility,rule,1
+DUNCAN SHOPS BRAKE SEC,,,yard or facility,rule,1
+QUEEN TO MUSEUM STATIO,Queen,Museum,between stations,alias,1
+COLLEGE STATION LEAVIN,College,,station,alias,1
+KIPLING PLATFORM # 1,Kipling,,station,alias,1
+COXWELL STATION APPROA,Coxwell,,station,alias,1
+KENNEDY SRT AND LAWREN,Kennedy,,station,alias,1
+STATION,,,line-wide,rule,1
+RUSSELL SUBSTATION,,,yard or facility,rule,1
+DAVISVILLE STRUCTURE,Davisville,,station,alias,1
+VMC STATION (ENTERING),Vaughan Metropolitan Centre,,station,alias,1
+EGLINTON TO FINCH STAT,Eglinton,Finch,between stations,alias,1
+BETWEEN SHEPPARD AND S,Sheppard-Yonge,,station,alias,1
+MASSEY CREEK EE,,,unknown,unmatched,1
+SOUTH BOUND SOUTH OF L,,,unknown,unmatched,1
+DON MILLS STATION- PLA,Don Mills,,station,alias,1
+WILSON HOLSER,Wilson,,station,alias,1
+VMC STATION- PLAT 2,Vaughan Metropolitan Centre,,station,alias,1
+BLOOR/DANFORTH AND YON,,,line-wide,rule,1
+FINCH STATION PL 1,Finch,,station,alias,1
+KIPLING STATION PL 2,Kipling,,station,alias,1
+UNION STATION (QUEENS,Union,,station,alias,1
+YU LINE,,,line-wide,rule,1
+ISLINGTON STATION (EAS,Islington,,station,alias,1
+UNION STATION- UNIVERS,Union,,station,alias,1
+MUSEUM ( TUNNEL),Museum,,station,alias,1
+TMU STATION- WEST SIDE,TMU (Dundas),,station,alias,1
+DAVISVILLE STATION-BUI,Davisville,,station,alias,1
+LANSDOWNE STATION ( AP,Lansdowne,,station,alias,1
+ISLINGTON TO LANSDOWN,Islington,,station,alias,1
+OSGOODE STATION POCKET,Osgoode,,station,alias,1
+QUEENS PARK,Queen's Park,,station,alias,1
+WILSON,Wilson,,station,alias,1
+QUEENS QUAY LOOP,,,unknown,unmatched,1
+VMC STATION (VMC 1),Vaughan Metropolitan Centre,,station,alias,1
+TMU - QUEEN STATION,TMU (Dundas),Queen,between stations,alias,1
+DANFORTH,,,unknown,unmatched,1
+PATTON BULDING,,,unknown,unmatched,1
+LANDOWNE STATION,Lansdowne,,station,fuzzy,1
+DUNDAS WEST - KIPLING,Dundas West,Kipling,between stations,alias,1
+ST ANDREW TO UNION STA,St Andrew,Union,between stations,alias,1
+BRIDGEMAN LOT,,,unknown,unmatched,1
+OSSINGTON STATION-CENT,Ossington,,station,alias,1
+YONGE BD STATION LEAVI,Bloor-Yonge,,station,alias,1
+SPADINA,Spadina,,station,alias,1
+FINCH (PLATFORM 2),Finch,,station,alias,1
+WILSON (DEPARTING),Wilson,,station,alias,1
+KENNEDY PLAT 1,Kennedy,,station,alias,1
+FINCH TAIL TRACK,Finch,,yard or facility,rule,1
+FINCH STATION (DEPARTI,Finch,,station,alias,1
+WILSON TO YORKDALE,Wilson,Yorkdale,between stations,alias,1
+UNION STATION - KING S,Union,King,between stations,alias,1
+KIPLING STATION LEAVIN,Kipling,,station,alias,1
+YONGE UNIVERISTY LINE,,,line-wide,rule,1
+LAWRENCE STATION- DEPA,Lawrence,,station,alias,1
+KEELE STATION (APPRAOC,Keele,,station,alias,1
+RUNNYMEDE STATION - EN,Runnymede,,station,alias,1
+ST CLAIR STATION TO DA,St Clair,,station,alias,1
+SUMMERHILL STATION (AP,Summerhill,,station,alias,1
+KENNEDY BD STATION (DE,Kennedy,,station,alias,1
+BLOOR/YONGE,Bloor-Yonge,,station,alias,1
+YONGE 1,,,unknown,unmatched,1
+EGLINTON AND BLOOR STA,Eglinton,Bloor-Yonge,between stations,alias,1
+KIPLING SATION,Kipling,,station,alias,1
+WILSON STATION (ON THE,Wilson,,station,alias,1
+LAWRENCE STATION (OUTS,Lawrence,,station,alias,1
+YUS/ BD,,,line-wide,rule,1
+WOODBINE STATION - KEN,Woodbine,,station,alias,1
+ST CLAIR & BLOOR,St Clair,Bloor-Yonge,between stations,alias,1
+KIPLING STATION - KENN,Kipling,,station,alias,1
+RUNNYMEDE STATION ( AP,Runnymede,,station,alias,1
+KEELE STATION TO DUNDA,Keele,,station,alias,1
+VMC STATION-PLATFORM 2,Vaughan Metropolitan Centre,,station,alias,1
+BATHURST STATION (ENTE,Bathurst,,station,alias,1
+SRT - LINE 3,,,line-wide,rule,1
+CHESTER STATION - DEPA,Chester,,station,alias,1
+CLEAR FINCH STATION-PL,Finch,,station,alias,1
+QUEENS QUAY STATION (,,,unknown,unmatched,1
+ISLINGTON STATION - AP,Islington,,station,alias,1
+N/O SHEPPARD TO FINCH,Sheppard-Yonge,Finch,between stations,alias,1
+SUMMERHILL STATION - A,Summerhill,,station,alias,1
+DON MILLS STATION TO L,Don Mills,,station,alias,1
+BD LINE CHANGEOVERS,,,line-wide,rule,1
+GREENWOOD SHOPS.,Greenwood,,yard or facility,rule,1
+DONLANDS STATION - APP,Donlands,,station,alias,1
+ST ANDREW STATION TO O,St Andrew,,station,alias,1
+EARLY SCHEDULE CLOSURE,,,unknown,unmatched,1
+STORM TRAINS LINE 1 YO,,,line-wide,rule,1
+STORM TRAINS LINE 2 BL,,,line-wide,rule,1
+MIDLAND APPROACHING,Midland,,station,alias,1
+DOWNSVIEW SUB STATION,Sheppard West,,station,alias,1
+CHRISTIE CENTER,Christie,,station,alias,1
+BAYVIEW STATION - APPR,Bayview,,station,alias,1
+ST ANDREW STATION TO F,St Andrew,,station,alias,1
+SHEPPARD-YONGE TO DON,Sheppard-Yonge,,station,alias,1
+LAWRENCE STATION (ENTE,Lawrence,,station,alias,1
+JANE AND DUFFERIN,Jane,Dufferin,between stations,alias,1
+BETWEEN MAIN STREET AN,Main Street,,station,alias,1
+FINCH TO VMC,Finch,Vaughan Metropolitan Centre,between stations,alias,1
+OSSINGTON STATION(APPR,Ossington,,station,alias,1
+NORTH HOSTLER (LEAVING,,,yard or facility,rule,1
+YORKDALE STATION TO ST,Yorkdale,,station,alias,1
+GREENWWOD YARD,,,yard or facility,rule,1
+WELLESLEY TO KING STAT,Wellesley,King,between stations,alias,1
+BLOOR STATION (AUTOMAT,Bloor-Yonge,,station,alias,1
+563 SHERBOURNE (SHERBO,Sherbourne,,station,alias,1
+KEELE YARD (TRACK 2),Keele,,yard or facility,rule,1
+APPROACHING CHESTER ST,Chester,,station,alias,1
+WARDEN STATION - LEAVI,Warden,,station,alias,1
+UNION STATION- TO UNIV,Union,,station,alias,1
+UNKNOWN,,,unknown,unmatched,1
+AVENUE ECLRT STATION,,,unknown,unmatched,1
+DUNDAS WEST STATION AP,Dundas West,,station,alias,1
+YONGE-UNIVERSITY EARLY,,,unknown,unmatched,1
+SHEPPARD-YONGE RAMPS,Sheppard-Yonge,,station,alias,1
+QUEEN PARK STATION,Queen,,station,alias,1
+LANSDOWNE STATION - ST,Lansdowne,,station,alias,1
+UNION STATION(UNIVERSI,Union,,station,alias,1
+DON MILLS STATION- LEA,Don Mills,,station,alias,1
+ST ANDREW - SPADINA ST,St Andrew,Spadina,between stations,alias,1
+CHESTER STATION-APPROA,Chester,,station,alias,1
+FINCH STATION (TAIL 3),Finch,,station,alias,1
+YONGE- UNIVERSITY LINE,,,line-wide,rule,1
+FINCH STATION-LEAVING,Finch,,station,alias,1
+UNION - TO KING,Union,King,between stations,alias,1
+KENNEDY PLATFORM #2,Kennedy,,station,alias,1
+WILSON YARD - WALKWAY,Wilson,,yard or facility,rule,1
+KENNEDY BD STATION( PL,Kennedy,,station,alias,1
+LINE 2 BLOOR/DANFORTH,,,line-wide,rule,1
+KENNEDY PLATFROM 1,Kennedy,,station,alias,1
+CLANTON PARK ESB,,,unknown,unmatched,1
+PIONNER VILLAGE TO YOR,,,unknown,unmatched,1
+VICOTIA PARK STATION,Victoria Park,,station,fuzzy,1
+LINE 2 -  BLOOR DANFOR,Bloor-Yonge,,station,alias,1
+W/O WELLBECK TO E/O BE,,,unknown,unmatched,1
+APPROACHING CHRISTIE,Christie,,station,alias,1
+LINE 2 - BLOOR/DANFORT,Bloor-Yonge,,station,alias,1
+COXWELL STATION- APPRO,Coxwell,,station,alias,1
+KIPLING STATION (PLAT.,Kipling,,station,alias,1
+FINCH STATION [ PLATFO,Finch,,station,alias,1
+SHEPPARD LINE 4 LINE M,,,line-wide,rule,1
+LINE 1 YUS - EGLINTON,Eglinton,,station,alias,1
+WILSON STATION PLATFOR,Wilson,,station,alias,1
+KING STATION TO OSGOOD,King,,station,alias,1
+KIPLING STATION-APPROA,Kipling,,station,alias,1
+YONGE BD STATION - LEA,Bloor-Yonge,,station,alias,1
+KIPLING STATION-PLAT 2,Kipling,,station,alias,1
+LINE 2 EARLY ACCESS CL,,,line-wide,rule,1
+WEEKEND CLOSURE: ST GE,,,unknown,unmatched,1
+SYSTEM WIDE - PRESTO V,,,line-wide,rule,1
+LAWRENCE AND ST CLAIR,Lawrence,St Clair,between stations,alias,1
+VARIOUS LOCATION(S),,,line-wide,rule,1
+YONGE BLOOR,Bloor-Yonge,,station,alias,1
+KENNEDY TO LAWRENCE SR,Kennedy,Lawrence,between stations,alias,1
+FINCH PLATFORM ONE,Finch,,station,alias,1
+KENNEDY SRT STATION (D,Kennedy,,station,alias,1
+KENNEDY TO LAWREBCE EA,Kennedy,,station,alias,1
+UNIVERSITY AND QUEEN,Queen,,station,alias,1
+E/O KENNEDY STATION TO,Kennedy,,station,alias,1
+YONGE UNIVERSITY LINE/,,,line-wide,rule,1
+UNION - UNIVERSITY,Union,,station,alias,1
+APPROCHING OLD MILL ST,Old Mill,,station,alias,1
+WOODBINE AND WARDEN,Woodbine,Warden,between stations,alias,1
+KIPLING STATION PLAT 2,Kipling,,station,alias,1
+BROADVIEW  TO GREENWOO,Broadview,,station,alias,1
+MAIN STREET TO WOODBIN,Main Street,,station,alias,1
+CHRISTIE STATION - LEA,Christie,,station,alias,1
+WOODBINE STATION (DEPA,Woodbine,,station,alias,1
+KEELE TO ST GEORGE STA,Keele,St George,between stations,alias,1
+MAIN TO GREENWOOD STAT,Main Street,Greenwood,between stations,alias,1
+KENNEDY STATION - VICT,Kennedy,,station,alias,1
+KIPLING TAIL TRACK 1,Kipling,,yard or facility,rule,1
+GO PROTOCOL - UNION TO,Union,,station,alias,1
+KING STATION - ST CLAI,King,,station,alias,1
+E/END BROADVIEW - W/EN,Broadview,,station,alias,1
+CEDARVALE YU STATION/L,Cedarvale (Eglinton West),,station,alias,1
+ST. GEORGE,St George,,station,alias,1
+34 ASQUITH,,,unknown,unmatched,1
+GREENWOOD STATION APPR,Greenwood,,station,alias,1
+GREENWOOD STATION ( EN,Greenwood,,station,alias,1
+YUS & BD,,,line-wide,rule,1
+YONGE UNIVERISTY SUBWA,,,line-wide,rule,1
+SINGLE DAY CLOSURE - B,,,unknown,unmatched,1
+RUSSEL HILL EMERGENCY,,,unknown,unmatched,1
+APPROACHING WOODBINE S,Woodbine,,station,alias,1
+LINE 1 - YONGE UNIVESR,,,line-wide,rule,1
+FINCH PLATFROM 2,Finch,,station,alias,1
+SPADINA AND ADELAIDE,Spadina,,station,alias,1
+ALLEN ROAD AND EGLINTO,,,unknown,unmatched,1
+KIPLING STATION(LEAVIN,Kipling,,station,alias,1
+WELLESLEY AND YONGE,Wellesley,,station,alias,1
+ISLINGTON STATION ( LE,Islington,,station,alias,1
+BLOOR / DANFORTH - LIN,,,line-wide,rule,1
+YONGE BD STATION ( APP,Bloor-Yonge,,station,alias,1
+VMC STATION PLATFORM#2,Vaughan Metropolitan Centre,,station,alias,1
+YUS-BD,,,line-wide,rule,1
+YOUNGE UNIVERSITY AND,,,unknown,unmatched,1
+HIGH PARK TO LANSDOWNE,High Park,Lansdowne,between stations,alias,1
+KIPLING - PLATFORM 2,Kipling,,station,alias,1
+LAWRENCE WEST- ST ANDR,Lawrence West,,station,alias,1
+LANSDOWNE STATION (DEP,Lansdowne,,station,alias,1
+DONLANDS STATION (LEAV,Donlands,,station,alias,1
+ROSEDALE STATION APPRO,Rosedale,,station,alias,1
+CASTLE FRANK STATION-,Castle Frank,,station,alias,1
+GREENWOOD YARD (LEAVIN,Greenwood,,yard or facility,rule,1
+GREENWOOD STATION (ENT,Greenwood,,station,alias,1
+WARDEN STATION -APPROA,Warden,,station,alias,1
+SUBWAY CLOSURE:EARLY N,,,line-wide,rule,1
+2200 YONGE - EGLINTON,Eglinton,,station,alias,1
+1 TIPPETT ROAD,,,unknown,unmatched,1
+FINCH WEST STATION(APP,Finch West,,station,alias,1
+ST. GEORGE STATION TO,St George,,station,alias,1
+HIGHWAY 407 STATION (A,Highway 407,,station,alias,1
+OSSINGTON AND ST. GEOR,Ossington,,station,alias,1
+BLOOR TO DAVISVILLE ST,Bloor-Yonge,Davisville,between stations,alias,1
+EGLINTON GARAGE,Eglinton,,station,alias,1
+LANSDOWNE & OSSIGNTON,Lansdowne,,station,alias,1
+WELLBECK EMERGENCY EXI,,,unknown,unmatched,1
+FINCH STATION (FINCH T,Finch,,station,alias,1
+YONGE UNIVERSTIY SPADI,,,unknown,unmatched,1
+ST GEORGE AND YONGE ST,St George,,station,alias,1
+MC BRIEN,,,unknown,unmatched,1
+HIGH PARK - KEELE,High Park,Keele,between stations,alias,1
+KENNEDY BD STATION P1,Kennedy,,station,alias,1
+ROYAL YORK AND KEELE,Royal York,Keele,between stations,alias,1
+ISLINGTON STATION-LEAV,Islington,,station,alias,1
+FINCH STATION -PLATFOR,Finch,,station,alias,1
+YONGE-UNIVERSTY AND BL,,,unknown,unmatched,1
+DAVISVILLE STATION LEA,Davisville,,station,alias,1
+KIPLING STATION  -PLAT,Kipling,,station,alias,1
+DOWNSVIEW PARK / BLOOR,Downsview Park,Bloor-Yonge,between stations,alias,1
+FINCH STATION ( TAIL 2,Finch,,station,alias,1
+POWER CONTROL - GUNN B,,,unknown,unmatched,1
+LAWRENCE STATION(LEAVI,Lawrence,,station,alias,1
+WEST OF OLD MILL STATI,Old Mill,,station,alias,1
+"LINE 1, 2, AND 4",,,line-wide,rule,1
+"HIGHWAY 407, UNION AND",Highway 407,Union,between stations,alias,1
+PAPE STATION (ENTERING,Pape,,station,alias,1
+KENNEDY BD STATION - B,Kennedy,,station,alias,1
+DAVISVILLE STATION (IN,Davisville,,station,alias,1
+S/O HWY 407 TO PIONEER,Highway 407,,station,alias,1
+VARIOUS STATION(S),,,line-wide,rule,1
+BLOOR/DANFORTH LINE 2,,,line-wide,rule,1
+FINCH STATION (PUBLIC,Finch,,station,alias,1
+SAFE APP,,,unknown,unmatched,1
+KENNEDY BD STATION-PLA,Kennedy,,station,alias,1
+VMC STATION (PLATFORM2,Vaughan Metropolitan Centre,,station,alias,1
+FINCH STATION (PL1),Finch,,station,alias,1
+VMC STATION(PLATFORM 1,Vaughan Metropolitan Centre,,station,alias,1
+W/END WOODBINE - W/O C,Woodbine,,station,alias,1
+SPADINA AND DUNDAS,Spadina,TMU (Dundas),between stations,alias,1
+LANSDOWNE TO BATHURST,Lansdowne,Bathurst,between stations,alias,1
+DAVISVILLE STATION(APP,Davisville,,station,alias,1
+DAVISVILLE BU,Davisville,,station,alias,1
+LINE 1 - YONGE UNVERSI,,,line-wide,rule,1
+DUPONT,Dupont,,station,alias,1
+LINE 1 YONGE UNIVERSTI,,,line-wide,rule,1
+OLD MILL STATION - APP,Old Mill,,station,alias,1
+BROADVIEW TO CHESTER S,Broadview,Chester,between stations,alias,1
+KENNEDY BD STATION - A,Kennedy,,station,alias,1
+YORK UNIVERISTY STATIO,York University,,station,fuzzy,1
+KEELE STATION ( LEAVIN,Keele,,station,alias,1
+FINCH WEST STATION TO,Finch West,,station,alias,1
+KIPLING STATION (PLAT,Kipling,,station,alias,1
+VMC STATION [PLATFORM,Vaughan Metropolitan Centre,,station,alias,1
+LINE 1 - YONGE UNIVERI,,,line-wide,rule,1
+BLOOR/DANFORTH - LINE,,,line-wide,rule,1
+RIDELLE AVE BRIDGE,,,unknown,unmatched,1
+ST GEORGE STAION - LE,St George,,station,alias,1
+YONGE BD STATION (APPR,Bloor-Yonge,,station,alias,1
+FINCH WEST STATION - Y,Finch West,,station,alias,1
+UNION (TO FINCH),Union,Finch,between stations,alias,1
+YORK UNIVERSITY TO FIN,York University,,station,alias,1
+WARDEN STATION (LEVING,Warden,,station,alias,1
+HARVEY AND DUNCAN SHOP,,,yard or facility,rule,1
+OPEN CUTS LINE 1,,,line-wide,rule,1
+ISLINGTON TO JANE STAT,Islington,Jane,between stations,alias,1
+HIGHWAY 407 TO PIONEER,Highway 407,,station,alias,1
+UNION LOOP EMERGENCY E,Union,,station,alias,1
+KIPLING TO BROADVIEW S,Kipling,Broadview,between stations,alias,1
+HIGH PARK,High Park,,station,alias,1
+COLLEGE STATION (APPRO,College,,station,alias,1
+UNION STATION TO SUMME,Union,,station,alias,1
+DAVISVILLE YARD (ENTER,Davisville,,yard or facility,rule,1
+FINCH PLAT 1,Finch,,station,alias,1
+ROSEDALE TO WELLESLEY,Rosedale,Wellesley,between stations,alias,1
+WARDEN ( APPROACHING),Warden,,station,alias,1
+YONGE UNIVERSITY/BD LI,,,line-wide,rule,1
+BATHURST STATION DEPAR,Bathurst,,station,alias,1
+UNION STATION - TOWARD,Union,,station,alias,1
+EGLINTON STATION - ST,Eglinton,,station,alias,1
+ENTERING VICTORIA PARK,Victoria Park,,station,alias,1
+UNION STATION FROM KIN,Union,,station,alias,1
+OSSINGTON STATION TO I,Ossington,,station,alias,1
+ST ANDREW STATION (ENT,St Andrew,,station,alias,1
+RUNNYMEDE STATION (CUS,Runnymede,,station,alias,1
+YORKDALE S/O TO S/O CL,Yorkdale,,station,alias,1
+N/O ST GEORGE TO N/O L,St George,,station,alias,1
+CHRISTIE STATION TO HI,Christie,,station,alias,1
+VMC STATION -  PLATFOR,Vaughan Metropolitan Centre,,station,alias,1
+KENNEDY STATION - BUS,Kennedy,,station,alias,1
+BLOOR-YONGE STATION,Bloor-Yonge,,station,alias,1
+W/END OSSINGTON TO W/O,Ossington,,station,alias,1
+SUBWAY CLOSURE: OSSING,,,line-wide,rule,1
+SHEPPARD STATION ( LIN,Sheppard-Yonge,,station,alias,1
+YONGE BD - SPADINA,Bloor-Yonge,Spadina,between stations,alias,1
+FINCH,Finch,,station,alias,1
+KEELE STATION ( APPROC,Keele,,station,alias,1
+UNION AND HIGHWAY 407,Union,Highway 407,between stations,alias,1
+ROSEDALE STATION - BUS,Rosedale,,station,alias,1
+OUTSIDE SPADINA STATIO,Spadina,,station,alias,1
+FINCH STATION #2,Finch,,station,alias,1
+KEELE STATION TO OSSIN,Keele,,station,alias,1
+GLEN CEDAR EMERGENCY A,,,unknown,unmatched,1
+RUSSELL HILL EE,,,unknown,unmatched,1
+OLD MILL STATION - LEA,Old Mill,,station,alias,1
+HIGHWAY 407 STATION AN,Highway 407,,station,alias,1
+VAUGHAN MC TO FINCH WE,Vaughan Metropolitan Centre,Finch,between stations,alias,1
+85 SPADINA ROAD,Spadina,,station,alias,1
+MUSEUM STATION ST. GEO,Museum,,station,alias,1
+ST REGIS EE,,,unknown,unmatched,1
+FINCH STATION-PLAT 1,Finch,,station,alias,1
+WARDEN STATION (EXITIN,Warden,,station,alias,1
+MILL STREET EE,,,unknown,unmatched,1
+LINE2 - BLOOR-DANFORTH,,,unknown,unmatched,1
+GLENCAIRN (LEAVING),Glencairn,,station,alias,1
+LESLIE TO DON MILLS ST,Leslie,Don Mills,between stations,alias,1
+TRANSIT CONTROL COMMIS,,,yard or facility,rule,1
+ST. GEORGE STATION/ SH,St George,,station,alias,1
+ST CLAIR STATION (APPO,St Clair,,station,alias,1
+FINCH STATION - PLT 2,Finch,,station,alias,1
+TMU STATION W/S,TMU (Dundas),,station,alias,1
+LANSDOWNE TO OSSINGTON,Lansdowne,Ossington,between stations,alias,1
+APPROACHING ST CLAIR W,St Clair,,station,alias,1
+HIGH PARK AND KEELE ST,High Park,Keele,between stations,alias,1
+WILSON SUBWAY DIVISON,Wilson,,station,alias,1
+DUNDAS WEST STATION(AP,Dundas West,,station,alias,1
+YONGE BD STATION - BOO,Bloor-Yonge,,station,alias,1
+VMC STATION (PLAT 2),Vaughan Metropolitan Centre,,station,alias,1
+KEELE STATION AND HIGH,Keele,,station,alias,1
+BATHURST STN,Bathurst,,station,alias,1
+OSSINGTON STATION - EN,Ossington,,station,alias,1
+UNION STATION (YONGE),Union,,station,alias,1
+LINE 2- BD SUBWAY LINE,,,line-wide,rule,1
+HIGH PARK STATION - AP,High Park,,station,alias,1
+OPEN CUTS,,,unknown,unmatched,1
+OSSINGTON STATION (ENT,Ossington,,station,alias,1
+GREENWOOD YARD -  43 T,Greenwood,,yard or facility,rule,1
+UNION STATION ( YONGE,Union,,station,alias,1
+KENNEDY BD STATION  PL,Kennedy,,station,alias,1
+DAVISVILLE SYO BUILD U,Davisville,,station,alias,1
+UNION AND MOUNT DENNIS,Union,,station,alias,1
+JANE TO ST GEORGE,Jane,St George,between stations,alias,1
+UNION STATION UNIVERSI,Union,,station,alias,1
+FINCH PLATFORM 1,Finch,,station,alias,1
+KIPLING STATION  - LEA,Kipling,,station,alias,1
+BLOOR TO ST CLAIR STAT,Bloor-Yonge,St Clair,between stations,alias,1
+YORK MILLS TO ST. CLAI,York Mills,,station,alias,1
+YONGE UNIVESITY,,,unknown,unmatched,1
+SHEPPARD YONGE LINE 4,Sheppard-Yonge,,station,alias,1
+PIONEER VILLAGE,Pioneer Village,,station,alias,1
+SHEPPARD STATION TO NO,Sheppard-Yonge,,station,alias,1
+SYSTEM  WIDE,,,line-wide,rule,1
+MILL EMERGENCY EXIT,,,unknown,unmatched,1
+UNION TO WILSON,Union,Wilson,between stations,alias,1
+BLOOR STATION TO ST. C,Bloor-Yonge,,station,alias,1
+YONGE UNIVRESITY/BLOOR,Bloor-Yonge,,station,alias,1
+CHESTER STATION TO ST.,Chester,,station,alias,1
+ST CLAIR TO COLLGE,St Clair,,station,alias,1
+COLLEGE STATION (LEAVI,College,,station,alias,1
+ST GEORGE STATION - BE,St George,,station,alias,1
+KENNEDY BD STATION & K,Kennedy,,station,alias,1
+KENNEDY BD STATION-  P,Kennedy,,station,alias,1
+BLOOR STATION-DUNDAS S,Bloor-Yonge,TMU (Dundas),between stations,alias,1
+KENNEDY TO MC COWAN ST,Kennedy,,station,alias,1
+ST CLAIR - ROSEDALE,St Clair,Rosedale,between stations,alias,1
+WOODBINE - KENNEDY,Woodbine,Kennedy,between stations,alias,1
+SCARBOROUGH RT,Scarborough Centre,,station,fuzzy,1
+ST.GEORGE STATION YU,St George,,station,alias,1
+KENNEDY BD TO KIPLING,Kennedy,Kipling,between stations,alias,1
+HILLCREST - SUBWAY OPE,,,line-wide,rule,1
+DAVISVILLE TO ROSEDALE,Davisville,Rosedale,between stations,alias,1
+SHEPPARD - YONGE (LINE,Sheppard-Yonge,,station,alias,1
+SRT YARD,,,yard or facility,rule,1
+WOODBINE STATION LEAVI,Woodbine,,station,alias,1
+BLOOR STATION TO YORK,Bloor-Yonge,,station,alias,1
+UNION TO ST. ANDREW,Union,St Andrew,between stations,alias,1
+MUSEUM STATION TO FINC,Museum,,station,alias,1
+SHEPPARD YONGE -DON MI,Sheppard-Yonge,,station,alias,1
