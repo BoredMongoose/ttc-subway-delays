@@ -7,8 +7,8 @@ The TTC logs every incident on the subway: when, where, a cause code, and how ma
 <!-- business:start -->
 ## Business impact
 
-- **Question:** What's really causing Toronto's subway delays, and where should the TTC act?
-- **Key finding:** Delay minutes rose 85% since 2014, and three-quarters of the increase comes from incidents involving passengers and the public. Train breakdowns fell 12%, and Line 1's new signal system halved its signal delays.
+- **Question:** Where should the TTC focus to cut subway delays?
+- **Key finding:** On passenger and public incidents, not the trains. Delay minutes rose 85% since 2014 and these incidents caused three-quarters of the increase, while train breakdowns fell 12%. Line 1's new signal system also halved its signal delays.
 - **Recommendation:** Spend where the minutes went: faster response to passenger, security and track-level incidents (57% of delay minutes) and Line 1's door cameras. Line 1's results support upgrading Line 2's signals.
 - **Estimated impact:** **76%** of the increase in delays comes from passengers and the public, not the trains. Passenger and public incidents now cost about 40,600 delay minutes a year, so every 10% cut in them saves about 4,000.
 - **Case study:** [boredmongoose.github.io/projects/ttc.html](https://boredmongoose.github.io/projects/ttc.html)
